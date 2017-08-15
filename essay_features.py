@@ -127,6 +127,9 @@ def inf_summary(text):
     to call funtions one by one. 
     :param text: the raw text 
     :return: a list contains all the information mentioned above.
+    Examples:
+            s = "This is a text. This is a text."
+            print (inf_summary(s))
     '''
     values =  [
             text_grammar_check(text),
@@ -138,5 +141,3 @@ def inf_summary(text):
         ]
     return values
 
-s = "This is a text. This is a text."
-print (inf_summary(s))
