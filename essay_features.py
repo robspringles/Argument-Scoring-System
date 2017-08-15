@@ -41,3 +41,17 @@ def sent_grammar_check(tool, s):
     return len(matches)
 
 
+# function 2: spelling error number checking
+# This function may be updated will nltk. 
+def get_words(text):
+    ''' Get all the words in a text 
+    :param text: raw text
+    :return: all the words in the text
+    Example: 
+            print (get_words('I amd the .. . /3'))
+    '''
+    return re.findall(r'\w+', text.lower())
+
+# Get all the words in en-spelling.txt which contains most words in English dictionary
+WORDS = Counter(get_words(open('en-spelling.txt').read()))
+
