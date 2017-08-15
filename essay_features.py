@@ -82,3 +82,14 @@ def get_word_number(text):
     '''
     return len(re.findall(r'\w+', text))
 
+# Function 4: Number of sentence
+def get_sent_num(text):
+    '''
+    Get the number of sentences in the text
+    :param text: the raw text
+    :return: the number of sentences 
+    Example: 
+            print (get_sent_num("This is number one. This ise number2, and number 2."))
+    '''
+    return len(nltk.sent_tokenize(text))
+
