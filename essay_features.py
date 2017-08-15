@@ -42,7 +42,7 @@ def sent_grammar_check(tool, s):
 
 
 # function 2: spelling error number checking
-# This function may be updated will nltk. 
+# This function may be updated will nltk.
 def get_words(text):
     ''' Get all the words in a text 
     :param text: raw text
@@ -55,3 +55,17 @@ def get_words(text):
 # Get all the words in en-spelling.txt which contains most words in English dictionary
 WORDS = Counter(get_words(open('en-spelling.txt').read()))
 
+def get_spelling_error_number(text):
+    '''
+    Get the number of errors in the text. The spelling error defined here is the words not in en-spelling.txt
+    :param text: the raw text
+    :return: the number of spelling errors. 
+    Example:
+            print (get_spelling_error_number("he kk uu in jsas ssssss"))
+    '''
+    text_words = get_words(text)
+    error_numer = 0
+    for w in text_words:
+        if w not in WORDS:
+            error_numer += 1
+    return error_numer
