@@ -1,5 +1,8 @@
+# -*- coding: utf-8 -*-
+
 import essay_features
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn import datasets, linear_model
+from sklearn.metrics import mean_squared_error, r2_score
 
-s = "he is the first function. "
-
-print(essay_features.get_word_number(s))
