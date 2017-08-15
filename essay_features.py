@@ -5,16 +5,18 @@
 This script includes several functions, including:
     1. grammar error number check
     2. Spelling error number check 
-    3. Number of sentence 
-    4. Average length of sentences 
-    5. Word Count
+    3. Word Count
+    4. Number of sentence 
+    5. Average length of sentences 
     6. Paragraph number 
 '''
 
 import re
 from collections import Counter
-
 import language_check
+import nltk
+import math
+import re
 
 # function 1: grammar error number checking
 def text_grammar_check(text):
@@ -41,8 +43,7 @@ def sent_grammar_check(tool, s):
     return len(matches)
 
 
-# function 2: spelling error number checking
-# This function may be updated will nltk.
+# function 2: spelling error number checking. This function may be updated will nltk.
 def get_words(text):
     ''' Get all the words in a text 
     :param text: raw text
@@ -69,3 +70,15 @@ def get_spelling_error_number(text):
         if w not in WORDS:
             error_numer += 1
     return error_numer
+
+# Function 3: word count
+def get_word_number(text):
+    '''
+    Get the number of words in the raw text 
+    :param text: the raw text
+    :return: the number of words
+    Example: 
+           print (get_word_number("this is a number 's ")) 
+    '''
+    return len(re.findall(r'\w+', text))
+
