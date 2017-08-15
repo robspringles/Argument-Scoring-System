@@ -40,8 +40,10 @@ def sent_grammar_check(tool, s):
     :return: the number of grammar errors in this sentence 
     '''
     matches = tool.check(s)
-    return len(matches)
 
+    return len(matches)
+s = "This is a text"
+print (text_grammar_check(s))
 
 # function 2: spelling error number checking. This function may be updated will nltk.
 def get_words(text):
@@ -119,3 +121,23 @@ def get_para_number(text):
     paraList[:] = [element for element in paraList if element != ""]
     return len(paraList)
 
+# summarize all the return value of the functions above.
+def inf_summary(text):
+    '''
+    Summary the function values of the functions above, so that don't need 
+    to call funtions one by one. 
+    :param text: the raw text 
+    :return: a list contains all the information mentioned above.
+    '''
+    values =  [
+            text_grammar_check(text),
+            get_spelling_error_number(text),
+            get_word_number(text),
+            get_sent_number(text),
+            get_average_sent_length(text),
+            get_para_number(text)
+        ]
+    return values
+
+# s = "This is a text. This is a text."
+# print (inf_summary(s))
