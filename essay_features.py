@@ -83,13 +83,13 @@ def get_word_number(text):
     return len(re.findall(r'\w+', text))
 
 # Function 4: Number of sentence
-def get_sent_num(text):
+def get_sent_number(text):
     '''
     Get the number of sentences in the text
     :param text: the raw text
     :return: the number of sentences 
     Example: 
-            print (get_sent_num("This is number one. This ise number2, and number 2."))
+            print (get_sent_number("This is number one. This ise number2, and number 2."))
     '''
     return len(nltk.sent_tokenize(text))
 
@@ -104,4 +104,18 @@ def get_average_sent_length(text):
     '''
     sents = nltk.sent_tokenize(text)
     return get_word_number(text)/len(sents)
+
+# Function 6: Paragraph number
+def get_para_number(text):
+    '''
+    Get the number of paragraphs.
+    :param text: the raw text.
+    :return: the number of paragraphs.
+    Example: 
+            s = "This is first. this is first. \n This is sencond. \n\n this is third." \
+            print (get_para_number(s))
+    '''
+    paraList = text.splitlines()
+    paraList[:] = [element for element in paraList if element != ""]
+    return len(paraList)
 
