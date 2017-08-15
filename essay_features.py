@@ -93,3 +93,15 @@ def get_sent_num(text):
     '''
     return len(nltk.sent_tokenize(text))
 
+# Function 5: Average length of sentences
+def get_average_sent_length(text):
+    '''
+    Get the average sentence length of the given text.
+    :param text: the raw text 
+    :return: the average length of the sentences
+    Example: 
+            print (get_average_sent_length("this is. This is two. Three."))
+    '''
+    sents = nltk.sent_tokenize(text)
+    return get_word_number(text)/len(sents)
+
