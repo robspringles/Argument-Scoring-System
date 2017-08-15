@@ -42,8 +42,7 @@ def sent_grammar_check(tool, s):
     matches = tool.check(s)
 
     return len(matches)
-s = "This is a text"
-print (text_grammar_check(s))
+
 
 # function 2: spelling error number checking. This function may be updated will nltk.
 def get_words(text):
@@ -139,5 +138,5 @@ def inf_summary(text):
         ]
     return values
 
-# s = "This is a text. This is a text."
-# print (inf_summary(s))
+s = "This is a text. This is a text."
+print (inf_summary(s))
