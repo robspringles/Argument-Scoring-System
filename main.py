@@ -12,8 +12,9 @@ from essay_features import inf_summary
 # print (inf_summary(text))
 
 # load the data, training set and test set
-training_set = pd.read_csv
+training_set = pd.read_csv("data/comments.csv")
 
+print (training_set.summary)
 # create and train a model
 
 # plot the output
