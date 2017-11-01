@@ -1,0 +1,506 @@
+<document source="essay218">
+  <sentences>
+    <sentence end="16" id="s.0" start="0">
+      <word end="6" id="s.0.w.0" start="0">School</word>
+      <word end="15" id="s.0.w.1" start="7">memories</word>
+    </sentence>
+    <sentence end="18" id="s.1" start="17"/>
+    <sentence end="200" id="s.2" start="19">
+      <word end="27" id="s.2.w.0" start="19">Everyone</word>
+      <word end="31" id="s.2.w.1" start="28">has</word>
+      <word end="37" id="s.2.w.2" start="32">happy</word>
+      <word end="45" id="s.2.w.3" start="38">moments</word>
+      <word end="52" id="s.2.w.4" start="46">during</word>
+      <word end="58" id="s.2.w.5" start="53">their</word>
+      <word end="64" id="s.2.w.6" start="59">life.</word>
+      <word end="70" id="s.2.w.7" start="65">These</word>
+      <word end="76" id="s.2.w.8" start="71">happy</word>
+      <word end="84" id="s.2.w.9" start="77">moments</word>
+      <word end="88" id="s.2.w.10" start="85">are</word>
+      <word end="93" id="s.2.w.11" start="89">both</word>
+      <word end="96" id="s.2.w.12" start="94">in</word>
+      <word end="102" id="s.2.w.13" start="97">their</word>
+      <word end="112" id="s.2.w.14" start="103">childhood</word>
+      <word end="116" id="s.2.w.15" start="113">and</word>
+      <word end="122" id="s.2.w.16" start="117">their</word>
+      <word end="133" id="s.2.w.17" start="123">adulthood.</word>
+      <word end="136" id="s.2.w.18" start="134">In</word>
+      <word end="139" id="s.2.w.19" start="137">my</word>
+      <word end="148" id="s.2.w.20" start="140">opinion,</word>
+      <word end="158" id="s.2.w.21" start="149">childhood</word>
+      <word end="161" id="s.2.w.22" start="159">is</word>
+      <word end="165" id="s.2.w.23" start="162">the</word>
+      <word end="174" id="s.2.w.24" start="166">happiest</word>
+      <word end="179" id="s.2.w.25" start="175">time</word>
+      <word end="182" id="s.2.w.26" start="180">of</word>
+      <word end="184" id="s.2.w.27" start="183">a</word>
+      <word end="193" id="s.2.w.28" start="185">person's</word>
+      <word end="199" id="s.2.w.29" start="194">life.</word>
+    </sentence>
+    <sentence end="846" id="s.3" start="201">
+      <word end="207" id="s.3.w.0" start="201">First,</word>
+      <word end="210" id="s.3.w.1" start="208">in</word>
+      <word end="220" id="s.3.w.2" start="211">childhood</word>
+      <word end="225" id="s.3.w.3" start="221">most</word>
+      <word end="232" id="s.3.w.4" start="226">people</word>
+      <word end="236" id="s.3.w.5" start="233">are</word>
+      <word end="244" id="s.3.w.6" start="237">happier</word>
+      <word end="249" id="s.3.w.7" start="245">than</word>
+      <word end="252" id="s.3.w.8" start="250">in</word>
+      <word end="263" id="s.3.w.9" start="253">adulthood.</word>
+      <word end="268" id="s.3.w.10" start="264">They</word>
+      <word end="271" id="s.3.w.11" start="269">do</word>
+      <word end="275" id="s.3.w.12" start="272">not</word>
+      <word end="280" id="s.3.w.13" start="276">have</word>
+      <word end="283" id="s.3.w.14" start="281">to</word>
+      <word end="289" id="s.3.w.15" start="284">worry</word>
+      <word end="295" id="s.3.w.16" start="290">about</word>
+      <word end="302" id="s.3.w.17" start="296">bills,</word>
+      <word end="308" id="s.3.w.18" start="303">jobs,</word>
+      <word end="312" id="s.3.w.19" start="309">how</word>
+      <word end="318" id="s.3.w.20" start="313">would</word>
+      <word end="324" id="s.3.w.21" start="319">their</word>
+      <word end="329" id="s.3.w.22" start="325">life</word>
+      <word end="332" id="s.3.w.23" start="330">be</word>
+      <word end="335" id="s.3.w.24" start="333">in</word>
+      <word end="339" id="s.3.w.25" start="336">the</word>
+      <word end="347" id="s.3.w.26" start="340">future.</word>
+      <word end="352" id="s.3.w.27" start="348">They</word>
+      <word end="357" id="s.3.w.28" start="353">just</word>
+      <word end="363" id="s.3.w.29" start="358">worry</word>
+      <word end="369" id="s.3.w.30" start="364">about</word>
+      <word end="373" id="s.3.w.31" start="370">two</word>
+      <word end="381" id="s.3.w.32" start="374">things:</word>
+      <word end="384" id="s.3.w.33" start="382">to</word>
+      <word end="389" id="s.3.w.34" start="385">have</word>
+      <word end="394" id="s.3.w.35" start="390">fun,</word>
+      <word end="400" id="s.3.w.36" start="395">learn</word>
+      <word end="404" id="s.3.w.37" start="401">and</word>
+      <word end="407" id="s.3.w.38" start="405">be</word>
+      <word end="414" id="s.3.w.39" start="408">happy.</word>
+      <word end="416" id="s.3.w.40" start="415">A</word>
+      <word end="424" id="s.3.w.41" start="417">child's</word>
+      <word end="430" id="s.3.w.42" start="425">daily</word>
+      <word end="435" id="s.3.w.43" start="431">life</word>
+      <word end="438" id="s.3.w.44" start="436">is</word>
+      <word end="446" id="s.3.w.45" start="439">school,</word>
+      <word end="454" id="s.3.w.46" start="447">playing</word>
+      <word end="458" id="s.3.w.47" start="455">and</word>
+      <word end="468" id="s.3.w.48" start="459">sleeping.</word>
+      <word end="472" id="s.3.w.49" start="469">For</word>
+      <word end="481" id="s.3.w.50" start="473">example,</word>
+      <word end="486" id="s.3.w.51" start="482">when</word>
+      <word end="488" id="s.3.w.52" start="487">I</word>
+      <word end="492" id="s.3.w.53" start="489">was</word>
+      <word end="498" id="s.3.w.54" start="493">young</word>
+      <word end="500" id="s.3.w.55" start="499">I</word>
+      <word end="505" id="s.3.w.56" start="501">just</word>
+      <word end="510" id="s.3.w.57" start="506">came</word>
+      <word end="515" id="s.3.w.58" start="511">home</word>
+      <word end="520" id="s.3.w.59" start="516">from</word>
+      <word end="527" id="s.3.w.60" start="521">school</word>
+      <word end="531" id="s.3.w.61" start="528">and</word>
+      <word end="536" id="s.3.w.62" start="532">then</word>
+      <word end="538" id="s.3.w.63" start="537">I</word>
+      <word end="544" id="s.3.w.64" start="539">would</word>
+      <word end="549" id="s.3.w.65" start="545">took</word>
+      <word end="552" id="s.3.w.66" start="550">my</word>
+      <word end="557" id="s.3.w.67" start="553">bike</word>
+      <word end="560" id="s.3.w.68" start="558">or</word>
+      <word end="567" id="s.3.w.69" start="561">soccer</word>
+      <word end="572" id="s.3.w.70" start="568">ball</word>
+      <word end="576" id="s.3.w.71" start="573">and</word>
+      <word end="579" id="s.3.w.72" start="577">go</word>
+      <word end="583" id="s.3.w.73" start="580">out</word>
+      <word end="587" id="s.3.w.74" start="584">and</word>
+      <word end="592" id="s.3.w.75" start="588">play</word>
+      <word end="597" id="s.3.w.76" start="593">with</word>
+      <word end="600" id="s.3.w.77" start="598">my</word>
+      <word end="608" id="s.3.w.78" start="601">friends</word>
+      <word end="611" id="s.3.w.79" start="609">in</word>
+      <word end="614" id="s.3.w.80" start="612">my</word>
+      <word end="628" id="s.3.w.81" start="615">neighborhood.</word>
+      <word end="638" id="s.3.w.82" start="629">Moreover,</word>
+      <word end="640" id="s.3.w.83" start="639">I</word>
+      <word end="644" id="s.3.w.84" start="641">did</word>
+      <word end="648" id="s.3.w.85" start="645">not</word>
+      <word end="653" id="s.3.w.86" start="649">have</word>
+      <word end="656" id="s.3.w.87" start="654">to</word>
+      <word end="662" id="s.3.w.88" start="657">worry</word>
+      <word end="668" id="s.3.w.89" start="663">about</word>
+      <word end="674" id="s.3.w.90" start="669">costs</word>
+      <word end="678" id="s.3.w.91" start="675">and</word>
+      <word end="684" id="s.3.w.92" start="679">other</word>
+      <word end="692" id="s.3.w.93" start="685">things,</word>
+      <word end="694" id="s.3.w.94" start="693">I</word>
+      <word end="699" id="s.3.w.95" start="695">just</word>
+      <word end="703" id="s.3.w.96" start="700">had</word>
+      <word end="707" id="s.3.w.97" start="704">fun</word>
+      <word end="711" id="s.3.w.98" start="708">and</word>
+      <word end="720" id="s.3.w.99" start="712">learned.</word>
+      <word end="726" id="s.3.w.100" start="721">Also,</word>
+      <word end="733" id="s.3.w.101" start="727">people</word>
+      <word end="737" id="s.3.w.102" start="734">are</word>
+      <word end="742" id="s.3.w.103" start="738">most</word>
+      <word end="751" id="s.3.w.104" start="743">creative</word>
+      <word end="756" id="s.3.w.105" start="752">when</word>
+      <word end="761" id="s.3.w.106" start="757">they</word>
+      <word end="766" id="s.3.w.107" start="762">were</word>
+      <word end="776" id="s.3.w.108" start="767">children,</word>
+      <word end="785" id="s.3.w.109" start="777">children</word>
+      <word end="793" id="s.3.w.110" start="786">imagine</word>
+      <word end="797" id="s.3.w.111" start="794">new</word>
+      <word end="804" id="s.3.w.112" start="798">things</word>
+      <word end="808" id="s.3.w.113" start="805">and</word>
+      <word end="814" id="s.3.w.114" start="809">games</word>
+      <word end="819" id="s.3.w.115" start="815">just</word>
+      <word end="822" id="s.3.w.116" start="820">to</word>
+      <word end="827" id="s.3.w.117" start="823">have</word>
+      <word end="831" id="s.3.w.118" start="828">fun</word>
+      <word end="835" id="s.3.w.119" start="832">and</word>
+      <word end="838" id="s.3.w.120" start="836">be</word>
+      <word end="845" id="s.3.w.121" start="839">happy.</word>
+    </sentence>
+    <sentence end="1315" id="s.4" start="847">
+      <word end="854" id="s.4.w.0" start="847">Second,</word>
+      <word end="864" id="s.4.w.1" start="855">childhood</word>
+      <word end="867" id="s.4.w.2" start="865">is</word>
+      <word end="871" id="s.4.w.3" start="868">the</word>
+      <word end="878" id="s.4.w.4" start="872">period</word>
+      <word end="884" id="s.4.w.5" start="879">where</word>
+      <word end="891" id="s.4.w.6" start="885">people</word>
+      <word end="894" id="s.4.w.7" start="892">go</word>
+      <word end="897" id="s.4.w.8" start="895">to</word>
+      <word end="904" id="s.4.w.9" start="898">school</word>
+      <word end="908" id="s.4.w.10" start="905">and</word>
+      <word end="915" id="s.4.w.11" start="909">learn.</word>
+      <word end="926" id="s.4.w.12" start="916">Therefore,</word>
+      <word end="933" id="s.4.w.13" start="927">school</word>
+      <word end="942" id="s.4.w.14" start="934">memories</word>
+      <word end="946" id="s.4.w.15" start="943">are</word>
+      <word end="950" id="s.4.w.16" start="947">one</word>
+      <word end="953" id="s.4.w.17" start="951">of</word>
+      <word end="957" id="s.4.w.18" start="954">the</word>
+      <word end="962" id="s.4.w.19" start="958">best</word>
+      <word end="971" id="s.4.w.20" start="963">memories</word>
+      <word end="974" id="s.4.w.21" start="972">in</word>
+      <word end="976" id="s.4.w.22" start="975">a</word>
+      <word end="985" id="s.4.w.23" start="977">person's</word>
+      <word end="991" id="s.4.w.24" start="986">life.</word>
+      <word end="997" id="s.4.w.25" start="992">There</word>
+      <word end="1001" id="s.4.w.26" start="998">you</word>
+      <word end="1008" id="s.4.w.27" start="1002">learn,</word>
+      <word end="1011" id="s.4.w.28" start="1009">to</word>
+      <word end="1016" id="s.4.w.29" start="1012">find</word>
+      <word end="1021" id="s.4.w.30" start="1017">your</word>
+      <word end="1027" id="s.4.w.31" start="1022">first</word>
+      <word end="1033" id="s.4.w.32" start="1028">love,</word>
+      <word end="1036" id="s.4.w.33" start="1034">to</word>
+      <word end="1041" id="s.4.w.34" start="1037">make</word>
+      <word end="1045" id="s.4.w.35" start="1042">new</word>
+      <word end="1058" id="s.4.w.36" start="1046">long-lasting</word>
+      <word end="1070" id="s.4.w.37" start="1059">friendships</word>
+      <word end="1074" id="s.4.w.38" start="1071">and</word>
+      <word end="1084" id="s.4.w.39" start="1075">of-course</word>
+      <word end="1088" id="s.4.w.40" start="1085">you</word>
+      <word end="1093" id="s.4.w.41" start="1089">will</word>
+      <word end="1098" id="s.4.w.42" start="1094">have</word>
+      <word end="1100" id="s.4.w.43" start="1099">a</word>
+      <word end="1104" id="s.4.w.44" start="1101">lot</word>
+      <word end="1107" id="s.4.w.45" start="1105">of</word>
+      <word end="1112" id="s.4.w.46" start="1108">fun.</word>
+      <word end="1116" id="s.4.w.47" start="1113">For</word>
+      <word end="1125" id="s.4.w.48" start="1117">example,</word>
+      <word end="1128" id="s.4.w.49" start="1126">my</word>
+      <word end="1137" id="s.4.w.50" start="1129">father's</word>
+      <word end="1142" id="s.4.w.51" start="1138">best</word>
+      <word end="1150" id="s.4.w.52" start="1143">moments</word>
+      <word end="1153" id="s.4.w.53" start="1151">in</word>
+      <word end="1157" id="s.4.w.54" start="1154">his</word>
+      <word end="1162" id="s.4.w.55" start="1158">life</word>
+      <word end="1166" id="s.4.w.56" start="1163">are</word>
+      <word end="1169" id="s.4.w.57" start="1167">in</word>
+      <word end="1173" id="s.4.w.58" start="1170">his</word>
+      <word end="1180" id="s.4.w.59" start="1174">school</word>
+      <word end="1187" id="s.4.w.60" start="1181">years.</word>
+      <word end="1197" id="s.4.w.61" start="1188">Moreover,</word>
+      <word end="1200" id="s.4.w.62" start="1198">he</word>
+      <word end="1203" id="s.4.w.63" start="1201">is</word>
+      <word end="1209" id="s.4.w.64" start="1204">still</word>
+      <word end="1218" id="s.4.w.65" start="1210">in-touch</word>
+      <word end="1223" id="s.4.w.66" start="1219">with</word>
+      <word end="1228" id="s.4.w.67" start="1224">some</word>
+      <word end="1231" id="s.4.w.68" start="1229">of</word>
+      <word end="1235" id="s.4.w.69" start="1232">his</word>
+      <word end="1246" id="s.4.w.70" start="1236">classmates</word>
+      <word end="1250" id="s.4.w.71" start="1247">and</word>
+      <word end="1260" id="s.4.w.72" start="1251">sometimes</word>
+      <word end="1265" id="s.4.w.73" start="1261">they</word>
+      <word end="1269" id="s.4.w.74" start="1266">get</word>
+      <word end="1278" id="s.4.w.75" start="1270">together</word>
+      <word end="1282" id="s.4.w.76" start="1279">and</word>
+      <word end="1288" id="s.4.w.77" start="1283">share</word>
+      <word end="1294" id="s.4.w.78" start="1289">their</word>
+      <word end="1304" id="s.4.w.79" start="1295">childhood</word>
+      <word end="1314" id="s.4.w.80" start="1305">memories.</word>
+    </sentence>
+    <sentence end="1491" id="s.5" start="1316">
+      <word end="1318" id="s.5.w.0" start="1316">In</word>
+      <word end="1324" id="s.5.w.1" start="1319">other</word>
+      <word end="1331" id="s.5.w.2" start="1325">words,</word>
+      <word end="1341" id="s.5.w.3" start="1332">childhood</word>
+      <word end="1345" id="s.5.w.4" start="1342">is,</word>
+      <word end="1353" id="s.5.w.5" start="1346">indeed,</word>
+      <word end="1357" id="s.5.w.6" start="1354">the</word>
+      <word end="1362" id="s.5.w.7" start="1358">most</word>
+      <word end="1371" id="s.5.w.8" start="1363">happiest</word>
+      <word end="1379" id="s.5.w.9" start="1372">moments</word>
+      <word end="1382" id="s.5.w.10" start="1380">in</word>
+      <word end="1384" id="s.5.w.11" start="1383">a</word>
+      <word end="1393" id="s.5.w.12" start="1385">person's</word>
+      <word end="1399" id="s.5.w.13" start="1394">life.</word>
+      <word end="1405" id="s.5.w.14" start="1400">There</word>
+      <word end="1408" id="s.5.w.15" start="1406">is</word>
+      <word end="1413" id="s.5.w.16" start="1409">only</word>
+      <word end="1417" id="s.5.w.17" start="1414">one</word>
+      <word end="1422" id="s.5.w.18" start="1418">life</word>
+      <word end="1426" id="s.5.w.19" start="1423">and</word>
+      <word end="1430" id="s.5.w.20" start="1427">one</word>
+      <word end="1440" id="s.5.w.21" start="1431">childhood</word>
+      <word end="1444" id="s.5.w.22" start="1441">and</word>
+      <word end="1451" id="s.5.w.23" start="1445">people</word>
+      <word end="1458" id="s.5.w.24" start="1452">should</word>
+      <word end="1463" id="s.5.w.25" start="1459">live</word>
+      <word end="1469" id="s.5.w.26" start="1464">their</word>
+      <word end="1479" id="s.5.w.27" start="1470">childhood</word>
+      <word end="1491" id="s.5.w.28" start="1480">thoroughly.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28 s.2.w.29" repr="childhood is the happiest time of a person's life" spans="147|196" MajorClaim=""/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="in childhood most people are happier than in adulthood" spans="205|259" Claim="" Stance="For" link.supports="ann4 ann5 ann2 ann7"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann4" words="s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26" repr="They do not have to worry about bills, jobs, how would their life be in the future" spans="261|343" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann5" words="s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39" repr="They just worry about two things: to have fun, learn and be happy" spans="345|410" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="A child's daily life is school, playing and sleeping" spans="412|464" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann7" words="s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81" repr="when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood" spans="479|624" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann2" words="s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99" repr="I did not have to worry about costs and other things, I just had fun and learned" spans="636|716" Premise=""/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann8" words="s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106 s.3.w.107 s.3.w.108" repr="people are most creative when they were children" spans="724|772" Claim="" Stance="For" link.supports="ann9"/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann9" words="s.3.w.108 s.3.w.109 s.3.w.110 s.3.w.111 s.3.w.112 s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121" repr="children imagine new things and games just to have fun and be happy" spans="774|841" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="childhood is the period where people go to school and learn" spans="851|910" Premise=""/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann11" words="s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23" repr="school memories are one of the best memories in a person's life" spans="923|986" Claim="" Stance="For" link.supports="ann10 ann12"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann12" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun" spans="988|1107" Premise="" link.supports="ann14 ann13"/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann13" words="s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60" repr="my father's best moments in his life are in his school years" spans="1122|1182" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann14" words="s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories" spans="1194|1309" Premise=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+    <annotation id="ann15" words="s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12" repr="childhood is, indeed, the most happiest moments in a person's life" spans="1327|1393" MajorClaim=""/>
+  </annotations>
+</document>

@@ -1,0 +1,574 @@
+<document source="essay080">
+  <sentences>
+    <sentence end="24" id="s.0" start="0">
+      <word end="7" id="s.0.w.0" start="0">Keeping</word>
+      <word end="15" id="s.0.w.1" start="8">animals</word>
+      <word end="18" id="s.0.w.2" start="16">in</word>
+      <word end="23" id="s.0.w.3" start="19">zoos</word>
+    </sentence>
+    <sentence end="26" id="s.1" start="25"/>
+    <sentence end="331" id="s.2" start="27">
+      <word end="32" id="s.2.w.0" start="27">Since</word>
+      <word end="36" id="s.2.w.1" start="33">the</word>
+      <word end="41" id="s.2.w.2" start="37">time</word>
+      <word end="46" id="s.2.w.3" start="42">they</word>
+      <word end="51" id="s.2.w.4" start="47">were</word>
+      <word end="62" id="s.2.w.5" start="52">introduced</word>
+      <word end="67" id="s.2.w.6" start="63">zoos</word>
+      <word end="72" id="s.2.w.7" start="68">have</word>
+      <word end="77" id="s.2.w.8" start="73">both</word>
+      <word end="82" id="s.2.w.9" start="78">been</word>
+      <word end="92" id="s.2.w.10" start="83">supported</word>
+      <word end="96" id="s.2.w.11" start="93">and</word>
+      <word end="108" id="s.2.w.12" start="97">criticized.</word>
+      <word end="113" id="s.2.w.13" start="109">Many</word>
+      <word end="121" id="s.2.w.14" start="114">believe</word>
+      <word end="126" id="s.2.w.15" start="122">that</word>
+      <word end="131" id="s.2.w.16" start="127">zoos</word>
+      <word end="137" id="s.2.w.17" start="132">could</word>
+      <word end="140" id="s.2.w.18" start="138">be</word>
+      <word end="145" id="s.2.w.19" start="141">very</word>
+      <word end="158" id="s.2.w.20" start="146">entertaining</word>
+      <word end="162" id="s.2.w.21" start="159">and</word>
+      <word end="175" id="s.2.w.22" start="163">ecologically</word>
+      <word end="186" id="s.2.w.23" start="176">important,</word>
+      <word end="195" id="s.2.w.24" start="187">whereas,</word>
+      <word end="202" id="s.2.w.25" start="196">others</word>
+      <word end="208" id="s.2.w.26" start="203">think</word>
+      <word end="213" id="s.2.w.27" start="209">that</word>
+      <word end="221" id="s.2.w.28" start="214">keeping</word>
+      <word end="229" id="s.2.w.29" start="222">animals</word>
+      <word end="232" id="s.2.w.30" start="230">in</word>
+      <word end="242" id="s.2.w.31" start="233">captivity</word>
+      <word end="245" id="s.2.w.32" start="243">is</word>
+      <word end="253" id="s.2.w.33" start="246">totally</word>
+      <word end="260" id="s.2.w.34" start="254">wrong.</word>
+      <word end="265" id="s.2.w.35" start="261">Both</word>
+      <word end="271" id="s.2.w.36" start="266">sides</word>
+      <word end="276" id="s.2.w.37" start="272">will</word>
+      <word end="279" id="s.2.w.38" start="277">be</word>
+      <word end="289" id="s.2.w.39" start="280">discussed</word>
+      <word end="296" id="s.2.w.40" start="290">before</word>
+      <word end="298" id="s.2.w.41" start="297">a</word>
+      <word end="309" id="s.2.w.42" start="299">reasonable</word>
+      <word end="320" id="s.2.w.43" start="310">conclusion</word>
+      <word end="323" id="s.2.w.44" start="321">is</word>
+      <word end="330" id="s.2.w.45" start="324">drawn.</word>
+    </sentence>
+    <sentence end="972" id="s.3" start="332">
+      <word end="338" id="s.3.w.0" start="332">First,</word>
+      <word end="346" id="s.3.w.1" start="339">critics</word>
+      <word end="349" id="s.3.w.2" start="347">of</word>
+      <word end="357" id="s.3.w.3" start="350">zoology</word>
+      <word end="363" id="s.3.w.4" start="358">argue</word>
+      <word end="368" id="s.3.w.5" start="364">that</word>
+      <word end="376" id="s.3.w.6" start="369">keeping</word>
+      <word end="384" id="s.3.w.7" start="377">animals</word>
+      <word end="387" id="s.3.w.8" start="385">in</word>
+      <word end="397" id="s.3.w.9" start="388">captivity</word>
+      <word end="400" id="s.3.w.10" start="398">is</word>
+      <word end="406" id="s.3.w.11" start="401">wrong</word>
+      <word end="414" id="s.3.w.12" start="407">because</word>
+      <word end="422" id="s.3.w.13" start="415">animals</word>
+      <word end="429" id="s.3.w.14" start="423">should</word>
+      <word end="432" id="s.3.w.15" start="430">be</word>
+      <word end="443" id="s.3.w.16" start="433">considered</word>
+      <word end="453" id="s.3.w.17" start="444">non-human</word>
+      <word end="461" id="s.3.w.18" start="454">persons</word>
+      <word end="465" id="s.3.w.19" start="462">and</word>
+      <word end="470" id="s.3.w.20" start="466">they</word>
+      <word end="477" id="s.3.w.21" start="471">should</word>
+      <word end="482" id="s.3.w.22" start="478">have</word>
+      <word end="486" id="s.3.w.23" start="483">the</word>
+      <word end="492" id="s.3.w.24" start="487">right</word>
+      <word end="495" id="s.3.w.25" start="493">of</word>
+      <word end="502" id="s.3.w.26" start="496">having</word>
+      <word end="511" id="s.3.w.27" start="503">freedom.</word>
+      <word end="516" id="s.3.w.28" start="512">This</word>
+      <word end="519" id="s.3.w.29" start="517">is</word>
+      <word end="522" id="s.3.w.30" start="520">so</word>
+      <word end="529" id="s.3.w.31" start="523">unfair</word>
+      <word end="533" id="s.3.w.32" start="530">for</word>
+      <word end="538" id="s.3.w.33" start="534">them</word>
+      <word end="541" id="s.3.w.34" start="539">to</word>
+      <word end="544" id="s.3.w.35" start="542">be</word>
+      <word end="550" id="s.3.w.36" start="545">taken</word>
+      <word end="554" id="s.3.w.37" start="551">out</word>
+      <word end="557" id="s.3.w.38" start="555">of</word>
+      <word end="563" id="s.3.w.39" start="558">their</word>
+      <word end="571" id="s.3.w.40" start="564">natural</word>
+      <word end="583" id="s.3.w.41" start="572">environment</word>
+      <word end="587" id="s.3.w.42" start="584">and</word>
+      <word end="590" id="s.3.w.43" start="588">to</word>
+      <word end="593" id="s.3.w.44" start="591">be</word>
+      <word end="598" id="s.3.w.45" start="594">kept</word>
+      <word end="601" id="s.3.w.46" start="599">in</word>
+      <word end="607" id="s.3.w.47" start="602">small</word>
+      <word end="619" id="s.3.w.48" start="608">enclosures.</word>
+      <word end="624" id="s.3.w.49" start="620">That</word>
+      <word end="627" id="s.3.w.50" start="625">is</word>
+      <word end="636" id="s.3.w.51" start="628">because,</word>
+      <word end="641" id="s.3.w.52" start="637">many</word>
+      <word end="647" id="s.3.w.53" start="642">zoos,</word>
+      <word end="658" id="s.3.w.54" start="648">especially</word>
+      <word end="662" id="s.3.w.55" start="659">the</word>
+      <word end="667" id="s.3.w.56" start="663">ones</word>
+      <word end="670" id="s.3.w.57" start="668">in</word>
+      <word end="681" id="s.3.w.58" start="671">developing</word>
+      <word end="692" id="s.3.w.59" start="682">countries,</word>
+      <word end="695" id="s.3.w.60" start="693">do</word>
+      <word end="699" id="s.3.w.61" start="696">not</word>
+      <word end="707" id="s.3.w.62" start="700">provide</word>
+      <word end="712" id="s.3.w.63" start="708">care</word>
+      <word end="716" id="s.3.w.64" start="713">and</word>
+      <word end="726" id="s.3.w.65" start="717">attention</word>
+      <word end="732" id="s.3.w.66" start="727">which</word>
+      <word end="738" id="s.3.w.67" start="733">their</word>
+      <word end="746" id="s.3.w.68" start="739">animals</word>
+      <word end="755" id="s.3.w.69" start="747">require.</word>
+      <word end="759" id="s.3.w.70" start="756">The</word>
+      <word end="767" id="s.3.w.71" start="760">animals</word>
+      <word end="771" id="s.3.w.72" start="768">are</word>
+      <word end="777" id="s.3.w.73" start="772">often</word>
+      <word end="792" id="s.3.w.74" start="778">undernourished</word>
+      <word end="796" id="s.3.w.75" start="793">and</word>
+      <word end="799" id="s.3.w.76" start="797">do</word>
+      <word end="803" id="s.3.w.77" start="800">not</word>
+      <word end="808" id="s.3.w.78" start="804">have</word>
+      <word end="819" id="s.3.w.79" start="809">sufficient</word>
+      <word end="827" id="s.3.w.80" start="820">quality</word>
+      <word end="831" id="s.3.w.81" start="828">and</word>
+      <word end="840" id="s.3.w.82" start="832">quantity</word>
+      <word end="843" id="s.3.w.83" start="841">of</word>
+      <word end="851" id="s.3.w.84" start="844">medical</word>
+      <word end="862" id="s.3.w.85" start="852">treatment.</word>
+      <word end="865" id="s.3.w.86" start="863">In</word>
+      <word end="875" id="s.3.w.87" start="866">addition,</word>
+      <word end="885" id="s.3.w.88" start="876">sometimes</word>
+      <word end="893" id="s.3.w.89" start="886">animals</word>
+      <word end="898" id="s.3.w.90" start="894">from</word>
+      <word end="902" id="s.3.w.91" start="899">hot</word>
+      <word end="912" id="s.3.w.92" start="903">countries</word>
+      <word end="917" id="s.3.w.93" start="913">have</word>
+      <word end="920" id="s.3.w.94" start="918">to</word>
+      <word end="928" id="s.3.w.95" start="921">survive</word>
+      <word end="931" id="s.3.w.96" start="929">in</word>
+      <word end="935" id="s.3.w.97" start="932">the</word>
+      <word end="940" id="s.3.w.98" start="936">cold</word>
+      <word end="947" id="s.3.w.99" start="941">winter</word>
+      <word end="950" id="s.3.w.100" start="948">of</word>
+      <word end="960" id="s.3.w.101" start="951">somewhere</word>
+      <word end="963" id="s.3.w.102" start="961">in</word>
+      <word end="971" id="s.3.w.103" start="964">Europe.</word>
+    </sentence>
+    <sentence end="1743" id="s.4" start="973">
+      <word end="975" id="s.4.w.0" start="973">On</word>
+      <word end="979" id="s.4.w.1" start="976">the</word>
+      <word end="985" id="s.4.w.2" start="980">other</word>
+      <word end="991" id="s.4.w.3" start="986">hand,</word>
+      <word end="995" id="s.4.w.4" start="992">the</word>
+      <word end="1006" id="s.4.w.5" start="996">advocators</word>
+      <word end="1014" id="s.4.w.6" start="1007">believe</word>
+      <word end="1019" id="s.4.w.7" start="1015">that</word>
+      <word end="1024" id="s.4.w.8" start="1020">zoos</word>
+      <word end="1032" id="s.4.w.9" start="1025">provide</word>
+      <word end="1036" id="s.4.w.10" start="1033">the</word>
+      <word end="1043" id="s.4.w.11" start="1037">public</word>
+      <word end="1048" id="s.4.w.12" start="1044">with</word>
+      <word end="1053" id="s.4.w.13" start="1049">good</word>
+      <word end="1067" id="s.4.w.14" start="1054">entertainment</word>
+      <word end="1071" id="s.4.w.15" start="1068">and</word>
+      <word end="1076" id="s.4.w.16" start="1072">also</word>
+      <word end="1081" id="s.4.w.17" start="1077">help</word>
+      <word end="1084" id="s.4.w.18" start="1082">to</word>
+      <word end="1091" id="s.4.w.19" start="1085">ensure</word>
+      <word end="1095" id="s.4.w.20" start="1092">the</word>
+      <word end="1103" id="s.4.w.21" start="1096">balance</word>
+      <word end="1106" id="s.4.w.22" start="1104">of</word>
+      <word end="1110" id="s.4.w.23" start="1107">the</word>
+      <word end="1119" id="s.4.w.24" start="1111">ecology.</word>
+      <word end="1124" id="s.4.w.25" start="1120">Many</word>
+      <word end="1132" id="s.4.w.26" start="1125">people,</word>
+      <word end="1143" id="s.4.w.27" start="1133">especially</word>
+      <word end="1149" id="s.4.w.28" start="1144">young</word>
+      <word end="1158" id="s.4.w.29" start="1150">children</word>
+      <word end="1164" id="s.4.w.30" start="1159">enjoy</word>
+      <word end="1170" id="s.4.w.31" start="1165">going</word>
+      <word end="1173" id="s.4.w.32" start="1171">to</word>
+      <word end="1178" id="s.4.w.33" start="1174">zoos</word>
+      <word end="1182" id="s.4.w.34" start="1179">and</word>
+      <word end="1186" id="s.4.w.35" start="1183">see</word>
+      <word end="1192" id="s.4.w.36" start="1187">their</word>
+      <word end="1201" id="s.4.w.37" start="1193">favorite</word>
+      <word end="1210" id="s.4.w.38" start="1202">animals,</word>
+      <word end="1215" id="s.4.w.39" start="1211">cute</word>
+      <word end="1225" id="s.4.w.40" start="1216">baby-born</word>
+      <word end="1233" id="s.4.w.41" start="1226">animals</word>
+      <word end="1237" id="s.4.w.42" start="1234">and</word>
+      <word end="1241" id="s.4.w.43" start="1238">the</word>
+      <word end="1249" id="s.4.w.44" start="1242">animals</word>
+      <word end="1254" id="s.4.w.45" start="1250">that</word>
+      <word end="1258" id="s.4.w.46" start="1255">are</word>
+      <word end="1263" id="s.4.w.47" start="1259">from</word>
+      <word end="1267" id="s.4.w.48" start="1264">the</word>
+      <word end="1277" id="s.4.w.49" start="1268">different</word>
+      <word end="1285" id="s.4.w.50" start="1278">corners</word>
+      <word end="1288" id="s.4.w.51" start="1286">of</word>
+      <word end="1292" id="s.4.w.52" start="1289">the</word>
+      <word end="1299" id="s.4.w.53" start="1293">world.</word>
+      <word end="1304" id="s.4.w.54" start="1300">Zoos</word>
+      <word end="1312" id="s.4.w.55" start="1305">provide</word>
+      <word end="1324" id="s.4.w.56" start="1313">educational</word>
+      <word end="1336" id="s.4.w.57" start="1325">information</word>
+      <word end="1342" id="s.4.w.58" start="1337">about</word>
+      <word end="1346" id="s.4.w.59" start="1343">the</word>
+      <word end="1352" id="s.4.w.60" start="1347">lives</word>
+      <word end="1355" id="s.4.w.61" start="1353">of</word>
+      <word end="1365" id="s.4.w.62" start="1356">different</word>
+      <word end="1373" id="s.4.w.63" start="1366">animals</word>
+      <word end="1376" id="s.4.w.64" start="1374">to</word>
+      <word end="1380" id="s.4.w.65" start="1377">the</word>
+      <word end="1388" id="s.4.w.66" start="1381">public.</word>
+      <word end="1394" id="s.4.w.67" start="1389">Also,</word>
+      <word end="1399" id="s.4.w.68" start="1395">zoos</word>
+      <word end="1404" id="s.4.w.69" start="1400">play</word>
+      <word end="1407" id="s.4.w.70" start="1405">an</word>
+      <word end="1417" id="s.4.w.71" start="1408">important</word>
+      <word end="1422" id="s.4.w.72" start="1418">role</word>
+      <word end="1425" id="s.4.w.73" start="1423">in</word>
+      <word end="1435" id="s.4.w.74" start="1426">reserving</word>
+      <word end="1440" id="s.4.w.75" start="1436">many</word>
+      <word end="1447" id="s.4.w.76" start="1441">breeds</word>
+      <word end="1450" id="s.4.w.77" start="1448">of</word>
+      <word end="1457" id="s.4.w.78" start="1451">animal</word>
+      <word end="1461" id="s.4.w.79" start="1458">and</word>
+      <word end="1472" id="s.4.w.80" start="1462">preventing</word>
+      <word end="1477" id="s.4.w.81" start="1473">them</word>
+      <word end="1482" id="s.4.w.82" start="1478">from</word>
+      <word end="1488" id="s.4.w.83" start="1483">being</word>
+      <word end="1496" id="s.4.w.84" start="1489">missing</word>
+      <word end="1501" id="s.4.w.85" start="1497">from</word>
+      <word end="1507" id="s.4.w.86" start="1502">life.</word>
+      <word end="1512" id="s.4.w.87" start="1508">This</word>
+      <word end="1515" id="s.4.w.88" start="1513">is</word>
+      <word end="1519" id="s.4.w.89" start="1516">due</word>
+      <word end="1522" id="s.4.w.90" start="1520">to</word>
+      <word end="1526" id="s.4.w.91" start="1523">the</word>
+      <word end="1531" id="s.4.w.92" start="1527">fact</word>
+      <word end="1537" id="s.4.w.93" start="1532">that,</word>
+      <word end="1540" id="s.4.w.94" start="1538">in</word>
+      <word end="1546" id="s.4.w.95" start="1541">zoos,</word>
+      <word end="1554" id="s.4.w.96" start="1547">animals</word>
+      <word end="1558" id="s.4.w.97" start="1555">are</word>
+      <word end="1563" id="s.4.w.98" start="1559">kept</word>
+      <word end="1566" id="s.4.w.99" start="1564">in</word>
+      <word end="1577" id="s.4.w.100" start="1567">enclosures</word>
+      <word end="1583" id="s.4.w.101" start="1578">which</word>
+      <word end="1592" id="s.4.w.102" start="1584">simulate</word>
+      <word end="1598" id="s.4.w.103" start="1593">their</word>
+      <word end="1602" id="s.4.w.104" start="1599">own</word>
+      <word end="1611" id="s.4.w.105" start="1603">habitats</word>
+      <word end="1615" id="s.4.w.106" start="1612">and</word>
+      <word end="1620" id="s.4.w.107" start="1616">also</word>
+      <word end="1631" id="s.4.w.108" start="1621">endangered</word>
+      <word end="1639" id="s.4.w.109" start="1632">animals</word>
+      <word end="1643" id="s.4.w.110" start="1640">are</word>
+      <word end="1649" id="s.4.w.111" start="1644">being</word>
+      <word end="1659" id="s.4.w.112" start="1650">protected</word>
+      <word end="1664" id="s.4.w.113" start="1660">from</word>
+      <word end="1670" id="s.4.w.114" start="1665">their</word>
+      <word end="1680" id="s.4.w.115" start="1671">predators</word>
+      <word end="1683" id="s.4.w.116" start="1681">or</word>
+      <word end="1692" id="s.4.w.117" start="1684">hunters.</word>
+      <word end="1697" id="s.4.w.118" start="1693">Thus</word>
+      <word end="1702" id="s.4.w.119" start="1698">zoos</word>
+      <word end="1706" id="s.4.w.120" start="1703">are</word>
+      <word end="1713" id="s.4.w.121" start="1707">needed</word>
+      <word end="1716" id="s.4.w.122" start="1714">to</word>
+      <word end="1721" id="s.4.w.123" start="1717">keep</word>
+      <word end="1725" id="s.4.w.124" start="1722">the</word>
+      <word end="1732" id="s.4.w.125" start="1726">nature</word>
+      <word end="1742" id="s.4.w.126" start="1733">balanced.</word>
+    </sentence>
+    <sentence end="2005" id="s.5" start="1744">
+      <word end="1746" id="s.5.w.0" start="1744">In</word>
+      <word end="1758" id="s.5.w.1" start="1747">conclusion,</word>
+      <word end="1763" id="s.5.w.2" start="1759">both</word>
+      <word end="1766" id="s.5.w.3" start="1764">of</word>
+      <word end="1770" id="s.5.w.4" start="1767">the</word>
+      <word end="1780" id="s.5.w.5" start="1771">arguments</word>
+      <word end="1785" id="s.5.w.6" start="1781">have</word>
+      <word end="1792" id="s.5.w.7" start="1786">strong</word>
+      <word end="1802" id="s.5.w.8" start="1793">supports,</word>
+      <word end="1806" id="s.5.w.9" start="1803">but</word>
+      <word end="1809" id="s.5.w.10" start="1807">in</word>
+      <word end="1812" id="s.5.w.11" start="1810">my</word>
+      <word end="1816" id="s.5.w.12" start="1813">own</word>
+      <word end="1822" id="s.5.w.13" start="1817">view,</word>
+      <word end="1827" id="s.5.w.14" start="1823">more</word>
+      <word end="1832" id="s.5.w.15" start="1828">good</word>
+      <word end="1837" id="s.5.w.16" start="1833">come</word>
+      <word end="1842" id="s.5.w.17" start="1838">from</word>
+      <word end="1847" id="s.5.w.18" start="1843">zoos</word>
+      <word end="1852" id="s.5.w.19" start="1848">than</word>
+      <word end="1857" id="s.5.w.20" start="1853">bad.</word>
+      <word end="1866" id="s.5.w.21" start="1858">However,</word>
+      <word end="1869" id="s.5.w.22" start="1867">it</word>
+      <word end="1872" id="s.5.w.23" start="1870">is</word>
+      <word end="1878" id="s.5.w.24" start="1873">hoped</word>
+      <word end="1883" id="s.5.w.25" start="1879">that</word>
+      <word end="1887" id="s.5.w.26" start="1884">the</word>
+      <word end="1897" id="s.5.w.27" start="1888">standards</word>
+      <word end="1900" id="s.5.w.28" start="1898">of</word>
+      <word end="1905" id="s.5.w.29" start="1901">zoos</word>
+      <word end="1912" id="s.5.w.30" start="1906">should</word>
+      <word end="1915" id="s.5.w.31" start="1913">be</word>
+      <word end="1923" id="s.5.w.32" start="1916">leveled</word>
+      <word end="1926" id="s.5.w.33" start="1924">up</word>
+      <word end="1929" id="s.5.w.34" start="1927">to</word>
+      <word end="1936" id="s.5.w.35" start="1930">ensure</word>
+      <word end="1941" id="s.5.w.36" start="1937">that</word>
+      <word end="1945" id="s.5.w.37" start="1942">the</word>
+      <word end="1953" id="s.5.w.38" start="1946">animals</word>
+      <word end="1956" id="s.5.w.39" start="1954">in</word>
+      <word end="1961" id="s.5.w.40" start="1957">zoos</word>
+      <word end="1965" id="s.5.w.41" start="1962">are</word>
+      <word end="1974" id="s.5.w.42" start="1966">provided</word>
+      <word end="1979" id="s.5.w.43" start="1975">with</word>
+      <word end="1984" id="s.5.w.44" start="1980">good</word>
+      <word end="1989" id="s.5.w.45" start="1985">care</word>
+      <word end="1993" id="s.5.w.46" start="1990">and</word>
+      <word end="2004" id="s.5.w.47" start="1994">attention.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann3" words="s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11" repr="keeping animals in captivity is wrong" spans="366|403" Claim="" Stance="Against" link.supports="ann4 ann5 ann8 ann7"/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann4" words="s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27" repr="animals should be considered non-human persons and they should have the right of having freedom" spans="412|507" Premise=""/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann5" words="s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48" repr="This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures" spans="509|615" Premise="" link.supports="ann6"/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann6" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="many zoos, especially the ones in developing countries, do not provide care and attention which their animals require" spans="634|751" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann7" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="The animals are often undernourished and do not have sufficient quality and quantity of medical treatment" spans="753|858" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann8" words="s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103" repr="sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe" spans="873|967" Premise=""/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann9" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24" repr="zoos provide the public with good entertainment and also help to ensure the balance of the ecology" spans="1016|1114" Claim="" Stance="For" link.supports="ann11 ann14 ann10"/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann10" words="s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53" repr="Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world" spans="1116|1294" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann11" words="s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66" repr="Zoos provide educational information about the lives of different animals to the public" spans="1296|1383" Premise=""/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann12" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85" repr="zoos play an important role in reserving many breeds of animal and preventing them from being missing from life" spans="1391|1502" Premise="" link.supports="ann13"/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann13" words="s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102 s.4.w.103 s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114 s.4.w.115 s.4.w.116 s.4.w.117" repr="in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters" spans="1534|1687" Premise=""/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann14" words="s.4.w.118 s.4.w.119 s.4.w.120 s.4.w.121 s.4.w.122 s.4.w.123 s.4.w.124 s.4.w.125 s.4.w.126" repr="zoos are needed to keep the nature balanced" spans="1694|1737" Premise="" link.supports="ann12"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="both of the arguments have strong supports" spans="1754|1796" Claim="" Stance="Against"/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19" repr="more good come from zoos than bad" spans="1818|1851" MajorClaim=""/>
+  </annotations>
+</document>

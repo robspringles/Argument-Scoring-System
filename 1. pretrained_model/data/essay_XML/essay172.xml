@@ -1,0 +1,712 @@
+<document source="essay172">
+  <sentences>
+    <sentence end="40" id="s.0" start="0">
+      <word end="10" id="s.0.w.0" start="0">Apartments</word>
+      <word end="13" id="s.0.w.1" start="11">vs</word>
+      <word end="25" id="s.0.w.2" start="14">dormitories</word>
+      <word end="28" id="s.0.w.3" start="26">at</word>
+      <word end="39" id="s.0.w.4" start="29">university</word>
+    </sentence>
+    <sentence end="42" id="s.1" start="41"/>
+    <sentence end="410" id="s.2" start="43">
+      <word end="47" id="s.2.w.0" start="43">Many</word>
+      <word end="56" id="s.2.w.1" start="48">students</word>
+      <word end="63" id="s.2.w.2" start="57">prefer</word>
+      <word end="66" id="s.2.w.3" start="64">to</word>
+      <word end="71" id="s.2.w.4" start="67">live</word>
+      <word end="74" id="s.2.w.5" start="72">in</word>
+      <word end="78" id="s.2.w.6" start="75">the</word>
+      <word end="89" id="s.2.w.7" start="79">university</word>
+      <word end="101" id="s.2.w.8" start="90">dormitories</word>
+      <word end="107" id="s.2.w.9" start="102">while</word>
+      <word end="114" id="s.2.w.10" start="108">others</word>
+      <word end="121" id="s.2.w.11" start="115">prefer</word>
+      <word end="124" id="s.2.w.12" start="122">an</word>
+      <word end="134" id="s.2.w.13" start="125">apartment</word>
+      <word end="137" id="s.2.w.14" start="135">in</word>
+      <word end="141" id="s.2.w.15" start="138">the</word>
+      <word end="147" id="s.2.w.16" start="142">city.</word>
+      <word end="152" id="s.2.w.17" start="148">Both</word>
+      <word end="160" id="s.2.w.18" start="153">options</word>
+      <word end="165" id="s.2.w.19" start="161">have</word>
+      <word end="171" id="s.2.w.20" start="166">their</word>
+      <word end="182" id="s.2.w.21" start="172">advantages</word>
+      <word end="186" id="s.2.w.22" start="183">and</word>
+      <word end="201" id="s.2.w.23" start="187">disadvantages.</word>
+      <word end="207" id="s.2.w.24" start="202">After</word>
+      <word end="219" id="s.2.w.25" start="208">considering</word>
+      <word end="223" id="s.2.w.26" start="220">the</word>
+      <word end="229" id="s.2.w.27" start="224">level</word>
+      <word end="232" id="s.2.w.28" start="230">of</word>
+      <word end="241" id="s.2.w.29" start="233">freedom,</word>
+      <word end="245" id="s.2.w.30" start="242">the</word>
+      <word end="254" id="s.2.w.31" start="246">studying</word>
+      <word end="265" id="s.2.w.32" start="255">conditions</word>
+      <word end="269" id="s.2.w.33" start="266">and</word>
+      <word end="273" id="s.2.w.34" start="270">the</word>
+      <word end="282" id="s.2.w.35" start="274">economic</word>
+      <word end="290" id="s.2.w.36" start="283">factor,</word>
+      <word end="293" id="s.2.w.37" start="291">if</word>
+      <word end="295" id="s.2.w.38" start="294">I</word>
+      <word end="299" id="s.2.w.39" start="296">had</word>
+      <word end="302" id="s.2.w.40" start="300">to</word>
+      <word end="310" id="s.2.w.41" start="303">choose,</word>
+      <word end="312" id="s.2.w.42" start="311">I</word>
+      <word end="318" id="s.2.w.43" start="313">would</word>
+      <word end="325" id="s.2.w.44" start="319">prefer</word>
+      <word end="328" id="s.2.w.45" start="326">to</word>
+      <word end="333" id="s.2.w.46" start="329">live</word>
+      <word end="336" id="s.2.w.47" start="334">in</word>
+      <word end="339" id="s.2.w.48" start="337">an</word>
+      <word end="349" id="s.2.w.49" start="340">apartment</word>
+      <word end="352" id="s.2.w.50" start="350">in</word>
+      <word end="356" id="s.2.w.51" start="353">the</word>
+      <word end="366" id="s.2.w.52" start="357">community</word>
+      <word end="373" id="s.2.w.53" start="367">rather</word>
+      <word end="378" id="s.2.w.54" start="374">than</word>
+      <word end="381" id="s.2.w.55" start="379">in</word>
+      <word end="385" id="s.2.w.56" start="382">the</word>
+      <word end="396" id="s.2.w.57" start="386">university</word>
+      <word end="409" id="s.2.w.58" start="397">dormitories.</word>
+    </sentence>
+    <sentence end="853" id="s.3" start="411">
+      <word end="417" id="s.3.w.0" start="411">First,</word>
+      <word end="420" id="s.3.w.1" start="418">an</word>
+      <word end="430" id="s.3.w.2" start="421">apartment</word>
+      <word end="439" id="s.3.w.3" start="431">provides</word>
+      <word end="441" id="s.3.w.4" start="440">a</word>
+      <word end="445" id="s.3.w.5" start="442">lot</word>
+      <word end="450" id="s.3.w.6" start="446">more</word>
+      <word end="458" id="s.3.w.7" start="451">freedom</word>
+      <word end="463" id="s.3.w.8" start="459">than</word>
+      <word end="465" id="s.3.w.9" start="464">a</word>
+      <word end="476" id="s.3.w.10" start="466">dormitory.</word>
+      <word end="482" id="s.3.w.11" start="477">While</word>
+      <word end="485" id="s.3.w.12" start="483">in</word>
+      <word end="487" id="s.3.w.13" start="486">a</word>
+      <word end="497" id="s.3.w.14" start="488">dormitory</word>
+      <word end="501" id="s.3.w.15" start="498">you</word>
+      <word end="506" id="s.3.w.16" start="502">have</word>
+      <word end="509" id="s.3.w.17" start="507">to</word>
+      <word end="514" id="s.3.w.18" start="510">obey</word>
+      <word end="521" id="s.3.w.19" start="515">preset</word>
+      <word end="528" id="s.3.w.20" start="522">rules,</word>
+      <word end="531" id="s.3.w.21" start="529">in</word>
+      <word end="535" id="s.3.w.22" start="532">the</word>
+      <word end="545" id="s.3.w.23" start="536">apartment</word>
+      <word end="549" id="s.3.w.24" start="546">you</word>
+      <word end="553" id="s.3.w.25" start="550">set</word>
+      <word end="558" id="s.3.w.26" start="554">your</word>
+      <word end="562" id="s.3.w.27" start="559">own</word>
+      <word end="569" id="s.3.w.28" start="563">rules.</word>
+      <word end="573" id="s.3.w.29" start="570">You</word>
+      <word end="577" id="s.3.w.30" start="574">are</word>
+      <word end="582" id="s.3.w.31" start="578">free</word>
+      <word end="585" id="s.3.w.32" start="583">to</word>
+      <word end="590" id="s.3.w.33" start="586">have</word>
+      <word end="597" id="s.3.w.34" start="591">visits</word>
+      <word end="600" id="s.3.w.35" start="598">at</word>
+      <word end="604" id="s.3.w.36" start="601">any</word>
+      <word end="609" id="s.3.w.37" start="605">time</word>
+      <word end="612" id="s.3.w.38" start="610">or</word>
+      <word end="615" id="s.3.w.39" start="613">to</word>
+      <word end="618" id="s.3.w.40" start="616">be</word>
+      <word end="623" id="s.3.w.41" start="619">left</word>
+      <word end="629" id="s.3.w.42" start="624">alone</word>
+      <word end="632" id="s.3.w.43" start="630">if</word>
+      <word end="636" id="s.3.w.44" start="633">you</word>
+      <word end="642" id="s.3.w.45" start="637">want.</word>
+      <word end="645" id="s.3.w.46" start="643">An</word>
+      <word end="655" id="s.3.w.47" start="646">apartment</word>
+      <word end="662" id="s.3.w.48" start="656">offers</word>
+      <word end="667" id="s.3.w.49" start="663">more</word>
+      <word end="675" id="s.3.w.50" start="668">privacy</word>
+      <word end="683" id="s.3.w.51" start="676">because</word>
+      <word end="687" id="s.3.w.52" start="684">you</word>
+      <word end="691" id="s.3.w.53" start="688">can</word>
+      <word end="698" id="s.3.w.54" start="692">choose</word>
+      <word end="701" id="s.3.w.55" start="699">to</word>
+      <word end="706" id="s.3.w.56" start="702">have</word>
+      <word end="711" id="s.3.w.57" start="707">your</word>
+      <word end="715" id="s.3.w.58" start="712">own</word>
+      <word end="720" id="s.3.w.59" start="716">room</word>
+      <word end="728" id="s.3.w.60" start="721">instead</word>
+      <word end="731" id="s.3.w.61" start="729">of</word>
+      <word end="739" id="s.3.w.62" start="732">sharing</word>
+      <word end="744" id="s.3.w.63" start="740">with</word>
+      <word end="752" id="s.3.w.64" start="745">another</word>
+      <word end="761" id="s.3.w.65" start="753">student.</word>
+      <word end="766" id="s.3.w.66" start="762">This</word>
+      <word end="769" id="s.3.w.67" start="767">is</word>
+      <word end="772" id="s.3.w.68" start="770">an</word>
+      <word end="782" id="s.3.w.69" start="773">important</word>
+      <word end="789" id="s.3.w.70" start="783">factor</word>
+      <word end="797" id="s.3.w.71" start="790">because</word>
+      <word end="801" id="s.3.w.72" start="798">you</word>
+      <word end="806" id="s.3.w.73" start="802">also</word>
+      <word end="810" id="s.3.w.74" start="807">get</word>
+      <word end="815" id="s.3.w.75" start="811">more</word>
+      <word end="821" id="s.3.w.76" start="816">space</word>
+      <word end="826" id="s.3.w.77" start="822">than</word>
+      <word end="830" id="s.3.w.78" start="827">you</word>
+      <word end="836" id="s.3.w.79" start="831">would</word>
+      <word end="839" id="s.3.w.80" start="837">in</word>
+      <word end="841" id="s.3.w.81" start="840">a</word>
+      <word end="852" id="s.3.w.82" start="842">dormitory.</word>
+    </sentence>
+    <sentence end="1336" id="s.4" start="854">
+      <word end="861" id="s.4.w.0" start="854">Second,</word>
+      <word end="866" id="s.4.w.1" start="862">from</word>
+      <word end="869" id="s.4.w.2" start="867">an</word>
+      <word end="878" id="s.4.w.3" start="870">economic</word>
+      <word end="884" id="s.4.w.4" start="879">point</word>
+      <word end="887" id="s.4.w.5" start="885">of</word>
+      <word end="893" id="s.4.w.6" start="888">view,</word>
+      <word end="900" id="s.4.w.7" start="894">people</word>
+      <word end="906" id="s.4.w.8" start="901">often</word>
+      <word end="912" id="s.4.w.9" start="907">argue</word>
+      <word end="917" id="s.4.w.10" start="913">that</word>
+      <word end="920" id="s.4.w.11" start="918">an</word>
+      <word end="930" id="s.4.w.12" start="921">apartment</word>
+      <word end="933" id="s.4.w.13" start="931">is</word>
+      <word end="938" id="s.4.w.14" start="934">more</word>
+      <word end="949" id="s.4.w.15" start="939">expensive.</word>
+      <word end="954" id="s.4.w.16" start="950">This</word>
+      <word end="957" id="s.4.w.17" start="955">is</word>
+      <word end="962" id="s.4.w.18" start="958">only</word>
+      <word end="972" id="s.4.w.19" start="963">partially</word>
+      <word end="978" id="s.4.w.20" start="973">true,</word>
+      <word end="982" id="s.4.w.21" start="979">you</word>
+      <word end="988" id="s.4.w.22" start="983">could</word>
+      <word end="993" id="s.4.w.23" start="989">rent</word>
+      <word end="997" id="s.4.w.24" start="994">the</word>
+      <word end="1003" id="s.4.w.25" start="998">extra</word>
+      <word end="1009" id="s.4.w.26" start="1004">rooms</word>
+      <word end="1012" id="s.4.w.27" start="1010">in</word>
+      <word end="1016" id="s.4.w.28" start="1013">the</word>
+      <word end="1026" id="s.4.w.29" start="1017">apartment</word>
+      <word end="1029" id="s.4.w.30" start="1027">to</word>
+      <word end="1035" id="s.4.w.31" start="1030">other</word>
+      <word end="1042" id="s.4.w.32" start="1036">people</word>
+      <word end="1046" id="s.4.w.33" start="1043">and</word>
+      <word end="1051" id="s.4.w.34" start="1047">rent</word>
+      <word end="1057" id="s.4.w.35" start="1052">would</word>
+      <word end="1060" id="s.4.w.36" start="1058">be</word>
+      <word end="1062" id="s.4.w.37" start="1061">a</word>
+      <word end="1066" id="s.4.w.38" start="1063">lot</word>
+      <word end="1075" id="s.4.w.39" start="1067">cheaper.</word>
+      <word end="1090" id="s.4.w.40" start="1076">Transportation</word>
+      <word end="1093" id="s.4.w.41" start="1091">is</word>
+      <word end="1101" id="s.4.w.42" start="1094">another</word>
+      <word end="1108" id="s.4.w.43" start="1102">issue,</word>
+      <word end="1112" id="s.4.w.44" start="1109">you</word>
+      <word end="1117" id="s.4.w.45" start="1113">have</word>
+      <word end="1120" id="s.4.w.46" start="1118">to</word>
+      <word end="1123" id="s.4.w.47" start="1121">go</word>
+      <word end="1126" id="s.4.w.48" start="1124">to</word>
+      <word end="1130" id="s.4.w.49" start="1127">and</word>
+      <word end="1137" id="s.4.w.50" start="1131">return</word>
+      <word end="1142" id="s.4.w.51" start="1138">from</word>
+      <word end="1146" id="s.4.w.52" start="1143">the</word>
+      <word end="1157" id="s.4.w.53" start="1147">university</word>
+      <word end="1167" id="s.4.w.54" start="1158">everyday.</word>
+      <word end="1171" id="s.4.w.55" start="1168">You</word>
+      <word end="1177" id="s.4.w.56" start="1172">could</word>
+      <word end="1184" id="s.4.w.57" start="1178">choose</word>
+      <word end="1187" id="s.4.w.58" start="1185">to</word>
+      <word end="1191" id="s.4.w.59" start="1188">use</word>
+      <word end="1198" id="s.4.w.60" start="1192">public</word>
+      <word end="1214" id="s.4.w.61" start="1199">transportation,</word>
+      <word end="1216" id="s.4.w.62" start="1215">a</word>
+      <word end="1224" id="s.4.w.63" start="1217">cheaper</word>
+      <word end="1232" id="s.4.w.64" start="1225">option,</word>
+      <word end="1235" id="s.4.w.65" start="1233">or</word>
+      <word end="1238" id="s.4.w.66" start="1236">to</word>
+      <word end="1243" id="s.4.w.67" start="1239">have</word>
+      <word end="1245" id="s.4.w.68" start="1244">a</word>
+      <word end="1250" id="s.4.w.69" start="1246">car.</word>
+      <word end="1254" id="s.4.w.70" start="1251">The</word>
+      <word end="1258" id="s.4.w.71" start="1255">car</word>
+      <word end="1261" id="s.4.w.72" start="1259">is</word>
+      <word end="1264" id="s.4.w.73" start="1262">an</word>
+      <word end="1274" id="s.4.w.74" start="1265">expensive</word>
+      <word end="1282" id="s.4.w.75" start="1275">option,</word>
+      <word end="1286" id="s.4.w.76" start="1283">but</word>
+      <word end="1291" id="s.4.w.77" start="1287">also</word>
+      <word end="1298" id="s.4.w.78" start="1292">offers</word>
+      <word end="1306" id="s.4.w.79" start="1299">freedom</word>
+      <word end="1309" id="s.4.w.80" start="1307">of</word>
+      <word end="1318" id="s.4.w.81" start="1310">schedule</word>
+      <word end="1322" id="s.4.w.82" start="1319">and</word>
+      <word end="1335" id="s.4.w.83" start="1323">destination.</word>
+    </sentence>
+    <sentence end="2075" id="s.5" start="1337">
+      <word end="1344" id="s.5.w.0" start="1337">Lastly,</word>
+      <word end="1348" id="s.5.w.1" start="1345">the</word>
+      <word end="1357" id="s.5.w.2" start="1349">studying</word>
+      <word end="1368" id="s.5.w.3" start="1358">conditions</word>
+      <word end="1372" id="s.5.w.4" start="1369">are</word>
+      <word end="1379" id="s.5.w.5" start="1373">better</word>
+      <word end="1382" id="s.5.w.6" start="1380">in</word>
+      <word end="1385" id="s.5.w.7" start="1383">an</word>
+      <word end="1395" id="s.5.w.8" start="1386">apartment</word>
+      <word end="1403" id="s.5.w.9" start="1396">because</word>
+      <word end="1407" id="s.5.w.10" start="1404">you</word>
+      <word end="1413" id="s.5.w.11" start="1408">don't</word>
+      <word end="1418" id="s.5.w.12" start="1414">have</word>
+      <word end="1422" id="s.5.w.13" start="1419">all</word>
+      <word end="1426" id="s.5.w.14" start="1423">the</word>
+      <word end="1432" id="s.5.w.15" start="1427">noise</word>
+      <word end="1436" id="s.5.w.16" start="1433">and</word>
+      <word end="1449" id="s.5.w.17" start="1437">distractions</word>
+      <word end="1454" id="s.5.w.18" start="1450">that</word>
+      <word end="1458" id="s.5.w.19" start="1455">you</word>
+      <word end="1464" id="s.5.w.20" start="1459">often</word>
+      <word end="1469" id="s.5.w.21" start="1465">have</word>
+      <word end="1472" id="s.5.w.22" start="1470">in</word>
+      <word end="1485" id="s.5.w.23" start="1473">dormitories.</word>
+      <word end="1487" id="s.5.w.24" start="1486">A</word>
+      <word end="1491" id="s.5.w.25" start="1488">lot</word>
+      <word end="1494" id="s.5.w.26" start="1492">of</word>
+      <word end="1503" id="s.5.w.27" start="1495">students</word>
+      <word end="1509" id="s.5.w.28" start="1504">often</word>
+      <word end="1518" id="s.5.w.29" start="1510">complain</word>
+      <word end="1524" id="s.5.w.30" start="1519">about</word>
+      <word end="1530" id="s.5.w.31" start="1525">their</word>
+      <word end="1539" id="s.5.w.32" start="1531">roommate</word>
+      <word end="1547" id="s.5.w.33" start="1540">playing</word>
+      <word end="1553" id="s.5.w.34" start="1548">music</word>
+      <word end="1557" id="s.5.w.35" start="1554">too</word>
+      <word end="1562" id="s.5.w.36" start="1558">loud</word>
+      <word end="1565" id="s.5.w.37" start="1563">or</word>
+      <word end="1574" id="s.5.w.38" start="1566">bringing</word>
+      <word end="1582" id="s.5.w.39" start="1575">friends</word>
+      <word end="1587" id="s.5.w.40" start="1583">over</word>
+      <word end="1590" id="s.5.w.41" start="1588">at</word>
+      <word end="1604" id="s.5.w.42" start="1591">inappropriate</word>
+      <word end="1611" id="s.5.w.43" start="1605">times.</word>
+      <word end="1617" id="s.5.w.44" start="1612">Since</word>
+      <word end="1620" id="s.5.w.45" start="1618">in</word>
+      <word end="1623" id="s.5.w.46" start="1621">an</word>
+      <word end="1633" id="s.5.w.47" start="1624">apartment</word>
+      <word end="1637" id="s.5.w.48" start="1634">you</word>
+      <word end="1643" id="s.5.w.49" start="1638">don't</word>
+      <word end="1648" id="s.5.w.50" start="1644">have</word>
+      <word end="1650" id="s.5.w.51" start="1649">a</word>
+      <word end="1660" id="s.5.w.52" start="1651">roommate,</word>
+      <word end="1664" id="s.5.w.53" start="1661">you</word>
+      <word end="1670" id="s.5.w.54" start="1665">won't</word>
+      <word end="1675" id="s.5.w.55" start="1671">have</word>
+      <word end="1680" id="s.5.w.56" start="1676">this</word>
+      <word end="1689" id="s.5.w.57" start="1681">problem,</word>
+      <word end="1693" id="s.5.w.58" start="1690">and</word>
+      <word end="1696" id="s.5.w.59" start="1694">as</word>
+      <word end="1698" id="s.5.w.60" start="1697">a</word>
+      <word end="1705" id="s.5.w.61" start="1699">result</word>
+      <word end="1709" id="s.5.w.62" start="1706">you</word>
+      <word end="1715" id="s.5.w.63" start="1710">would</word>
+      <word end="1718" id="s.5.w.64" start="1716">be</word>
+      <word end="1723" id="s.5.w.65" start="1719">able</word>
+      <word end="1726" id="s.5.w.66" start="1724">to</word>
+      <word end="1738" id="s.5.w.67" start="1727">concentrate</word>
+      <word end="1746" id="s.5.w.68" start="1739">better.</word>
+      <word end="1750" id="s.5.w.69" start="1747">For</word>
+      <word end="1754" id="s.5.w.70" start="1751">the</word>
+      <word end="1759" id="s.5.w.71" start="1755">same</word>
+      <word end="1767" id="s.5.w.72" start="1760">reason,</word>
+      <word end="1771" id="s.5.w.73" start="1768">you</word>
+      <word end="1777" id="s.5.w.74" start="1772">won't</word>
+      <word end="1782" id="s.5.w.75" start="1778">have</word>
+      <word end="1784" id="s.5.w.76" start="1783">a</word>
+      <word end="1792" id="s.5.w.77" start="1785">problem</word>
+      <word end="1795" id="s.5.w.78" start="1793">if</word>
+      <word end="1799" id="s.5.w.79" start="1796">you</word>
+      <word end="1803" id="s.5.w.80" start="1800">are</word>
+      <word end="1807" id="s.5.w.81" start="1804">the</word>
+      <word end="1811" id="s.5.w.82" start="1808">one</word>
+      <word end="1815" id="s.5.w.83" start="1812">who</word>
+      <word end="1821" id="s.5.w.84" start="1816">wants</word>
+      <word end="1824" id="s.5.w.85" start="1822">to</word>
+      <word end="1829" id="s.5.w.86" start="1825">play</word>
+      <word end="1836" id="s.5.w.87" start="1830">music,</word>
+      <word end="1842" id="s.5.w.88" start="1837">bring</word>
+      <word end="1850" id="s.5.w.89" start="1843">friends</word>
+      <word end="1856" id="s.5.w.90" start="1851">over,</word>
+      <word end="1859" id="s.5.w.91" start="1857">or</word>
+      <word end="1865" id="s.5.w.92" start="1860">study</word>
+      <word end="1870" id="s.5.w.93" start="1866">late</word>
+      <word end="1873" id="s.5.w.94" start="1871">at</word>
+      <word end="1880" id="s.5.w.95" start="1874">night.</word>
+      <word end="1884" id="s.5.w.96" start="1881">You</word>
+      <word end="1888" id="s.5.w.97" start="1885">set</word>
+      <word end="1893" id="s.5.w.98" start="1889">your</word>
+      <word end="1897" id="s.5.w.99" start="1894">own</word>
+      <word end="1908" id="s.5.w.100" start="1898">schedules.</word>
+      <word end="1911" id="s.5.w.101" start="1909">In</word>
+      <word end="1915" id="s.5.w.102" start="1912">the</word>
+      <word end="1921" id="s.5.w.103" start="1916">other</word>
+      <word end="1927" id="s.5.w.104" start="1922">hand,</word>
+      <word end="1934" id="s.5.w.105" start="1928">living</word>
+      <word end="1937" id="s.5.w.106" start="1935">in</word>
+      <word end="1939" id="s.5.w.107" start="1938">a</word>
+      <word end="1950" id="s.5.w.108" start="1940">dormitory,</word>
+      <word end="1954" id="s.5.w.109" start="1951">and</word>
+      <word end="1960" id="s.5.w.110" start="1955">being</word>
+      <word end="1971" id="s.5.w.111" start="1961">surrounded</word>
+      <word end="1974" id="s.5.w.112" start="1972">by</word>
+      <word end="1983" id="s.5.w.113" start="1975">students</word>
+      <word end="1988" id="s.5.w.114" start="1984">also</word>
+      <word end="1992" id="s.5.w.115" start="1989">has</word>
+      <word end="1997" id="s.5.w.116" start="1993">some</word>
+      <word end="2009" id="s.5.w.117" start="1998">advantages,</word>
+      <word end="2014" id="s.5.w.118" start="2010">like</word>
+      <word end="2020" id="s.5.w.119" start="2015">being</word>
+      <word end="2025" id="s.5.w.120" start="2021">able</word>
+      <word end="2028" id="s.5.w.121" start="2026">to</word>
+      <word end="2032" id="s.5.w.122" start="2029">get</word>
+      <word end="2037" id="s.5.w.123" start="2033">help</word>
+      <word end="2042" id="s.5.w.124" start="2038">with</word>
+      <word end="2046" id="s.5.w.125" start="2043">any</word>
+      <word end="2055" id="s.5.w.126" start="2047">academic</word>
+      <word end="2062" id="s.5.w.127" start="2056">issues</word>
+      <word end="2067" id="s.5.w.128" start="2063">from</word>
+      <word end="2073" id="s.5.w.129" start="2068">them.</word>
+    </sentence>
+    <sentence end="2229" id="s.6" start="2076">
+      <word end="2078" id="s.6.w.0" start="2076">To</word>
+      <word end="2088" id="s.6.w.1" start="2079">conclude,</word>
+      <word end="2093" id="s.6.w.2" start="2089">both</word>
+      <word end="2101" id="s.6.w.3" start="2094">options</word>
+      <word end="2106" id="s.6.w.4" start="2102">have</word>
+      <word end="2112" id="s.6.w.5" start="2107">their</word>
+      <word end="2124" id="s.6.w.6" start="2113">advantages,</word>
+      <word end="2128" id="s.6.w.7" start="2125">but</word>
+      <word end="2139" id="s.6.w.8" start="2129">personally</word>
+      <word end="2141" id="s.6.w.9" start="2140">I</word>
+      <word end="2147" id="s.6.w.10" start="2142">think</word>
+      <word end="2151" id="s.6.w.11" start="2148">the</word>
+      <word end="2162" id="s.6.w.12" start="2152">advantages</word>
+      <word end="2165" id="s.6.w.13" start="2163">of</word>
+      <word end="2172" id="s.6.w.14" start="2166">living</word>
+      <word end="2175" id="s.6.w.15" start="2173">in</word>
+      <word end="2178" id="s.6.w.16" start="2176">an</word>
+      <word end="2188" id="s.6.w.17" start="2179">apartment</word>
+      <word end="2197" id="s.6.w.18" start="2189">outshine</word>
+      <word end="2203" id="s.6.w.19" start="2198">those</word>
+      <word end="2206" id="s.6.w.20" start="2204">of</word>
+      <word end="2213" id="s.6.w.21" start="2207">living</word>
+      <word end="2216" id="s.6.w.22" start="2214">in</word>
+      <word end="2218" id="s.6.w.23" start="2217">a</word>
+      <word end="2229" id="s.6.w.24" start="2219">dormitory.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58" repr="I would prefer to live in an apartment in the community rather than in the university dormitories" spans="309|406" MajorClaim=""/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann3" words="s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10" repr="an apartment provides a lot more freedom than a dormitory" spans="415|472" Claim="" Stance="For" link.supports="ann5 ann4 ann8 ann6"/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28" repr="While in a dormitory you have to obey preset rules, in the apartment you set your own rules" spans="474|565" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann5" words="s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="You are free to have visits at any time or to be left alone if you want" spans="567|638" Premise=""/>
+    <annotation id="ann6" words="s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50" repr="An apartment offers more privacy" spans="640|672" Premise="" link.supports="ann7"/>
+    <annotation id="ann6" words="s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50" repr="An apartment offers more privacy" spans="640|672" Premise="" link.supports="ann7"/>
+    <annotation id="ann6" words="s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50" repr="An apartment offers more privacy" spans="640|672" Premise="" link.supports="ann7"/>
+    <annotation id="ann6" words="s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50" repr="An apartment offers more privacy" spans="640|672" Premise="" link.supports="ann7"/>
+    <annotation id="ann6" words="s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50" repr="An apartment offers more privacy" spans="640|672" Premise="" link.supports="ann7"/>
+    <annotation id="ann6" words="s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50" repr="An apartment offers more privacy" spans="640|672" Premise="" link.supports="ann7"/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann7" words="s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65" repr="you can choose to have your own room instead of sharing with another student" spans="681|757" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann8" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82" repr="you also get more space than you would in a dormitory" spans="795|848" Premise=""/>
+    <annotation id="ann9" words="s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15" repr="an apartment is more expensive" spans="914|944" Claim="" Stance="Against" link.attacks="ann10" link.supports="ann11 ann13 ann12"/>
+    <annotation id="ann9" words="s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15" repr="an apartment is more expensive" spans="914|944" Claim="" Stance="Against" link.attacks="ann10" link.supports="ann11 ann13 ann12"/>
+    <annotation id="ann9" words="s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15" repr="an apartment is more expensive" spans="914|944" Claim="" Stance="Against" link.attacks="ann10" link.supports="ann11 ann13 ann12"/>
+    <annotation id="ann9" words="s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15" repr="an apartment is more expensive" spans="914|944" Claim="" Stance="Against" link.attacks="ann10" link.supports="ann11 ann13 ann12"/>
+    <annotation id="ann9" words="s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15" repr="an apartment is more expensive" spans="914|944" Claim="" Stance="Against" link.attacks="ann10" link.supports="ann11 ann13 ann12"/>
+    <annotation id="ann9" words="s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15" repr="an apartment is more expensive" spans="914|944" Claim="" Stance="Against" link.attacks="ann10" link.supports="ann11 ann13 ann12"/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann10" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper" spans="975|1070" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann11" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54" repr="Transportation is another issue, you have to go to and return from the university everyday" spans="1072|1162" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann12" words="s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68" repr="You could choose to use public transportation, a cheaper option, or to have a car" spans="1164|1245" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann13" words="s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83" repr="The car is an expensive option, but also offers freedom of schedule and destination" spans="1247|1330" Premise=""/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann14" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8" repr="the studying conditions are better in an apartment" spans="1340|1390" Claim="" Stance="For" link.attacks="ann22" link.supports="ann16 ann17 ann20 ann15 ann21"/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann15" words="s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23" repr="you don't have all the noise and distractions that you often have in dormitories" spans="1399|1479" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann16" words="s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42" repr="A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times" spans="1481|1605" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann19" words="s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57" repr="you won't have this problem" spans="1656|1683" Premise="" link.supports="ann18"/>
+    <annotation id="ann18" words="s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52" repr="in an apartment you don't have a roommate" spans="1613|1654" Premise=""/>
+    <annotation id="ann19" words="s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57" repr="you won't have this problem" spans="1656|1683" Premise="" link.supports="ann18"/>
+    <annotation id="ann19" words="s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57" repr="you won't have this problem" spans="1656|1683" Premise="" link.supports="ann18"/>
+    <annotation id="ann19" words="s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57" repr="you won't have this problem" spans="1656|1683" Premise="" link.supports="ann18"/>
+    <annotation id="ann19" words="s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57" repr="you won't have this problem" spans="1656|1683" Premise="" link.supports="ann18"/>
+    <annotation id="ann19" words="s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57" repr="you won't have this problem" spans="1656|1683" Premise="" link.supports="ann18"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann17" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="you would be able to concentrate better" spans="1701|1740" Premise="" link.supports="ann19"/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann20" words="s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93 s.5.w.94" repr="you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night" spans="1763|1874" Premise=""/>
+    <annotation id="ann21" words="s.5.w.95 s.5.w.96 s.5.w.97 s.5.w.98 s.5.w.99 s.5.w.100" repr="You set your own schedules" spans="1876|1902" Premise=""/>
+    <annotation id="ann21" words="s.5.w.95 s.5.w.96 s.5.w.97 s.5.w.98 s.5.w.99 s.5.w.100" repr="You set your own schedules" spans="1876|1902" Premise=""/>
+    <annotation id="ann21" words="s.5.w.95 s.5.w.96 s.5.w.97 s.5.w.98 s.5.w.99 s.5.w.100" repr="You set your own schedules" spans="1876|1902" Premise=""/>
+    <annotation id="ann21" words="s.5.w.95 s.5.w.96 s.5.w.97 s.5.w.98 s.5.w.99 s.5.w.100" repr="You set your own schedules" spans="1876|1902" Premise=""/>
+    <annotation id="ann21" words="s.5.w.95 s.5.w.96 s.5.w.97 s.5.w.98 s.5.w.99 s.5.w.100" repr="You set your own schedules" spans="1876|1902" Premise=""/>
+    <annotation id="ann21" words="s.5.w.95 s.5.w.96 s.5.w.97 s.5.w.98 s.5.w.99 s.5.w.100" repr="You set your own schedules" spans="1876|1902" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann22" words="s.5.w.104 s.5.w.105 s.5.w.106 s.5.w.107 s.5.w.108 s.5.w.109 s.5.w.110 s.5.w.111 s.5.w.112 s.5.w.113 s.5.w.114 s.5.w.115 s.5.w.116 s.5.w.117 s.5.w.118 s.5.w.119 s.5.w.120 s.5.w.121 s.5.w.122 s.5.w.123 s.5.w.124 s.5.w.125 s.5.w.126 s.5.w.127 s.5.w.128" repr="living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them" spans="1923|2067" Premise=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24" repr="the advantages of living in an apartment outshine those of living in a dormitory" spans="2142|2222" MajorClaim=""/>
+  </annotations>
+</document>

@@ -1,0 +1,527 @@
+<document source="essay018">
+  <sentences>
+    <sentence end="40" id="s.0" start="0">
+      <word end="6" id="s.0.w.0" start="0">Gender</word>
+      <word end="15" id="s.0.w.1" start="7">Equality</word>
+      <word end="18" id="s.0.w.2" start="16">at</word>
+      <word end="29" id="s.0.w.3" start="19">university</word>
+      <word end="39" id="s.0.w.4" start="30">admission</word>
+    </sentence>
+    <sentence end="42" id="s.1" start="41"/>
+    <sentence end="409" id="s.2" start="43">
+      <word end="51" id="s.2.w.0" start="43">Nowadays</word>
+      <word end="55" id="s.2.w.1" start="52">men</word>
+      <word end="59" id="s.2.w.2" start="56">and</word>
+      <word end="65" id="s.2.w.3" start="60">women</word>
+      <word end="69" id="s.2.w.4" start="66">are</word>
+      <word end="77" id="s.2.w.5" start="70">equally</word>
+      <word end="91" id="s.2.w.6" start="78">participating</word>
+      <word end="94" id="s.2.w.7" start="92">in</word>
+      <word end="100" id="s.2.w.8" start="95">every</word>
+      <word end="107" id="s.2.w.9" start="101">field.</word>
+      <word end="122" id="s.2.w.10" start="108">Contrastingly,</word>
+      <word end="125" id="s.2.w.11" start="123">in</word>
+      <word end="129" id="s.2.w.12" start="126">the</word>
+      <word end="134" id="s.2.w.13" start="130">past</word>
+      <word end="140" id="s.2.w.14" start="135">time,</word>
+      <word end="146" id="s.2.w.15" start="141">women</word>
+      <word end="153" id="s.2.w.16" start="147">worked</word>
+      <word end="156" id="s.2.w.17" start="154">at</word>
+      <word end="161" id="s.2.w.18" start="157">home</word>
+      <word end="165" id="s.2.w.19" start="162">and</word>
+      <word end="175" id="s.2.w.20" start="166">performed</word>
+      <word end="189" id="s.2.w.21" start="176">sophisticated</word>
+      <word end="195" id="s.2.w.22" start="190">work.</word>
+      <word end="200" id="s.2.w.23" start="196">This</word>
+      <word end="207" id="s.2.w.24" start="201">factor</word>
+      <word end="210" id="s.2.w.25" start="208">is</word>
+      <word end="216" id="s.2.w.26" start="211">still</word>
+      <word end="226" id="s.2.w.27" start="217">affecting</word>
+      <word end="235" id="s.2.w.28" start="227">thinking</word>
+      <word end="238" id="s.2.w.29" start="236">of</word>
+      <word end="243" id="s.2.w.30" start="239">many</word>
+      <word end="251" id="s.2.w.31" start="244">people.</word>
+      <word end="256" id="s.2.w.32" start="252">They</word>
+      <word end="262" id="s.2.w.33" start="257">still</word>
+      <word end="270" id="s.2.w.34" start="263">believe</word>
+      <word end="275" id="s.2.w.35" start="271">that</word>
+      <word end="278" id="s.2.w.36" start="276">in</word>
+      <word end="286" id="s.2.w.37" start="279">present</word>
+      <word end="291" id="s.2.w.38" start="287">time</word>
+      <word end="297" id="s.2.w.39" start="292">women</word>
+      <word end="302" id="s.2.w.40" start="298">must</word>
+      <word end="305" id="s.2.w.41" start="303">do</word>
+      <word end="310" id="s.2.w.42" start="306">such</word>
+      <word end="315" id="s.2.w.43" start="311">type</word>
+      <word end="318" id="s.2.w.44" start="316">of</word>
+      <word end="323" id="s.2.w.45" start="319">work</word>
+      <word end="329" id="s.2.w.46" start="324">only.</word>
+      <word end="334" id="s.2.w.47" start="330">This</word>
+      <word end="343" id="s.2.w.48" start="335">tendency</word>
+      <word end="352" id="s.2.w.49" start="344">enforces</word>
+      <word end="365" id="s.2.w.50" start="353">universities</word>
+      <word end="368" id="s.2.w.51" start="366">to</word>
+      <word end="375" id="s.2.w.52" start="369">accept</word>
+      <word end="383" id="s.2.w.53" start="376">student</word>
+      <word end="393" id="s.2.w.54" start="384">according</word>
+      <word end="396" id="s.2.w.55" start="394">to</word>
+      <word end="400" id="s.2.w.56" start="397">the</word>
+      <word end="408" id="s.2.w.57" start="401">gender.</word>
+    </sentence>
+    <sentence end="913" id="s.3" start="410">
+      <word end="422" id="s.3.w.0" start="410">Universities</word>
+      <word end="429" id="s.3.w.1" start="423">should</word>
+      <word end="436" id="s.3.w.2" start="430">accept</word>
+      <word end="442" id="s.3.w.3" start="437">equal</word>
+      <word end="450" id="s.3.w.4" start="443">numbers</word>
+      <word end="453" id="s.3.w.5" start="451">of</word>
+      <word end="462" id="s.3.w.6" start="454">students</word>
+      <word end="465" id="s.3.w.7" start="463">of</word>
+      <word end="470" id="s.3.w.8" start="466">both</word>
+      <word end="479" id="s.3.w.9" start="471">genders.</word>
+      <word end="490" id="s.3.w.10" start="480">Initially,</word>
+      <word end="493" id="s.3.w.11" start="491">if</word>
+      <word end="496" id="s.3.w.12" start="494">we</word>
+      <word end="501" id="s.3.w.13" start="497">look</word>
+      <word end="506" id="s.3.w.14" start="502">into</word>
+      <word end="510" id="s.3.w.15" start="507">the</word>
+      <word end="516" id="s.3.w.16" start="511">fact,</word>
+      <word end="522" id="s.3.w.17" start="517">women</word>
+      <word end="527" id="s.3.w.18" start="523">have</word>
+      <word end="534" id="s.3.w.19" start="528">proved</word>
+      <word end="545" id="s.3.w.20" start="535">themselves</word>
+      <word end="548" id="s.3.w.21" start="546">in</word>
+      <word end="554" id="s.3.w.22" start="549">every</word>
+      <word end="560" id="s.3.w.23" start="555">field</word>
+      <word end="568" id="s.3.w.24" start="561">whether</word>
+      <word end="571" id="s.3.w.25" start="569">it</word>
+      <word end="574" id="s.3.w.26" start="572">is</word>
+      <word end="581" id="s.3.w.27" start="575">indoor</word>
+      <word end="584" id="s.3.w.28" start="582">or</word>
+      <word end="593" id="s.3.w.29" start="585">outdoor.</word>
+      <word end="597" id="s.3.w.30" start="594">For</word>
+      <word end="606" id="s.3.w.31" start="598">example,</word>
+      <word end="615" id="s.3.w.32" start="607">nowadays</word>
+      <word end="621" id="s.3.w.33" start="616">women</word>
+      <word end="625" id="s.3.w.34" start="622">are</word>
+      <word end="633" id="s.3.w.35" start="626">working</word>
+      <word end="636" id="s.3.w.36" start="634">in</word>
+      <word end="641" id="s.3.w.37" start="637">home</word>
+      <word end="644" id="s.3.w.38" start="642">as</word>
+      <word end="649" id="s.3.w.39" start="645">well</word>
+      <word end="652" id="s.3.w.40" start="650">as</word>
+      <word end="655" id="s.3.w.41" start="653">in</word>
+      <word end="659" id="s.3.w.42" start="656">the</word>
+      <word end="664" id="s.3.w.43" start="660">sky.</word>
+      <word end="669" id="s.3.w.44" start="665">They</word>
+      <word end="673" id="s.3.w.45" start="670">are</word>
+      <word end="680" id="s.3.w.46" start="674">acting</word>
+      <word end="683" id="s.3.w.47" start="681">as</word>
+      <word end="685" id="s.3.w.48" start="684">a</word>
+      <word end="690" id="s.3.w.49" start="686">good</word>
+      <word end="700" id="s.3.w.50" start="691">housewife</word>
+      <word end="704" id="s.3.w.51" start="701">and</word>
+      <word end="709" id="s.3.w.52" start="705">they</word>
+      <word end="713" id="s.3.w.53" start="710">are</word>
+      <word end="720" id="s.3.w.54" start="714">flying</word>
+      <word end="727" id="s.3.w.55" start="721">planes</word>
+      <word end="733" id="s.3.w.56" start="728">also.</word>
+      <word end="746" id="s.3.w.57" start="734">Furthermore,</word>
+      <word end="757" id="s.3.w.58" start="747">university</word>
+      <word end="767" id="s.3.w.59" start="758">authority</word>
+      <word end="772" id="s.3.w.60" start="768">must</word>
+      <word end="776" id="s.3.w.61" start="773">not</word>
+      <word end="779" id="s.3.w.62" start="777">be</word>
+      <word end="786" id="s.3.w.63" start="780">biased</word>
+      <word end="789" id="s.3.w.64" start="787">on</word>
+      <word end="796" id="s.3.w.65" start="790">ground</word>
+      <word end="799" id="s.3.w.66" start="797">of</word>
+      <word end="803" id="s.3.w.67" start="800">the</word>
+      <word end="810" id="s.3.w.68" start="804">gender</word>
+      <word end="826" id="s.3.w.69" start="811">discrimination.</word>
+      <word end="831" id="s.3.w.70" start="827">They</word>
+      <word end="836" id="s.3.w.71" start="832">must</word>
+      <word end="845" id="s.3.w.72" start="837">consider</word>
+      <word end="849" id="s.3.w.73" start="846">the</word>
+      <word end="858" id="s.3.w.74" start="850">academic</word>
+      <word end="865" id="s.3.w.75" start="859">record</word>
+      <word end="868" id="s.3.w.76" start="866">of</word>
+      <word end="872" id="s.3.w.77" start="869">the</word>
+      <word end="880" id="s.3.w.78" start="873">student</word>
+      <word end="883" id="s.3.w.79" start="881">as</word>
+      <word end="888" id="s.3.w.80" start="884">main</word>
+      <word end="897" id="s.3.w.81" start="889">criteria</word>
+      <word end="900" id="s.3.w.82" start="898">of</word>
+      <word end="911" id="s.3.w.83" start="901">admission.</word>
+    </sentence>
+    <sentence end="1465" id="s.4" start="914">
+      <word end="922" id="s.4.w.0" start="914">However,</word>
+      <word end="926" id="s.4.w.1" start="923">the</word>
+      <word end="934" id="s.4.w.2" start="927">current</word>
+      <word end="938" id="s.4.w.3" start="935">job</word>
+      <word end="945" id="s.4.w.4" start="939">market</word>
+      <word end="953" id="s.4.w.5" start="946">affects</word>
+      <word end="957" id="s.4.w.6" start="954">the</word>
+      <word end="966" id="s.4.w.7" start="958">decision</word>
+      <word end="969" id="s.4.w.8" start="967">of</word>
+      <word end="983" id="s.4.w.9" start="970">universities.</word>
+      <word end="989" id="s.4.w.10" start="984">Every</word>
+      <word end="1000" id="s.4.w.11" start="990">university</word>
+      <word end="1008" id="s.4.w.12" start="1001">designs</word>
+      <word end="1012" id="s.4.w.13" start="1009">its</word>
+      <word end="1020" id="s.4.w.14" start="1013">courses</word>
+      <word end="1030" id="s.4.w.15" start="1021">according</word>
+      <word end="1033" id="s.4.w.16" start="1031">to</word>
+      <word end="1037" id="s.4.w.17" start="1034">the</word>
+      <word end="1042" id="s.4.w.18" start="1038">need</word>
+      <word end="1045" id="s.4.w.19" start="1043">of</word>
+      <word end="1056" id="s.4.w.20" start="1046">employers.</word>
+      <word end="1060" id="s.4.w.21" start="1057">The</word>
+      <word end="1064" id="s.4.w.22" start="1061">job</word>
+      <word end="1074" id="s.4.w.23" start="1065">selection</word>
+      <word end="1083" id="s.4.w.24" start="1075">criteria</word>
+      <word end="1087" id="s.4.w.25" start="1084">are</word>
+      <word end="1091" id="s.4.w.26" start="1088">pre</word>
+      <word end="1100" id="s.4.w.27" start="1092">decided.</word>
+      <word end="1104" id="s.4.w.28" start="1101">For</word>
+      <word end="1113" id="s.4.w.29" start="1105">instance</word>
+      <word end="1123" id="s.4.w.30" start="1114">employers</word>
+      <word end="1128" id="s.4.w.31" start="1124">need</word>
+      <word end="1133" id="s.4.w.32" start="1129">male</word>
+      <word end="1144" id="s.4.w.33" start="1134">candidates</word>
+      <word end="1148" id="s.4.w.34" start="1145">for</word>
+      <word end="1152" id="s.4.w.35" start="1149">the</word>
+      <word end="1158" id="s.4.w.36" start="1153">heavy</word>
+      <word end="1163" id="s.4.w.37" start="1159">work</word>
+      <word end="1168" id="s.4.w.38" start="1164">such</word>
+      <word end="1171" id="s.4.w.39" start="1169">as</word>
+      <word end="1181" id="s.4.w.40" start="1172">repairing</word>
+      <word end="1185" id="s.4.w.41" start="1182">and</word>
+      <word end="1198" id="s.4.w.42" start="1186">installation</word>
+      <word end="1201" id="s.4.w.43" start="1199">of</word>
+      <word end="1207" id="s.4.w.44" start="1202">heavy</word>
+      <word end="1216" id="s.4.w.45" start="1208">machine.</word>
+      <word end="1221" id="s.4.w.46" start="1217">They</word>
+      <word end="1228" id="s.4.w.47" start="1222">prefer</word>
+      <word end="1233" id="s.4.w.48" start="1229">male</word>
+      <word end="1239" id="s.4.w.49" start="1234">staff</word>
+      <word end="1243" id="s.4.w.50" start="1240">for</word>
+      <word end="1249" id="s.4.w.51" start="1244">night</word>
+      <word end="1257" id="s.4.w.52" start="1250">shifts.</word>
+      <word end="1262" id="s.4.w.53" start="1258">They</word>
+      <word end="1267" id="s.4.w.54" start="1263">want</word>
+      <word end="1274" id="s.4.w.55" start="1268">female</word>
+      <word end="1285" id="s.4.w.56" start="1275">candidates</word>
+      <word end="1289" id="s.4.w.57" start="1286">for</word>
+      <word end="1294" id="s.4.w.58" start="1290">soft</word>
+      <word end="1302" id="s.4.w.59" start="1295">natured</word>
+      <word end="1307" id="s.4.w.60" start="1303">work</word>
+      <word end="1312" id="s.4.w.61" start="1308">like</word>
+      <word end="1324" id="s.4.w.62" start="1313">counseling,</word>
+      <word end="1334" id="s.4.w.63" start="1325">teaching,</word>
+      <word end="1344" id="s.4.w.64" start="1335">designing</word>
+      <word end="1349" id="s.4.w.65" start="1345">etc.</word>
+      <word end="1360" id="s.4.w.66" start="1350">Therefore,</word>
+      <word end="1373" id="s.4.w.67" start="1361">universities</word>
+      <word end="1380" id="s.4.w.68" start="1374">follow</word>
+      <word end="1384" id="s.4.w.69" start="1381">the</word>
+      <word end="1396" id="s.4.w.70" start="1385">requirement</word>
+      <word end="1399" id="s.4.w.71" start="1397">of</word>
+      <word end="1403" id="s.4.w.72" start="1400">job</word>
+      <word end="1413" id="s.4.w.73" start="1404">providers</word>
+      <word end="1417" id="s.4.w.74" start="1414">and</word>
+      <word end="1424" id="s.4.w.75" start="1418">decide</word>
+      <word end="1432" id="s.4.w.76" start="1425">subject</word>
+      <word end="1441" id="s.4.w.77" start="1433">suitable</word>
+      <word end="1445" id="s.4.w.78" start="1442">for</word>
+      <word end="1456" id="s.4.w.79" start="1446">particular</word>
+      <word end="1464" id="s.4.w.80" start="1457">gender.</word>
+    </sentence>
+    <sentence end="1831" id="s.5" start="1466">
+      <word end="1468" id="s.5.w.0" start="1466">To</word>
+      <word end="1478" id="s.5.w.1" start="1469">conclude,</word>
+      <word end="1480" id="s.5.w.2" start="1479">I</word>
+      <word end="1489" id="s.5.w.3" start="1481">strongly</word>
+      <word end="1497" id="s.5.w.4" start="1490">believe</word>
+      <word end="1502" id="s.5.w.5" start="1498">that</word>
+      <word end="1515" id="s.5.w.6" start="1503">universities</word>
+      <word end="1520" id="s.5.w.7" start="1516">must</word>
+      <word end="1525" id="s.5.w.8" start="1521">open</word>
+      <word end="1532" id="s.5.w.9" start="1526">choice</word>
+      <word end="1536" id="s.5.w.10" start="1533">for</word>
+      <word end="1545" id="s.5.w.11" start="1537">everyone</word>
+      <word end="1548" id="s.5.w.12" start="1546">to</word>
+      <word end="1555" id="s.5.w.13" start="1549">select</word>
+      <word end="1559" id="s.5.w.14" start="1556">his</word>
+      <word end="1568" id="s.5.w.15" start="1560">subject.</word>
+      <word end="1572" id="s.5.w.16" start="1569">Our</word>
+      <word end="1578" id="s.5.w.17" start="1573">youth</word>
+      <word end="1582" id="s.5.w.18" start="1579">has</word>
+      <word end="1589" id="s.5.w.19" start="1583">become</word>
+      <word end="1594" id="s.5.w.20" start="1590">very</word>
+      <word end="1604" id="s.5.w.21" start="1595">confident</word>
+      <word end="1612" id="s.5.w.22" start="1605">towards</word>
+      <word end="1616" id="s.5.w.23" start="1613">his</word>
+      <word end="1624" id="s.5.w.24" start="1617">career.</word>
+      <word end="1629" id="s.5.w.25" start="1625">They</word>
+      <word end="1633" id="s.5.w.26" start="1630">are</word>
+      <word end="1637" id="s.5.w.27" start="1634">not</word>
+      <word end="1643" id="s.5.w.28" start="1638">ready</word>
+      <word end="1646" id="s.5.w.29" start="1644">to</word>
+      <word end="1649" id="s.5.w.30" start="1647">be</word>
+      <word end="1655" id="s.5.w.31" start="1650">bound</word>
+      <word end="1658" id="s.5.w.32" start="1656">in</word>
+      <word end="1666" id="s.5.w.33" start="1659">certain</word>
+      <word end="1679" id="s.5.w.34" start="1667">limitations.</word>
+      <word end="1686" id="s.5.w.35" start="1680">Female</word>
+      <word end="1697" id="s.5.w.36" start="1687">candidates</word>
+      <word end="1702" id="s.5.w.37" start="1698">also</word>
+      <word end="1705" id="s.5.w.38" start="1703">do</word>
+      <word end="1709" id="s.5.w.39" start="1706">not</word>
+      <word end="1714" id="s.5.w.40" start="1710">care</word>
+      <word end="1720" id="s.5.w.41" start="1715">about</word>
+      <word end="1724" id="s.5.w.42" start="1721">any</word>
+      <word end="1736" id="s.5.w.43" start="1725">restriction</word>
+      <word end="1742" id="s.5.w.44" start="1737">posed</word>
+      <word end="1745" id="s.5.w.45" start="1743">by</word>
+      <word end="1749" id="s.5.w.46" start="1746">the</word>
+      <word end="1757" id="s.5.w.47" start="1750">society</word>
+      <word end="1761" id="s.5.w.48" start="1758">and</word>
+      <word end="1765" id="s.5.w.49" start="1762">the</word>
+      <word end="1775" id="s.5.w.50" start="1766">employer.</word>
+      <word end="1778" id="s.5.w.51" start="1776">So</word>
+      <word end="1781" id="s.5.w.52" start="1779">we</word>
+      <word end="1786" id="s.5.w.53" start="1782">must</word>
+      <word end="1791" id="s.5.w.54" start="1787">give</word>
+      <word end="1796" id="s.5.w.55" start="1792">them</word>
+      <word end="1808" id="s.5.w.56" start="1797">opportunity</word>
+      <word end="1811" id="s.5.w.57" start="1809">to</word>
+      <word end="1819" id="s.5.w.58" start="1812">achieve</word>
+      <word end="1825" id="s.5.w.59" start="1820">their</word>
+      <word end="1831" id="s.5.w.60" start="1826">goal.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann6" words="s.2.w.57 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9" repr="Universities should accept equal numbers of students of both genders" spans="407|475" Claim="" Stance="For" link.supports="ann7 ann10"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann7" words="s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29" repr="women have proved themselves in every field whether it is indoor or outdoor" spans="514|589" Premise="" link.supports="ann8 ann9"/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann8" words="s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42" repr="nowadays women are working in home as well as in the sky" spans="604|660" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann9" words="s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56" repr="They are acting as a good housewife and they are flying planes also" spans="662|729" Premise=""/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann10" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69" repr="university authority must not be biased on ground of the gender discrimination" spans="744|822" Premise="" link.supports="ann11"/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann11" words="s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="They must consider the academic record of the student as main criteria of admission" spans="824|907" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann13" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9" repr="the current job market affects the decision of universities" spans="919|978" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann14" words="s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="Every university designs its courses according to the need of employers" spans="980|1051" Premise=""/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann15" words="s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27" repr="The job selection criteria are pre decided" spans="1053|1095" Premise="" link.supports="ann16"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann16" words="s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45" repr="employers need male candidates for the heavy work such as repairing and installation of heavy machine" spans="1110|1211" Premise="" link.supports="ann17 ann18"/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann17" words="s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52" repr="They prefer male staff for night shifts" spans="1213|1252" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann18" words="s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="They want female candidates for soft natured work like counseling, teaching, designing etc" spans="1254|1344" Premise=""/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann12" words="s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80" repr="universities follow the requirement of job providers and decide subject suitable for particular gender" spans="1357|1459" Claim="" Stance="Against" link.supports="ann13 ann14 ann15"/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann1" words="s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="universities must open choice for everyone to select his subject" spans="1498|1562" MajorClaim=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann3" words="s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="Our youth has become very confident towards his career" spans="1564|1618" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann4" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34" repr="They are not ready to be bound in certain limitations" spans="1620|1673" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann5" words="s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50" repr="Female candidates also do not care about any restriction posed by the society and the employer" spans="1675|1769" Premise=""/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+    <annotation id="ann2" words="s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="we must give them opportunity to achieve their goal" spans="1774|1825" Claim="" Stance="For" link.supports="ann4 ann3 ann5"/>
+  </annotations>
+</document>

@@ -1,0 +1,663 @@
+<document source="essay011">
+  <sentences>
+    <sentence end="18" id="s.0" start="0">
+      <word end="8" id="s.0.w.0" start="0">Physical</word>
+      <word end="17" id="s.0.w.1" start="9">exercise</word>
+    </sentence>
+    <sentence end="20" id="s.1" start="19"/>
+    <sentence end="355" id="s.2" start="21">
+      <word end="29" id="s.2.w.0" start="21">Although</word>
+      <word end="34" id="s.2.w.1" start="30">some</word>
+      <word end="41" id="s.2.w.2" start="35">people</word>
+      <word end="47" id="s.2.w.3" start="42">think</word>
+      <word end="52" id="s.2.w.4" start="48">that</word>
+      <word end="56" id="s.2.w.5" start="53">the</word>
+      <word end="62" id="s.2.w.6" start="57">major</word>
+      <word end="67" id="s.2.w.7" start="63">part</word>
+      <word end="70" id="s.2.w.8" start="68">of</word>
+      <word end="77" id="s.2.w.9" start="71">school</word>
+      <word end="86" id="s.2.w.10" start="78">schedule</word>
+      <word end="93" id="s.2.w.11" start="87">should</word>
+      <word end="96" id="s.2.w.12" start="94">be</word>
+      <word end="105" id="s.2.w.13" start="97">entirely</word>
+      <word end="113" id="s.2.w.14" start="106">devoted</word>
+      <word end="116" id="s.2.w.15" start="114">to</word>
+      <word end="127" id="s.2.w.16" start="117">academics,</word>
+      <word end="129" id="s.2.w.17" start="128">I</word>
+      <word end="135" id="s.2.w.18" start="130">truly</word>
+      <word end="143" id="s.2.w.19" start="136">believe</word>
+      <word end="148" id="s.2.w.20" start="144">that</word>
+      <word end="152" id="s.2.w.21" start="149">the</word>
+      <word end="161" id="s.2.w.22" start="153">physical</word>
+      <word end="171" id="s.2.w.23" start="162">education</word>
+      <word end="176" id="s.2.w.24" start="172">part</word>
+      <word end="183" id="s.2.w.25" start="177">should</word>
+      <word end="187" id="s.2.w.26" start="184">not</word>
+      <word end="190" id="s.2.w.27" start="188">be</word>
+      <word end="202" id="s.2.w.28" start="191">outweighed.</word>
+      <word end="211" id="s.2.w.29" start="203">Physical</word>
+      <word end="221" id="s.2.w.30" start="212">exercises</word>
+      <word end="226" id="s.2.w.31" start="222">help</word>
+      <word end="229" id="s.2.w.32" start="227">to</word>
+      <word end="236" id="s.2.w.33" start="230">create</word>
+      <word end="244" id="s.2.w.34" start="237">healthy</word>
+      <word end="252" id="s.2.w.35" start="245">nation,</word>
+      <word end="259" id="s.2.w.36" start="253">assist</word>
+      <word end="262" id="s.2.w.37" start="260">to</word>
+      <word end="271" id="s.2.w.38" start="263">learning</word>
+      <word end="279" id="s.2.w.39" start="272">through</word>
+      <word end="286" id="s.2.w.40" start="280">direct</word>
+      <word end="298" id="s.2.w.41" start="287">observation</word>
+      <word end="302" id="s.2.w.42" start="299">and</word>
+      <word end="310" id="s.2.w.43" start="303">finally</word>
+      <word end="314" id="s.2.w.44" start="311">aid</word>
+      <word end="317" id="s.2.w.45" start="315">to</word>
+      <word end="327" id="s.2.w.46" start="318">financial</word>
+      <word end="339" id="s.2.w.47" start="328">development</word>
+      <word end="342" id="s.2.w.48" start="340">of</word>
+      <word end="344" id="s.2.w.49" start="343">a</word>
+      <word end="353" id="s.2.w.50" start="345">country.</word>
+    </sentence>
+    <sentence end="943" id="s.3" start="356">
+      <word end="361" id="s.3.w.0" start="356">First</word>
+      <word end="364" id="s.3.w.1" start="362">of</word>
+      <word end="369" id="s.3.w.2" start="365">all,</word>
+      <word end="373" id="s.3.w.3" start="370">the</word>
+      <word end="381" id="s.3.w.4" start="374">ancient</word>
+      <word end="387" id="s.3.w.5" start="382">Latin</word>
+      <word end="395" id="s.3.w.6" start="388">proverb</word>
+      <word end="401" id="s.3.w.7" start="396">says:</word>
+      <word end="408" id="s.3.w.8" start="402">"Anima</word>
+      <word end="413" id="s.3.w.9" start="409">sana</word>
+      <word end="416" id="s.3.w.10" start="414">in</word>
+      <word end="424" id="s.3.w.11" start="417">corpore</word>
+      <word end="431" id="s.3.w.12" start="425">sano",</word>
+      <word end="437" id="s.3.w.13" start="432">which</word>
+      <word end="443" id="s.3.w.14" start="438">means</word>
+      <word end="448" id="s.3.w.15" start="444">that</word>
+      <word end="456" id="s.3.w.16" start="449">healthy</word>
+      <word end="461" id="s.3.w.17" start="457">body</word>
+      <word end="464" id="s.3.w.18" start="462">is</word>
+      <word end="470" id="s.3.w.19" start="465">basis</word>
+      <word end="474" id="s.3.w.20" start="471">for</word>
+      <word end="482" id="s.3.w.21" start="475">healthy</word>
+      <word end="488" id="s.3.w.22" start="483">soul.</word>
+      <word end="494" id="s.3.w.23" start="489">There</word>
+      <word end="497" id="s.3.w.24" start="495">is</word>
+      <word end="499" id="s.3.w.25" start="498">a</word>
+      <word end="506" id="s.3.w.26" start="500">direct</word>
+      <word end="514" id="s.3.w.27" start="507">linkage</word>
+      <word end="522" id="s.3.w.28" start="515">between</word>
+      <word end="531" id="s.3.w.29" start="523">people's</word>
+      <word end="538" id="s.3.w.30" start="532">health</word>
+      <word end="542" id="s.3.w.31" start="539">and</word>
+      <word end="546" id="s.3.w.32" start="543">the</word>
+      <word end="556" id="s.3.w.33" start="547">frequency</word>
+      <word end="559" id="s.3.w.34" start="557">of</word>
+      <word end="565" id="s.3.w.35" start="560">doing</word>
+      <word end="574" id="s.3.w.36" start="566">physical</word>
+      <word end="585" id="s.3.w.37" start="575">exercises.</word>
+      <word end="589" id="s.3.w.38" start="586">The</word>
+      <word end="594" id="s.3.w.39" start="590">more</word>
+      <word end="597" id="s.3.w.40" start="595">we</word>
+      <word end="607" id="s.3.w.41" start="598">practice,</word>
+      <word end="611" id="s.3.w.42" start="608">the</word>
+      <word end="618" id="s.3.w.43" start="612">better</word>
+      <word end="621" id="s.3.w.44" start="619">we</word>
+      <word end="627" id="s.3.w.45" start="622">feel.</word>
+      <word end="641" id="s.3.w.46" start="628">Additionally,</word>
+      <word end="647" id="s.3.w.47" start="642">there</word>
+      <word end="650" id="s.3.w.48" start="648">is</word>
+      <word end="652" id="s.3.w.49" start="651">a</word>
+      <word end="657" id="s.3.w.50" start="653">fact</word>
+      <word end="662" id="s.3.w.51" start="658">that</word>
+      <word end="666" id="s.3.w.52" start="663">one</word>
+      <word end="670" id="s.3.w.53" start="667">can</word>
+      <word end="678" id="s.3.w.54" start="671">improve</word>
+      <word end="685" id="s.3.w.55" start="679">health</word>
+      <word end="696" id="s.3.w.56" start="686">conditions</word>
+      <word end="701" id="s.3.w.57" start="697">with</word>
+      <word end="710" id="s.3.w.58" start="702">everyday</word>
+      <word end="719" id="s.3.w.59" start="711">physical</word>
+      <word end="729" id="s.3.w.60" start="720">activity:</word>
+      <word end="740" id="s.3.w.61" start="730">gradually,</word>
+      <word end="745" id="s.3.w.62" start="741">step</word>
+      <word end="748" id="s.3.w.63" start="746">by</word>
+      <word end="753" id="s.3.w.64" start="749">step</word>
+      <word end="756" id="s.3.w.65" start="754">we</word>
+      <word end="763" id="s.3.w.66" start="757">change</word>
+      <word end="772" id="s.3.w.67" start="764">physical</word>
+      <word end="782" id="s.3.w.68" start="773">condition</word>
+      <word end="785" id="s.3.w.69" start="783">to</word>
+      <word end="793" id="s.3.w.70" start="786">better.</word>
+      <word end="797" id="s.3.w.71" start="794">So,</word>
+      <word end="800" id="s.3.w.72" start="798">if</word>
+      <word end="804" id="s.3.w.73" start="801">the</word>
+      <word end="811" id="s.3.w.74" start="805">entire</word>
+      <word end="819" id="s.3.w.75" start="812">nation,</word>
+      <word end="824" id="s.3.w.76" start="820">from</word>
+      <word end="830" id="s.3.w.77" start="825">their</word>
+      <word end="837" id="s.3.w.78" start="831">school</word>
+      <word end="842" id="s.3.w.79" start="838">ages</word>
+      <word end="848" id="s.3.w.80" start="843">begin</word>
+      <word end="854" id="s.3.w.81" start="849">going</word>
+      <word end="858" id="s.3.w.82" start="855">for</word>
+      <word end="865" id="s.3.w.83" start="859">sports</word>
+      <word end="869" id="s.3.w.84" start="866">and</word>
+      <word end="873" id="s.3.w.85" start="870">try</word>
+      <word end="879" id="s.3.w.86" start="874">doing</word>
+      <word end="884" id="s.3.w.87" start="880">that</word>
+      <word end="894" id="s.3.w.88" start="885">everyday,</word>
+      <word end="905" id="s.3.w.89" start="895">eventually</word>
+      <word end="908" id="s.3.w.90" start="906">it</word>
+      <word end="912" id="s.3.w.91" start="909">may</word>
+      <word end="917" id="s.3.w.92" start="913">help</word>
+      <word end="920" id="s.3.w.93" start="918">to</word>
+      <word end="926" id="s.3.w.94" start="921">build</word>
+      <word end="934" id="s.3.w.95" start="927">healthy</word>
+      <word end="942" id="s.3.w.96" start="935">nation.</word>
+    </sentence>
+    <sentence end="1453" id="s.4" start="944">
+      <word end="952" id="s.4.w.0" start="944">Besides,</word>
+      <word end="957" id="s.4.w.1" start="953">when</word>
+      <word end="960" id="s.4.w.2" start="958">we</word>
+      <word end="969" id="s.4.w.3" start="961">practice</word>
+      <word end="978" id="s.4.w.4" start="970">outdoors</word>
+      <word end="982" id="s.4.w.5" start="979">and</word>
+      <word end="990" id="s.4.w.6" start="983">indoors</word>
+      <word end="998" id="s.4.w.7" start="991">sports,</word>
+      <word end="1003" id="s.4.w.8" start="999">many</word>
+      <word end="1011" id="s.4.w.9" start="1004">aspects</word>
+      <word end="1015" id="s.4.w.10" start="1012">are</word>
+      <word end="1023" id="s.4.w.11" start="1016">getting</word>
+      <word end="1032" id="s.4.w.12" start="1024">clearer.</word>
+      <word end="1036" id="s.4.w.13" start="1033">For</word>
+      <word end="1045" id="s.4.w.14" start="1037">example,</word>
+      <word end="1050" id="s.4.w.15" start="1046">when</word>
+      <word end="1052" id="s.4.w.16" start="1051">a</word>
+      <word end="1059" id="s.4.w.17" start="1053">person</word>
+      <word end="1064" id="s.4.w.18" start="1060">goes</word>
+      <word end="1072" id="s.4.w.19" start="1065">jogging</word>
+      <word end="1082" id="s.4.w.20" start="1073">everyday,</word>
+      <word end="1093" id="s.4.w.21" start="1083">eventually</word>
+      <word end="1096" id="s.4.w.22" start="1094">he</word>
+      <word end="1100" id="s.4.w.23" start="1097">can</word>
+      <word end="1111" id="s.4.w.24" start="1101">understand</word>
+      <word end="1115" id="s.4.w.25" start="1112">his</word>
+      <word end="1119" id="s.4.w.26" start="1116">own</word>
+      <word end="1124" id="s.4.w.27" start="1120">body</word>
+      <word end="1132" id="s.4.w.28" start="1125">through</word>
+      <word end="1139" id="s.4.w.29" start="1133">direct</word>
+      <word end="1152" id="s.4.w.30" start="1140">observation.</word>
+      <word end="1159" id="s.4.w.31" start="1153">Alike,</word>
+      <word end="1163" id="s.4.w.32" start="1160">the</word>
+      <word end="1170" id="s.4.w.33" start="1164">school</word>
+      <word end="1181" id="s.4.w.34" start="1171">basketball</word>
+      <word end="1186" id="s.4.w.35" start="1182">team</word>
+      <word end="1192" id="s.4.w.36" start="1187">gains</word>
+      <word end="1197" id="s.4.w.37" start="1193">more</word>
+      <word end="1207" id="s.4.w.38" start="1198">knowledge</word>
+      <word end="1210" id="s.4.w.39" start="1208">on</word>
+      <word end="1214" id="s.4.w.40" start="1211">how</word>
+      <word end="1217" id="s.4.w.41" start="1215">to</word>
+      <word end="1225" id="s.4.w.42" start="1218">succeed</word>
+      <word end="1228" id="s.4.w.43" start="1226">in</word>
+      <word end="1233" id="s.4.w.44" start="1229">some</word>
+      <word end="1244" id="s.4.w.45" start="1234">particular</word>
+      <word end="1249" id="s.4.w.46" start="1245">kind</word>
+      <word end="1252" id="s.4.w.47" start="1250">of</word>
+      <word end="1261" id="s.4.w.48" start="1253">throwing</word>
+      <word end="1265" id="s.4.w.49" start="1262">the</word>
+      <word end="1270" id="s.4.w.50" start="1266">ball</word>
+      <word end="1275" id="s.4.w.51" start="1271">into</word>
+      <word end="1280" id="s.4.w.52" start="1276">hoot</word>
+      <word end="1291" id="s.4.w.53" start="1281">practicing</word>
+      <word end="1298" id="s.4.w.54" start="1292">rather</word>
+      <word end="1303" id="s.4.w.55" start="1299">than</word>
+      <word end="1312" id="s.4.w.56" start="1304">learning</word>
+      <word end="1327" id="s.4.w.57" start="1313">theoretically.</word>
+      <word end="1340" id="s.4.w.58" start="1328">Furthermore,</word>
+      <word end="1347" id="s.4.w.59" start="1341">almost</word>
+      <word end="1351" id="s.4.w.60" start="1348">all</word>
+      <word end="1359" id="s.4.w.61" start="1352">natural</word>
+      <word end="1367" id="s.4.w.62" start="1360">science</word>
+      <word end="1379" id="s.4.w.63" start="1368">discoveries</word>
+      <word end="1384" id="s.4.w.64" start="1380">were</word>
+      <word end="1389" id="s.4.w.65" start="1385">made</word>
+      <word end="1392" id="s.4.w.66" start="1390">by</word>
+      <word end="1399" id="s.4.w.67" start="1393">direct</word>
+      <word end="1412" id="s.4.w.68" start="1400">observation,</word>
+      <word end="1418" id="s.4.w.69" start="1413">which</word>
+      <word end="1421" id="s.4.w.70" start="1419">is</word>
+      <word end="1423" id="s.4.w.71" start="1422">a</word>
+      <word end="1428" id="s.4.w.72" start="1424">part</word>
+      <word end="1431" id="s.4.w.73" start="1429">of</word>
+      <word end="1440" id="s.4.w.74" start="1432">physical</word>
+      <word end="1451" id="s.4.w.75" start="1441">education.</word>
+    </sentence>
+    <sentence end="2072" id="s.5" start="1454">
+      <word end="1459" id="s.5.w.0" start="1454">Last,</word>
+      <word end="1463" id="s.5.w.1" start="1460">but</word>
+      <word end="1467" id="s.5.w.2" start="1464">not</word>
+      <word end="1474" id="s.5.w.3" start="1468">least,</word>
+      <word end="1484" id="s.5.w.4" start="1475">financial</word>
+      <word end="1499" id="s.5.w.5" start="1485">sustainability</word>
+      <word end="1502" id="s.5.w.6" start="1500">of</word>
+      <word end="1504" id="s.5.w.7" start="1503">a</word>
+      <word end="1511" id="s.5.w.8" start="1505">region</word>
+      <word end="1518" id="s.5.w.9" start="1512">mostly</word>
+      <word end="1526" id="s.5.w.10" start="1519">depends</word>
+      <word end="1529" id="s.5.w.11" start="1527">on</word>
+      <word end="1533" id="s.5.w.12" start="1530">how</word>
+      <word end="1541" id="s.5.w.13" start="1534">healthy</word>
+      <word end="1545" id="s.5.w.14" start="1542">the</word>
+      <word end="1556" id="s.5.w.15" start="1546">population</word>
+      <word end="1560" id="s.5.w.16" start="1557">is.</word>
+      <word end="1564" id="s.5.w.17" start="1561">For</word>
+      <word end="1574" id="s.5.w.18" start="1565">instance,</word>
+      <word end="1578" id="s.5.w.19" start="1575">the</word>
+      <word end="1584" id="s.5.w.20" start="1579">money</word>
+      <word end="1593" id="s.5.w.21" start="1585">invested</word>
+      <word end="1598" id="s.5.w.22" start="1594">into</word>
+      <word end="1607" id="s.5.w.23" start="1599">physical</word>
+      <word end="1617" id="s.5.w.24" start="1608">education</word>
+      <word end="1625" id="s.5.w.25" start="1618">program</word>
+      <word end="1629" id="s.5.w.26" start="1626">can</word>
+      <word end="1634" id="s.5.w.27" start="1630">save</word>
+      <word end="1646" id="s.5.w.28" start="1635">allocations</word>
+      <word end="1651" id="s.5.w.29" start="1647">into</word>
+      <word end="1663" id="s.5.w.30" start="1652">healthcare,</word>
+      <word end="1669" id="s.5.w.31" start="1664">since</word>
+      <word end="1673" id="s.5.w.32" start="1670">the</word>
+      <word end="1680" id="s.5.w.33" start="1674">nation</word>
+      <word end="1683" id="s.5.w.34" start="1681">is</word>
+      <word end="1697" id="s.5.w.35" start="1684">comparatively</word>
+      <word end="1706" id="s.5.w.36" start="1698">healthy.</word>
+      <word end="1712" id="s.5.w.37" start="1707">Along</word>
+      <word end="1717" id="s.5.w.38" start="1713">with</word>
+      <word end="1723" id="s.5.w.39" start="1718">that,</word>
+      <word end="1734" id="s.5.w.40" start="1724">physically</word>
+      <word end="1742" id="s.5.w.41" start="1735">healthy</word>
+      <word end="1749" id="s.5.w.42" start="1743">people</word>
+      <word end="1753" id="s.5.w.43" start="1750">can</word>
+      <word end="1764" id="s.5.w.44" start="1754">contribute</word>
+      <word end="1769" id="s.5.w.45" start="1765">more</word>
+      <word end="1774" id="s.5.w.46" start="1770">both</word>
+      <word end="1779" id="s.5.w.47" start="1775">into</word>
+      <word end="1790" id="s.5.w.48" start="1780">economical</word>
+      <word end="1794" id="s.5.w.49" start="1791">and</word>
+      <word end="1801" id="s.5.w.50" start="1795">social</word>
+      <word end="1814" id="s.5.w.51" start="1802">development.</word>
+      <word end="1817" id="s.5.w.52" start="1815">As</word>
+      <word end="1819" id="s.5.w.53" start="1818">a</word>
+      <word end="1826" id="s.5.w.54" start="1820">matter</word>
+      <word end="1829" id="s.5.w.55" start="1827">of</word>
+      <word end="1835" id="s.5.w.56" start="1830">fact,</word>
+      <word end="1839" id="s.5.w.57" start="1836">the</word>
+      <word end="1846" id="s.5.w.58" start="1840">better</word>
+      <word end="1848" id="s.5.w.59" start="1847">a</word>
+      <word end="1855" id="s.5.w.60" start="1849">person</word>
+      <word end="1862" id="s.5.w.61" start="1856">feels,</word>
+      <word end="1866" id="s.5.w.62" start="1863">the</word>
+      <word end="1873" id="s.5.w.63" start="1867">better</word>
+      <word end="1877" id="s.5.w.64" start="1874">his</word>
+      <word end="1883" id="s.5.w.65" start="1878">brain</word>
+      <word end="1890" id="s.5.w.66" start="1884">works.</word>
+      <word end="1901" id="s.5.w.67" start="1891">Therefore,</word>
+      <word end="1909" id="s.5.w.68" start="1902">putting</word>
+      <word end="1918" id="s.5.w.69" start="1910">physical</word>
+      <word end="1929" id="s.5.w.70" start="1919">activities</word>
+      <word end="1932" id="s.5.w.71" start="1930">in</word>
+      <word end="1938" id="s.5.w.72" start="1933">early</word>
+      <word end="1944" id="s.5.w.73" start="1939">steps</word>
+      <word end="1947" id="s.5.w.74" start="1945">of</word>
+      <word end="1953" id="s.5.w.75" start="1948">human</word>
+      <word end="1965" id="s.5.w.76" start="1954">development</word>
+      <word end="1971" id="s.5.w.77" start="1966">would</word>
+      <word end="1979" id="s.5.w.78" start="1972">finally</word>
+      <word end="1984" id="s.5.w.79" start="1980">lead</word>
+      <word end="1987" id="s.5.w.80" start="1985">to</word>
+      <word end="1996" id="s.5.w.81" start="1988">mentally</word>
+      <word end="2004" id="s.5.w.82" start="1997">healthy</word>
+      <word end="2013" id="s.5.w.83" start="2005">society.</word>
+      <word end="2016" id="s.5.w.84" start="2014">As</word>
+      <word end="2022" id="s.5.w.85" start="2017">hence</word>
+      <word end="2025" id="s.5.w.86" start="2023">it</word>
+      <word end="2030" id="s.5.w.87" start="2026">ends</word>
+      <word end="2033" id="s.5.w.88" start="2031">up</word>
+      <word end="2038" id="s.5.w.89" start="2034">with</word>
+      <word end="2050" id="s.5.w.90" start="2039">financially</word>
+      <word end="2062" id="s.5.w.91" start="2051">competitive</word>
+      <word end="2071" id="s.5.w.92" start="2063">country.</word>
+    </sentence>
+    <sentence end="2247" id="s.6" start="2073">
+      <word end="2075" id="s.6.w.0" start="2073">In</word>
+      <word end="2079" id="s.6.w.1" start="2076">the</word>
+      <word end="2091" id="s.6.w.2" start="2080">conclusion,</word>
+      <word end="2093" id="s.6.w.3" start="2092">I</word>
+      <word end="2099" id="s.6.w.4" start="2094">would</word>
+      <word end="2104" id="s.6.w.5" start="2100">like</word>
+      <word end="2107" id="s.6.w.6" start="2105">to</word>
+      <word end="2111" id="s.6.w.7" start="2108">say</word>
+      <word end="2116" id="s.6.w.8" start="2112">that</word>
+      <word end="2120" id="s.6.w.9" start="2117">the</word>
+      <word end="2125" id="s.6.w.10" start="2121">more</word>
+      <word end="2135" id="s.6.w.11" start="2126">attention</word>
+      <word end="2138" id="s.6.w.12" start="2136">is</word>
+      <word end="2148" id="s.6.w.13" start="2139">withdrawn</word>
+      <word end="2151" id="s.6.w.14" start="2149">to</word>
+      <word end="2153" id="s.6.w.15" start="2152">a</word>
+      <word end="2161" id="s.6.w.16" start="2154">problem</word>
+      <word end="2164" id="s.6.w.17" start="2162">of</word>
+      <word end="2173" id="s.6.w.18" start="2165">physical</word>
+      <word end="2184" id="s.6.w.19" start="2174">education,</word>
+      <word end="2188" id="s.6.w.20" start="2185">the</word>
+      <word end="2193" id="s.6.w.21" start="2189">more</word>
+      <word end="2203" id="s.6.w.22" start="2194">influence</word>
+      <word end="2206" id="s.6.w.23" start="2204">we</word>
+      <word end="2210" id="s.6.w.24" start="2207">can</word>
+      <word end="2214" id="s.6.w.25" start="2211">get</word>
+      <word end="2217" id="s.6.w.26" start="2215">on</word>
+      <word end="2226" id="s.6.w.27" start="2218">academic</word>
+      <word end="2234" id="s.6.w.28" start="2227">success</word>
+      <word end="2237" id="s.6.w.29" start="2235">of</word>
+      <word end="2247" id="s.6.w.30" start="2238">students.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.20 s.2.w.21 s.2.w.22 s.2.w.23 s.2.w.24 s.2.w.25 s.2.w.26 s.2.w.27 s.2.w.28" repr="the physical education part should not be outweighed" spans="147|199" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50" repr="Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country" spans="201|350" Claim="" Stance="For"/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann5" words="s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="healthy body is basis for healthy soul" spans="446|484" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann6" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37" repr="There is a direct linkage between people's health and the frequency of doing physical exercises" spans="486|581" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann7" words="s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="The more we practice, the better we feel" spans="583|623" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann8" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70" repr="there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better" spans="639|789" Premise=""/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann4" words="s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96" repr="if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation" spans="795|938" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann5"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann9" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12" repr="when we practice outdoors and indoors sports, many aspects are getting clearer" spans="949|1027" Claim="" Stance="For" link.supports="ann10 ann12 ann11"/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann10" words="s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30" repr="when a person goes jogging everyday, eventually he can understand his own body through direct observation" spans="1042|1147" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann11" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57" repr="the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically" spans="1156|1322" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann12" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="almost all natural science discoveries were made by direct observation, which is a part of physical education" spans="1337|1446" Premise=""/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann13" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15" repr="financial sustainability of a region mostly depends on how healthy the population is" spans="1470|1554" Claim="" Stance="For" link.supports="ann14"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann14" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30" repr="the money invested into physical education program can save allocations into healthcare" spans="1570|1657" Premise="" link.supports="ann15"/>
+    <annotation id="ann15" words="s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="the nation is comparatively healthy" spans="1665|1700" Premise=""/>
+    <annotation id="ann15" words="s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="the nation is comparatively healthy" spans="1665|1700" Premise=""/>
+    <annotation id="ann15" words="s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="the nation is comparatively healthy" spans="1665|1700" Premise=""/>
+    <annotation id="ann15" words="s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="the nation is comparatively healthy" spans="1665|1700" Premise=""/>
+    <annotation id="ann15" words="s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="the nation is comparatively healthy" spans="1665|1700" Premise=""/>
+    <annotation id="ann15" words="s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="the nation is comparatively healthy" spans="1665|1700" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann16" words="s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51" repr="physically healthy people can contribute more both into economical and social development" spans="1719|1808" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann17" words="s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65" repr="the better a person feels, the better his brain works" spans="1831|1884" Premise=""/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann18" words="s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83" repr="putting physical activities in early steps of human development would finally lead to mentally healthy society" spans="1897|2007" Claim="" Stance="For" link.supports="ann16 ann17 ann19"/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann19" words="s.5.w.85 s.5.w.86 s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92" repr="it ends up with financially competitive country" spans="2018|2065" Premise=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students" spans="2111|2240" MajorClaim=""/>
+  </annotations>
+</document>

@@ -1,0 +1,733 @@
+<document source="essay100">
+  <sentences>
+    <sentence end="43" id="s.0" start="0">
+      <word end="10" id="s.0.w.0" start="0">University</word>
+      <word end="20" id="s.0.w.1" start="11">education</word>
+      <word end="23" id="s.0.w.2" start="21">is</word>
+      <word end="30" id="s.0.w.3" start="24">needed</word>
+      <word end="34" id="s.0.w.4" start="31">for</word>
+      <word end="42" id="s.0.w.5" start="35">success</word>
+    </sentence>
+    <sentence end="45" id="s.1" start="44"/>
+    <sentence end="462" id="s.2" start="46">
+      <word end="48" id="s.2.w.0" start="46">In</word>
+      <word end="56" id="s.2.w.1" start="49">today's</word>
+      <word end="63" id="s.2.w.2" start="57">modern</word>
+      <word end="67" id="s.2.w.3" start="64">and</word>
+      <word end="79" id="s.2.w.4" start="68">competitive</word>
+      <word end="88" id="s.2.w.5" start="80">society,</word>
+      <word end="91" id="s.2.w.6" start="89">it</word>
+      <word end="94" id="s.2.w.7" start="92">is</word>
+      <word end="105" id="s.2.w.8" start="95">undeniable</word>
+      <word end="110" id="s.2.w.9" start="106">that</word>
+      <word end="113" id="s.2.w.10" start="111">we</word>
+      <word end="118" id="s.2.w.11" start="114">must</word>
+      <word end="124" id="s.2.w.12" start="119">equip</word>
+      <word end="134" id="s.2.w.13" start="125">ourselves</word>
+      <word end="139" id="s.2.w.14" start="135">with</word>
+      <word end="146" id="s.2.w.15" start="140">plenty</word>
+      <word end="149" id="s.2.w.16" start="147">of</word>
+      <word end="159" id="s.2.w.17" start="150">knowledge</word>
+      <word end="163" id="s.2.w.18" start="160">and</word>
+      <word end="170" id="s.2.w.19" start="164">skills</word>
+      <word end="173" id="s.2.w.20" start="171">in</word>
+      <word end="179" id="s.2.w.21" start="174">order</word>
+      <word end="182" id="s.2.w.22" start="180">to</word>
+      <word end="188" id="s.2.w.23" start="183">shine</word>
+      <word end="192" id="s.2.w.24" start="189">and</word>
+      <word end="195" id="s.2.w.25" start="193">to</word>
+      <word end="198" id="s.2.w.26" start="196">be</word>
+      <word end="209" id="s.2.w.27" start="199">successful</word>
+      <word end="212" id="s.2.w.28" start="210">in</word>
+      <word end="218" id="s.2.w.29" start="213">life.</word>
+      <word end="223" id="s.2.w.30" start="219">Many</word>
+      <word end="229" id="s.2.w.31" start="224">opine</word>
+      <word end="234" id="s.2.w.32" start="230">that</word>
+      <word end="238" id="s.2.w.33" start="235">the</word>
+      <word end="253" id="s.2.w.34" start="239">aforementioned</word>
+      <word end="261" id="s.2.w.35" start="254">aspects</word>
+      <word end="265" id="s.2.w.36" start="262">are</word>
+      <word end="272" id="s.2.w.37" start="266">mostly</word>
+      <word end="281" id="s.2.w.38" start="273">obtained</word>
+      <word end="289" id="s.2.w.39" start="282">through</word>
+      <word end="298" id="s.2.w.40" start="290">learning</word>
+      <word end="301" id="s.2.w.41" start="299">in</word>
+      <word end="310" id="s.2.w.42" start="302">academic</word>
+      <word end="324" id="s.2.w.43" start="311">institutions.</word>
+      <word end="326" id="s.2.w.44" start="325">I</word>
+      <word end="329" id="s.2.w.45" start="327">do</word>
+      <word end="335" id="s.2.w.46" start="330">agree</word>
+      <word end="338" id="s.2.w.47" start="336">to</word>
+      <word end="343" id="s.2.w.48" start="339">that</word>
+      <word end="351" id="s.2.w.49" start="344">opinion</word>
+      <word end="354" id="s.2.w.50" start="352">to</word>
+      <word end="356" id="s.2.w.51" start="355">a</word>
+      <word end="364" id="s.2.w.52" start="357">certain</word>
+      <word end="372" id="s.2.w.53" start="365">degree.</word>
+      <word end="386" id="s.2.w.54" start="373">Nevertheless,</word>
+      <word end="388" id="s.2.w.55" start="387">I</word>
+      <word end="393" id="s.2.w.56" start="389">feel</word>
+      <word end="398" id="s.2.w.57" start="394">that</word>
+      <word end="402" id="s.2.w.58" start="399">one</word>
+      <word end="406" id="s.2.w.59" start="403">can</word>
+      <word end="411" id="s.2.w.60" start="407">also</word>
+      <word end="417" id="s.2.w.61" start="412">shine</word>
+      <word end="425" id="s.2.w.62" start="418">without</word>
+      <word end="430" id="s.2.w.63" start="426">even</word>
+      <word end="437" id="s.2.w.64" start="431">having</word>
+      <word end="440" id="s.2.w.65" start="438">to</word>
+      <word end="447" id="s.2.w.66" start="441">attend</word>
+      <word end="461" id="s.2.w.67" start="448">universities.</word>
+    </sentence>
+    <sentence end="985" id="s.3" start="463">
+      <word end="468" id="s.3.w.0" start="463">First</word>
+      <word end="472" id="s.3.w.1" start="469">and</word>
+      <word end="482" id="s.3.w.2" start="473">foremost,</word>
+      <word end="485" id="s.3.w.3" start="483">it</word>
+      <word end="488" id="s.3.w.4" start="486">is</word>
+      <word end="498" id="s.3.w.5" start="489">certainly</word>
+      <word end="503" id="s.3.w.6" start="499">true</word>
+      <word end="508" id="s.3.w.7" start="504">that</word>
+      <word end="519" id="s.3.w.8" start="509">university</word>
+      <word end="529" id="s.3.w.9" start="520">education</word>
+      <word end="532" id="s.3.w.10" start="530">is</word>
+      <word end="535" id="s.3.w.11" start="533">of</word>
+      <word end="545" id="s.3.w.12" start="536">paramount</word>
+      <word end="556" id="s.3.w.13" start="546">importance</word>
+      <word end="560" id="s.3.w.14" start="557">for</word>
+      <word end="568" id="s.3.w.15" start="561">certain</word>
+      <word end="580" id="s.3.w.16" start="569">professions</word>
+      <word end="585" id="s.3.w.17" start="581">such</word>
+      <word end="588" id="s.3.w.18" start="586">as</word>
+      <word end="596" id="s.3.w.19" start="589">doctor,</word>
+      <word end="605" id="s.3.w.20" start="597">engineer</word>
+      <word end="609" id="s.3.w.21" start="606">and</word>
+      <word end="617" id="s.3.w.22" start="610">lawyer.</word>
+      <word end="625" id="s.3.w.23" start="618">Without</word>
+      <word end="632" id="s.3.w.24" start="626">proper</word>
+      <word end="641" id="s.3.w.25" start="633">training</word>
+      <word end="645" id="s.3.w.26" start="642">and</word>
+      <word end="656" id="s.3.w.27" start="646">knowledge,</word>
+      <word end="659" id="s.3.w.28" start="657">it</word>
+      <word end="665" id="s.3.w.29" start="660">would</word>
+      <word end="668" id="s.3.w.30" start="666">be</word>
+      <word end="679" id="s.3.w.31" start="669">impossible</word>
+      <word end="683" id="s.3.w.32" start="680">for</word>
+      <word end="688" id="s.3.w.33" start="684">them</word>
+      <word end="691" id="s.3.w.34" start="689">to</word>
+      <word end="699" id="s.3.w.35" start="692">perform</word>
+      <word end="705" id="s.3.w.36" start="700">their</word>
+      <word end="710" id="s.3.w.37" start="706">best</word>
+      <word end="713" id="s.3.w.38" start="711">in</word>
+      <word end="719" id="s.3.w.39" start="714">their</word>
+      <word end="728" id="s.3.w.40" start="720">careers.</word>
+      <word end="732" id="s.3.w.41" start="729">Not</word>
+      <word end="737" id="s.3.w.42" start="733">only</word>
+      <word end="743" id="s.3.w.43" start="738">that,</word>
+      <word end="748" id="s.3.w.44" start="744">when</word>
+      <word end="753" id="s.3.w.45" start="749">they</word>
+      <word end="757" id="s.3.w.46" start="754">are</word>
+      <word end="760" id="s.3.w.47" start="758">in</word>
+      <word end="762" id="s.3.w.48" start="761">a</word>
+      <word end="774" id="s.3.w.49" start="763">university,</word>
+      <word end="779" id="s.3.w.50" start="775">they</word>
+      <word end="784" id="s.3.w.51" start="780">will</word>
+      <word end="789" id="s.3.w.52" start="785">have</word>
+      <word end="793" id="s.3.w.53" start="790">the</word>
+      <word end="805" id="s.3.w.54" start="794">opportunity</word>
+      <word end="808" id="s.3.w.55" start="806">to</word>
+      <word end="814" id="s.3.w.56" start="809">share</word>
+      <word end="820" id="s.3.w.57" start="815">their</word>
+      <word end="830" id="s.3.w.58" start="821">knowledge</word>
+      <word end="833" id="s.3.w.59" start="831">as</word>
+      <word end="838" id="s.3.w.60" start="834">well</word>
+      <word end="841" id="s.3.w.61" start="839">as</word>
+      <word end="844" id="s.3.w.62" start="842">to</word>
+      <word end="852" id="s.3.w.63" start="845">network</word>
+      <word end="856" id="s.3.w.64" start="853">for</word>
+      <word end="865" id="s.3.w.65" start="857">business</word>
+      <word end="876" id="s.3.w.66" start="866">associates</word>
+      <word end="880" id="s.3.w.67" start="877">and</word>
+      <word end="890" id="s.3.w.68" start="881">partners.</word>
+      <word end="895" id="s.3.w.69" start="891">This</word>
+      <word end="899" id="s.3.w.70" start="896">can</word>
+      <word end="907" id="s.3.w.71" start="900">benefit</word>
+      <word end="912" id="s.3.w.72" start="908">them</word>
+      <word end="915" id="s.3.w.73" start="913">in</word>
+      <word end="922" id="s.3.w.74" start="916">future</word>
+      <word end="927" id="s.3.w.75" start="923">when</word>
+      <word end="932" id="s.3.w.76" start="928">they</word>
+      <word end="939" id="s.3.w.77" start="933">intend</word>
+      <word end="942" id="s.3.w.78" start="940">to</word>
+      <word end="947" id="s.3.w.79" start="943">open</word>
+      <word end="950" id="s.3.w.80" start="948">up</word>
+      <word end="956" id="s.3.w.81" start="951">their</word>
+      <word end="960" id="s.3.w.82" start="957">own</word>
+      <word end="970" id="s.3.w.83" start="961">companies</word>
+      <word end="973" id="s.3.w.84" start="971">or</word>
+      <word end="984" id="s.3.w.85" start="974">hospitals.</word>
+    </sentence>
+    <sentence end="1570" id="s.4" start="986">
+      <word end="993" id="s.4.w.0" start="986">Looking</word>
+      <word end="998" id="s.4.w.1" start="994">from</word>
+      <word end="1006" id="s.4.w.2" start="999">another</word>
+      <word end="1019" id="s.4.w.3" start="1007">perspective,</word>
+      <word end="1025" id="s.4.w.4" start="1020">there</word>
+      <word end="1029" id="s.4.w.5" start="1026">are</word>
+      <word end="1034" id="s.4.w.6" start="1030">also</word>
+      <word end="1036" id="s.4.w.7" start="1035">a</word>
+      <word end="1048" id="s.4.w.8" start="1037">significant</word>
+      <word end="1055" id="s.4.w.9" start="1049">number</word>
+      <word end="1058" id="s.4.w.10" start="1056">of</word>
+      <word end="1065" id="s.4.w.11" start="1059">people</word>
+      <word end="1069" id="s.4.w.12" start="1066">who</word>
+      <word end="1073" id="s.4.w.13" start="1070">are</word>
+      <word end="1078" id="s.4.w.14" start="1074">very</word>
+      <word end="1089" id="s.4.w.15" start="1079">successful</word>
+      <word end="1092" id="s.4.w.16" start="1090">in</word>
+      <word end="1098" id="s.4.w.17" start="1093">their</word>
+      <word end="1105" id="s.4.w.18" start="1099">fields</word>
+      <word end="1113" id="s.4.w.19" start="1106">without</word>
+      <word end="1119" id="s.4.w.20" start="1114">going</word>
+      <word end="1122" id="s.4.w.21" start="1120">to</word>
+      <word end="1134" id="s.4.w.22" start="1123">university.</word>
+      <word end="1139" id="s.4.w.23" start="1135">Take</word>
+      <word end="1143" id="s.4.w.24" start="1140">for</word>
+      <word end="1152" id="s.4.w.25" start="1144">instance</word>
+      <word end="1158" id="s.4.w.26" start="1153">those</word>
+      <word end="1162" id="s.4.w.27" start="1159">who</word>
+      <word end="1168" id="s.4.w.28" start="1163">start</word>
+      <word end="1174" id="s.4.w.29" start="1169">their</word>
+      <word end="1178" id="s.4.w.30" start="1175">own</word>
+      <word end="1188" id="s.4.w.31" start="1179">business.</word>
+      <word end="1194" id="s.4.w.32" start="1189">These</word>
+      <word end="1201" id="s.4.w.33" start="1195">people</word>
+      <word end="1208" id="s.4.w.34" start="1202">depend</word>
+      <word end="1215" id="s.4.w.35" start="1209">solely</word>
+      <word end="1218" id="s.4.w.36" start="1216">on</word>
+      <word end="1223" id="s.4.w.37" start="1219">hard</word>
+      <word end="1228" id="s.4.w.38" start="1224">work</word>
+      <word end="1232" id="s.4.w.39" start="1229">and</word>
+      <word end="1238" id="s.4.w.40" start="1233">luck.</word>
+      <word end="1253" id="s.4.w.41" start="1239">Interestingly,</word>
+      <word end="1257" id="s.4.w.42" start="1254">for</word>
+      <word end="1262" id="s.4.w.43" start="1258">some</word>
+      <word end="1265" id="s.4.w.44" start="1263">of</word>
+      <word end="1270" id="s.4.w.45" start="1266">them</word>
+      <word end="1273" id="s.4.w.46" start="1271">it</word>
+      <word end="1280" id="s.4.w.47" start="1274">proved</word>
+      <word end="1283" id="s.4.w.48" start="1281">to</word>
+      <word end="1286" id="s.4.w.49" start="1284">be</word>
+      <word end="1288" id="s.4.w.50" start="1287">a</word>
+      <word end="1299" id="s.4.w.51" start="1289">profitable</word>
+      <word end="1304" id="s.4.w.52" start="1300">job.</word>
+      <word end="1307" id="s.4.w.53" start="1305">To</word>
+      <word end="1312" id="s.4.w.54" start="1308">cite</word>
+      <word end="1315" id="s.4.w.55" start="1313">an</word>
+      <word end="1324" id="s.4.w.56" start="1316">example,</word>
+      <word end="1332" id="s.4.w.57" start="1325">Michael</word>
+      <word end="1337" id="s.4.w.58" start="1333">Dell</word>
+      <word end="1341" id="s.4.w.59" start="1338">who</word>
+      <word end="1344" id="s.4.w.60" start="1342">is</word>
+      <word end="1348" id="s.4.w.61" start="1345">the</word>
+      <word end="1356" id="s.4.w.62" start="1349">founder</word>
+      <word end="1360" id="s.4.w.63" start="1357">and</word>
+      <word end="1364" id="s.4.w.64" start="1361">the</word>
+      <word end="1368" id="s.4.w.65" start="1365">CEO</word>
+      <word end="1371" id="s.4.w.66" start="1369">of</word>
+      <word end="1376" id="s.4.w.67" start="1372">Dell</word>
+      <word end="1381" id="s.4.w.68" start="1377">left</word>
+      <word end="1389" id="s.4.w.69" start="1382">college</word>
+      <word end="1392" id="s.4.w.70" start="1390">at</word>
+      <word end="1396" id="s.4.w.71" start="1393">19.</word>
+      <word end="1407" id="s.4.w.72" start="1397">Initially,</word>
+      <word end="1410" id="s.4.w.73" start="1408">he</word>
+      <word end="1418" id="s.4.w.74" start="1411">started</word>
+      <word end="1422" id="s.4.w.75" start="1419">his</word>
+      <word end="1431" id="s.4.w.76" start="1423">computer</word>
+      <word end="1439" id="s.4.w.77" start="1432">company</word>
+      <word end="1442" id="s.4.w.78" start="1440">in</word>
+      <word end="1446" id="s.4.w.79" start="1443">his</word>
+      <word end="1454" id="s.4.w.80" start="1447">college</word>
+      <word end="1459" id="s.4.w.81" start="1455">dorm</word>
+      <word end="1465" id="s.4.w.82" start="1460">room.</word>
+      <word end="1477" id="s.4.w.83" start="1466">Eventually,</word>
+      <word end="1480" id="s.4.w.84" start="1478">he</word>
+      <word end="1485" id="s.4.w.85" start="1481">used</word>
+      <word end="1489" id="s.4.w.86" start="1486">his</word>
+      <word end="1498" id="s.4.w.87" start="1490">earnings</word>
+      <word end="1501" id="s.4.w.88" start="1499">as</word>
+      <word end="1506" id="s.4.w.89" start="1502">well</word>
+      <word end="1509" id="s.4.w.90" start="1507">as</word>
+      <word end="1513" id="s.4.w.91" start="1510">his</word>
+      <word end="1522" id="s.4.w.92" start="1514">family's</word>
+      <word end="1527" id="s.4.w.93" start="1523">loan</word>
+      <word end="1530" id="s.4.w.94" start="1528">in</word>
+      <word end="1536" id="s.4.w.95" start="1531">order</word>
+      <word end="1539" id="s.4.w.96" start="1537">to</word>
+      <word end="1548" id="s.4.w.97" start="1540">progress</word>
+      <word end="1551" id="s.4.w.98" start="1549">to</word>
+      <word end="1554" id="s.4.w.99" start="1552">be</word>
+      <word end="1558" id="s.4.w.100" start="1555">who</word>
+      <word end="1561" id="s.4.w.101" start="1559">he</word>
+      <word end="1564" id="s.4.w.102" start="1562">is</word>
+      <word end="1569" id="s.4.w.103" start="1565">now.</word>
+    </sentence>
+    <sentence end="2051" id="s.5" start="1571">
+      <word end="1573" id="s.5.w.0" start="1571">In</word>
+      <word end="1583" id="s.5.w.1" start="1574">addition,</word>
+      <word end="1590" id="s.5.w.2" start="1584">people</word>
+      <word end="1595" id="s.5.w.3" start="1591">with</word>
+      <word end="1603" id="s.5.w.4" start="1596">natural</word>
+      <word end="1611" id="s.5.w.5" start="1604">talents</word>
+      <word end="1615" id="s.5.w.6" start="1612">are</word>
+      <word end="1620" id="s.5.w.7" start="1616">also</word>
+      <word end="1625" id="s.5.w.8" start="1621">most</word>
+      <word end="1632" id="s.5.w.9" start="1626">likely</word>
+      <word end="1635" id="s.5.w.10" start="1633">to</word>
+      <word end="1641" id="s.5.w.11" start="1636">excel</word>
+      <word end="1644" id="s.5.w.12" start="1642">in</word>
+      <word end="1650" id="s.5.w.13" start="1645">their</word>
+      <word end="1656" id="s.5.w.14" start="1651">life.</word>
+      <word end="1661" id="s.5.w.15" start="1657">This</word>
+      <word end="1664" id="s.5.w.16" start="1662">is</word>
+      <word end="1675" id="s.5.w.17" start="1665">especially</word>
+      <word end="1680" id="s.5.w.18" start="1676">true</word>
+      <word end="1683" id="s.5.w.19" start="1681">in</word>
+      <word end="1691" id="s.5.w.20" start="1684">sectors</word>
+      <word end="1696" id="s.5.w.21" start="1692">like</word>
+      <word end="1710" id="s.5.w.22" start="1697">entertainment</word>
+      <word end="1714" id="s.5.w.23" start="1711">and</word>
+      <word end="1722" id="s.5.w.24" start="1715">sports.</word>
+      <word end="1726" id="s.5.w.25" start="1723">The</word>
+      <word end="1739" id="s.5.w.26" start="1727">introduction</word>
+      <word end="1742" id="s.5.w.27" start="1740">of</word>
+      <word end="1753" id="s.5.w.28" start="1743">increasing</word>
+      <word end="1760" id="s.5.w.29" start="1754">number</word>
+      <word end="1763" id="s.5.w.30" start="1761">of</word>
+      <word end="1771" id="s.5.w.31" start="1764">reality</word>
+      <word end="1777" id="s.5.w.32" start="1772">shows</word>
+      <word end="1782" id="s.5.w.33" start="1778">have</word>
+      <word end="1787" id="s.5.w.34" start="1783">made</word>
+      <word end="1790" id="s.5.w.35" start="1788">it</word>
+      <word end="1799" id="s.5.w.36" start="1791">possible</word>
+      <word end="1803" id="s.5.w.37" start="1800">for</word>
+      <word end="1807" id="s.5.w.38" start="1804">all</word>
+      <word end="1813" id="s.5.w.39" start="1808">those</word>
+      <word end="1819" id="s.5.w.40" start="1814">lucky</word>
+      <word end="1824" id="s.5.w.41" start="1820">ones</word>
+      <word end="1827" id="s.5.w.42" start="1825">to</word>
+      <word end="1836" id="s.5.w.43" start="1828">triumph.</word>
+      <word end="1839" id="s.5.w.44" start="1837">To</word>
+      <word end="1850" id="s.5.w.45" start="1840">illustrate</word>
+      <word end="1855" id="s.5.w.46" start="1851">this</word>
+      <word end="1864" id="s.5.w.47" start="1856">further,</word>
+      <word end="1870" id="s.5.w.48" start="1865">David</word>
+      <word end="1880" id="s.5.w.49" start="1871">Archuleta</word>
+      <word end="1884" id="s.5.w.50" start="1881">who</word>
+      <word end="1888" id="s.5.w.51" start="1885">was</word>
+      <word end="1893" id="s.5.w.52" start="1889">once</word>
+      <word end="1895" id="s.5.w.53" start="1894">a</word>
+      <word end="1902" id="s.5.w.54" start="1896">nobody</word>
+      <word end="1906" id="s.5.w.55" start="1903">has</word>
+      <word end="1910" id="s.5.w.56" start="1907">now</word>
+      <word end="1916" id="s.5.w.57" start="1911">taken</word>
+      <word end="1919" id="s.5.w.58" start="1917">up</word>
+      <word end="1921" id="s.5.w.59" start="1920">a</word>
+      <word end="1927" id="s.5.w.60" start="1922">large</word>
+      <word end="1933" id="s.5.w.61" start="1928">space</word>
+      <word end="1936" id="s.5.w.62" start="1934">in</word>
+      <word end="1943" id="s.5.w.63" start="1937">hearts</word>
+      <word end="1946" id="s.5.w.64" start="1944">of</word>
+      <word end="1952" id="s.5.w.65" start="1947">many.</word>
+      <word end="1959" id="s.5.w.66" start="1953">Hence,</word>
+      <word end="1962" id="s.5.w.67" start="1960">it</word>
+      <word end="1965" id="s.5.w.68" start="1963">is</word>
+      <word end="1973" id="s.5.w.69" start="1966">evident</word>
+      <word end="1978" id="s.5.w.70" start="1974">that</word>
+      <word end="1990" id="s.5.w.71" start="1979">individuals</word>
+      <word end="1995" id="s.5.w.72" start="1991">born</word>
+      <word end="2000" id="s.5.w.73" start="1996">with</word>
+      <word end="2008" id="s.5.w.74" start="2001">talents</word>
+      <word end="2013" id="s.5.w.75" start="2009">have</word>
+      <word end="2018" id="s.5.w.76" start="2014">also</word>
+      <word end="2020" id="s.5.w.77" start="2019">a</word>
+      <word end="2025" id="s.5.w.78" start="2021">high</word>
+      <word end="2032" id="s.5.w.79" start="2026">chance</word>
+      <word end="2035" id="s.5.w.80" start="2033">to</word>
+      <word end="2038" id="s.5.w.81" start="2036">be</word>
+      <word end="2050" id="s.5.w.82" start="2039">successful.</word>
+    </sentence>
+    <sentence end="2367" id="s.6" start="2052">
+      <word end="2054" id="s.6.w.0" start="2052">To</word>
+      <word end="2059" id="s.6.w.1" start="2055">wrap</word>
+      <word end="2062" id="s.6.w.2" start="2060">it</word>
+      <word end="2066" id="s.6.w.3" start="2063">all</word>
+      <word end="2070" id="s.6.w.4" start="2067">up,</word>
+      <word end="2073" id="s.6.w.5" start="2071">it</word>
+      <word end="2076" id="s.6.w.6" start="2074">is</word>
+      <word end="2083" id="s.6.w.7" start="2077">indeed</word>
+      <word end="2088" id="s.6.w.8" start="2084">true</word>
+      <word end="2093" id="s.6.w.9" start="2089">that</word>
+      <word end="2104" id="s.6.w.10" start="2094">university</word>
+      <word end="2114" id="s.6.w.11" start="2105">education</word>
+      <word end="2117" id="s.6.w.12" start="2115">is</word>
+      <word end="2125" id="s.6.w.13" start="2118">pivotal</word>
+      <word end="2128" id="s.6.w.14" start="2126">in</word>
+      <word end="2130" id="s.6.w.15" start="2129">a</word>
+      <word end="2139" id="s.6.w.16" start="2131">person's</word>
+      <word end="2144" id="s.6.w.17" start="2140">life</word>
+      <word end="2147" id="s.6.w.18" start="2145">in</word>
+      <word end="2153" id="s.6.w.19" start="2148">order</word>
+      <word end="2157" id="s.6.w.20" start="2154">for</word>
+      <word end="2161" id="s.6.w.21" start="2158">one</word>
+      <word end="2164" id="s.6.w.22" start="2162">to</word>
+      <word end="2173" id="s.6.w.23" start="2165">prosper.</word>
+      <word end="2182" id="s.6.w.24" start="2174">However,</word>
+      <word end="2185" id="s.6.w.25" start="2183">it</word>
+      <word end="2191" id="s.6.w.26" start="2186">would</word>
+      <word end="2194" id="s.6.w.27" start="2192">be</word>
+      <word end="2200" id="s.6.w.28" start="2195">wrong</word>
+      <word end="2203" id="s.6.w.29" start="2201">to</word>
+      <word end="2207" id="s.6.w.30" start="2204">say</word>
+      <word end="2212" id="s.6.w.31" start="2208">that</word>
+      <word end="2218" id="s.6.w.32" start="2213">one's</word>
+      <word end="2226" id="s.6.w.33" start="2219">success</word>
+      <word end="2237" id="s.6.w.34" start="2227">completely</word>
+      <word end="2245" id="s.6.w.35" start="2238">depends</word>
+      <word end="2248" id="s.6.w.36" start="2246">on</word>
+      <word end="2252" id="s.6.w.37" start="2249">the</word>
+      <word end="2262" id="s.6.w.38" start="2253">education</word>
+      <word end="2265" id="s.6.w.39" start="2263">he</word>
+      <word end="2268" id="s.6.w.40" start="2266">or</word>
+      <word end="2272" id="s.6.w.41" start="2269">she</word>
+      <word end="2281" id="s.6.w.42" start="2273">receives</word>
+      <word end="2284" id="s.6.w.43" start="2282">at</word>
+      <word end="2288" id="s.6.w.44" start="2285">the</word>
+      <word end="2302" id="s.6.w.45" start="2289">institutions.</word>
+      <word end="2310" id="s.6.w.46" start="2303">Natural</word>
+      <word end="2317" id="s.6.w.47" start="2311">talent</word>
+      <word end="2321" id="s.6.w.48" start="2318">and</word>
+      <word end="2326" id="s.6.w.49" start="2322">hard</word>
+      <word end="2331" id="s.6.w.50" start="2327">work</word>
+      <word end="2336" id="s.6.w.51" start="2332">also</word>
+      <word end="2347" id="s.6.w.52" start="2337">contribute</word>
+      <word end="2350" id="s.6.w.53" start="2348">to</word>
+      <word end="2356" id="s.6.w.54" start="2351">their</word>
+      <word end="2366" id="s.6.w.55" start="2357">progress.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64 s.2.w.65 s.2.w.66 s.2.w.67" repr="one can also shine without even having to attend universities" spans="397|458" MajorClaim=""/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann4" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22" repr="it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer" spans="480|613" Claim="" Stance="Against" link.supports="ann5 ann7 ann6"/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann5" words="s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40" repr="Without proper training and knowledge, it would be impossible for them to perform their best in their careers" spans="615|724" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68" repr="Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners" spans="726|886" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann7" words="s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85" repr="This can benefit them in future when they intend to open up their own companies or hospitals" spans="888|980" Premise=""/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann8" words="s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22" repr="there are also a significant number of people who are very successful in their fields without going to university" spans="1016|1129" Claim="" Stance="For" link.supports="ann10 ann9 ann12 ann11 ann14 ann13"/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann9" words="s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31" repr="Take for instance those who start their own business" spans="1131|1183" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann10" words="s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39" repr="These people depend solely on hard work and luck" spans="1185|1233" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann11" words="s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51" repr="for some of them it proved to be a profitable job" spans="1250|1299" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann12" words="s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70" repr="Michael Dell who is the founder and the CEO of Dell left college at 19" spans="1321|1391" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann13" words="s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81" repr="he started his computer company in his college dorm room" spans="1404|1460" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann14" words="s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94 s.4.w.95 s.4.w.96 s.4.w.97 s.4.w.98 s.4.w.99 s.4.w.100 s.4.w.101 s.4.w.102" repr="he used his earnings as well as his family's loan in order to progress to be who he is now" spans="1474|1564" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann15" words="s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13" repr="people with natural talents are also most likely to excel in their life" spans="1579|1650" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann17" words="s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24" repr="This is especially true in sectors like entertainment and sports" spans="1652|1716" Premise=""/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann18" words="s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43" repr="The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph" spans="1718|1830" Premise="" link.supports="ann19"/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann19" words="s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64" repr="David Archuleta who was once a nobody has now taken up a large space in hearts of many" spans="1860|1946" Premise=""/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="individuals born with talents have also a high chance to be successful" spans="1974|2044" Claim="" Stance="For" link.supports="ann15 ann17 ann18"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann3" words="s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23" repr="it is indeed true that university education is pivotal in a person's life in order for one to prosper" spans="2065|2166" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32 s.6.w.33 s.6.w.34 s.6.w.35 s.6.w.36 s.6.w.37 s.6.w.38 s.6.w.39 s.6.w.40 s.6.w.41 s.6.w.42 s.6.w.43 s.6.w.44 s.6.w.45" repr="it would be wrong to say that one's success completely depends on the education he or she receives at the institutions" spans="2177|2295" MajorClaim=""/>
+  </annotations>
+</document>

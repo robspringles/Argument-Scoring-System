@@ -1,0 +1,797 @@
+<document source="essay143">
+  <sentences>
+    <sentence end="49" id="s.0" start="0">
+      <word end="10" id="s.0.w.0" start="0">Successful</word>
+      <word end="17" id="s.0.w.1" start="11">people</word>
+      <word end="20" id="s.0.w.2" start="18">do</word>
+      <word end="30" id="s.0.w.3" start="21">something</word>
+      <word end="34" id="s.0.w.4" start="31">new</word>
+      <word end="37" id="s.0.w.5" start="35">or</word>
+      <word end="42" id="s.0.w.6" start="38">take</word>
+      <word end="48" id="s.0.w.7" start="43">risks</word>
+    </sentence>
+    <sentence end="51" id="s.1" start="50"/>
+    <sentence end="548" id="s.2" start="52">
+      <word end="57" id="s.2.w.0" start="52">There</word>
+      <word end="60" id="s.2.w.1" start="58">is</word>
+      <word end="62" id="s.2.w.2" start="61">a</word>
+      <word end="68" id="s.2.w.3" start="63">hotly</word>
+      <word end="76" id="s.2.w.4" start="69">debated</word>
+      <word end="82" id="s.2.w.5" start="77">issue</word>
+      <word end="87" id="s.2.w.6" start="83">over</word>
+      <word end="95" id="s.2.w.7" start="88">whether</word>
+      <word end="106" id="s.2.w.8" start="96">successful</word>
+      <word end="113" id="s.2.w.9" start="107">people</word>
+      <word end="121" id="s.2.w.10" start="114">usually</word>
+      <word end="126" id="s.2.w.11" start="122">take</word>
+      <word end="131" id="s.2.w.12" start="127">risk</word>
+      <word end="134" id="s.2.w.13" start="132">or</word>
+      <word end="138" id="s.2.w.14" start="135">try</word>
+      <word end="142" id="s.2.w.15" start="139">new</word>
+      <word end="150" id="s.2.w.16" start="143">things,</word>
+      <word end="154" id="s.2.w.17" start="151">and</word>
+      <word end="158" id="s.2.w.18" start="155">the</word>
+      <word end="164" id="s.2.w.19" start="159">topic</word>
+      <word end="168" id="s.2.w.20" start="165">can</word>
+      <word end="171" id="s.2.w.21" start="169">be</word>
+      <word end="182" id="s.2.w.22" start="172">approached</word>
+      <word end="187" id="s.2.w.23" start="183">from</word>
+      <word end="195" id="s.2.w.24" start="188">several</word>
+      <word end="205" id="s.2.w.25" start="196">different</word>
+      <word end="212" id="s.2.w.26" start="206">angles</word>
+      <word end="216" id="s.2.w.27" start="213">due</word>
+      <word end="219" id="s.2.w.28" start="217">to</word>
+      <word end="223" id="s.2.w.29" start="220">its</word>
+      <word end="235" id="s.2.w.30" start="224">complexity.</word>
+      <word end="240" id="s.2.w.31" start="236">Some</word>
+      <word end="247" id="s.2.w.32" start="241">people</word>
+      <word end="252" id="s.2.w.33" start="248">tend</word>
+      <word end="255" id="s.2.w.34" start="253">to</word>
+      <word end="263" id="s.2.w.35" start="256">believe</word>
+      <word end="268" id="s.2.w.36" start="264">that</word>
+      <word end="271" id="s.2.w.37" start="269">to</word>
+      <word end="274" id="s.2.w.38" start="272">be</word>
+      <word end="286" id="s.2.w.39" start="275">successful,</word>
+      <word end="291" id="s.2.w.40" start="287">they</word>
+      <word end="298" id="s.2.w.41" start="292">should</word>
+      <word end="301" id="s.2.w.42" start="299">do</word>
+      <word end="311" id="s.2.w.43" start="302">something</word>
+      <word end="316" id="s.2.w.44" start="312">they</word>
+      <word end="320" id="s.2.w.45" start="317">are</word>
+      <word end="331" id="s.2.w.46" start="321">unfamiliar</word>
+      <word end="337" id="s.2.w.47" start="332">with,</word>
+      <word end="343" id="s.2.w.48" start="338">while</word>
+      <word end="350" id="s.2.w.49" start="344">others</word>
+      <word end="355" id="s.2.w.50" start="351">seem</word>
+      <word end="358" id="s.2.w.51" start="356">to</word>
+      <word end="364" id="s.2.w.52" start="359">stand</word>
+      <word end="367" id="s.2.w.53" start="365">on</word>
+      <word end="371" id="s.2.w.54" start="368">the</word>
+      <word end="380" id="s.2.w.55" start="372">opposite</word>
+      <word end="387" id="s.2.w.56" start="381">place.</word>
+      <word end="393" id="s.2.w.57" start="388">After</word>
+      <word end="400" id="s.2.w.58" start="394">deeply</word>
+      <word end="410" id="s.2.w.59" start="401">pondering</word>
+      <word end="415" id="s.2.w.60" start="411">over</word>
+      <word end="420" id="s.2.w.61" start="416">this</word>
+      <word end="427" id="s.2.w.62" start="421">issue,</word>
+      <word end="429" id="s.2.w.63" start="428">I</word>
+      <word end="437" id="s.2.w.64" start="430">develop</word>
+      <word end="440" id="s.2.w.65" start="438">my</word>
+      <word end="444" id="s.2.w.66" start="441">own</word>
+      <word end="456" id="s.2.w.67" start="445">perspective</word>
+      <word end="459" id="s.2.w.68" start="457">as</word>
+      <word end="465" id="s.2.w.69" start="460">well.</word>
+      <word end="467" id="s.2.w.70" start="466">I</word>
+      <word end="473" id="s.2.w.71" start="468">favor</word>
+      <word end="477" id="s.2.w.72" start="474">the</word>
+      <word end="485" id="s.2.w.73" start="478">latter;</word>
+      <word end="490" id="s.2.w.74" start="486">that</word>
+      <word end="494" id="s.2.w.75" start="491">is,</word>
+      <word end="505" id="s.2.w.76" start="495">successful</word>
+      <word end="512" id="s.2.w.77" start="506">people</word>
+      <word end="518" id="s.2.w.78" start="513">still</word>
+      <word end="521" id="s.2.w.79" start="519">do</word>
+      <word end="528" id="s.2.w.80" start="522">things</word>
+      <word end="533" id="s.2.w.81" start="529">they</word>
+      <word end="541" id="s.2.w.82" start="534">already</word>
+      <word end="547" id="s.2.w.83" start="542">know.</word>
+    </sentence>
+    <sentence end="1231" id="s.3" start="549">
+      <word end="552" id="s.3.w.0" start="549">The</word>
+      <word end="558" id="s.3.w.1" start="553">first</word>
+      <word end="562" id="s.3.w.2" start="559">and</word>
+      <word end="571" id="s.3.w.3" start="563">foremost</word>
+      <word end="578" id="s.3.w.4" start="572">reason</word>
+      <word end="583" id="s.3.w.5" start="579">lies</word>
+      <word end="586" id="s.3.w.6" start="584">in</word>
+      <word end="589" id="s.3.w.7" start="587">an</word>
+      <word end="600" id="s.3.w.8" start="590">inevitable</word>
+      <word end="605" id="s.3.w.9" start="601">fact</word>
+      <word end="610" id="s.3.w.10" start="606">that</word>
+      <word end="613" id="s.3.w.11" start="611">to</word>
+      <word end="616" id="s.3.w.12" start="614">be</word>
+      <word end="628" id="s.3.w.13" start="617">successful,</word>
+      <word end="631" id="s.3.w.14" start="629">we</word>
+      <word end="635" id="s.3.w.15" start="632">all</word>
+      <word end="639" id="s.3.w.16" start="636">try</word>
+      <word end="642" id="s.3.w.17" start="640">to</word>
+      <word end="649" id="s.3.w.18" start="643">reduce</word>
+      <word end="653" id="s.3.w.19" start="650">the</word>
+      <word end="658" id="s.3.w.20" start="654">risk</word>
+      <word end="661" id="s.3.w.21" start="659">we</word>
+      <word end="667" id="s.3.w.22" start="662">might</word>
+      <word end="678" id="s.3.w.23" start="668">encounter.</word>
+      <word end="682" id="s.3.w.24" start="679">The</word>
+      <word end="688" id="s.3.w.25" start="683">lower</word>
+      <word end="692" id="s.3.w.26" start="689">the</word>
+      <word end="700" id="s.3.w.27" start="693">factors</word>
+      <word end="707" id="s.3.w.28" start="701">making</word>
+      <word end="710" id="s.3.w.29" start="708">us</word>
+      <word end="715" id="s.3.w.30" start="711">fail</word>
+      <word end="718" id="s.3.w.31" start="716">we</word>
+      <word end="724" id="s.3.w.32" start="719">have,</word>
+      <word end="728" id="s.3.w.33" start="725">the</word>
+      <word end="735" id="s.3.w.34" start="729">higher</word>
+      <word end="747" id="s.3.w.35" start="736">probability</word>
+      <word end="750" id="s.3.w.36" start="748">to</word>
+      <word end="758" id="s.3.w.37" start="751">success</word>
+      <word end="761" id="s.3.w.38" start="759">we</word>
+      <word end="766" id="s.3.w.39" start="762">own.</word>
+      <word end="775" id="s.3.w.40" start="767">Consider</word>
+      <word end="777" id="s.3.w.41" start="776">a</word>
+      <word end="790" id="s.3.w.42" start="778">circumstance</word>
+      <word end="793" id="s.3.w.43" start="791">in</word>
+      <word end="799" id="s.3.w.44" start="794">which</word>
+      <word end="803" id="s.3.w.45" start="800">one</word>
+      <word end="810" id="s.3.w.46" start="804">person</word>
+      <word end="813" id="s.3.w.47" start="811">is</word>
+      <word end="818" id="s.3.w.48" start="814">rich</word>
+      <word end="826" id="s.3.w.49" start="819">because</word>
+      <word end="829" id="s.3.w.50" start="827">he</word>
+      <word end="835" id="s.3.w.51" start="830">knows</word>
+      <word end="837" id="s.3.w.52" start="836">a</word>
+      <word end="841" id="s.3.w.53" start="838">lot</word>
+      <word end="844" id="s.3.w.54" start="842">of</word>
+      <word end="854" id="s.3.w.55" start="845">knowledge</word>
+      <word end="857" id="s.3.w.56" start="855">of</word>
+      <word end="869" id="s.3.w.57" start="858">investment.</word>
+      <word end="872" id="s.3.w.58" start="870">He</word>
+      <word end="876" id="s.3.w.59" start="873">can</word>
+      <word end="882" id="s.3.w.60" start="877">focus</word>
+      <word end="885" id="s.3.w.61" start="883">on</word>
+      <word end="893" id="s.3.w.62" start="886">certain</word>
+      <word end="903" id="s.3.w.63" start="894">companies</word>
+      <word end="909" id="s.3.w.64" start="904">which</word>
+      <word end="912" id="s.3.w.65" start="910">he</word>
+      <word end="919" id="s.3.w.66" start="913">thinks</word>
+      <word end="922" id="s.3.w.67" start="920">is</word>
+      <word end="928" id="s.3.w.68" start="923">worth</word>
+      <word end="931" id="s.3.w.69" start="929">it</word>
+      <word end="934" id="s.3.w.70" start="932">to</word>
+      <word end="942" id="s.3.w.71" start="935">invest,</word>
+      <word end="946" id="s.3.w.72" start="943">and</word>
+      <word end="951" id="s.3.w.73" start="947">then</word>
+      <word end="956" id="s.3.w.74" start="952">just</word>
+      <word end="962" id="s.3.w.75" start="957">waits</word>
+      <word end="966" id="s.3.w.76" start="963">for</word>
+      <word end="970" id="s.3.w.77" start="967">the</word>
+      <word end="974" id="s.3.w.78" start="971">not</word>
+      <word end="977" id="s.3.w.79" start="975">so</word>
+      <word end="982" id="s.3.w.80" start="978">high</word>
+      <word end="986" id="s.3.w.81" start="983">but</word>
+      <word end="995" id="s.3.w.82" start="987">constant</word>
+      <word end="1003" id="s.3.w.83" start="996">income.</word>
+      <word end="1006" id="s.3.w.84" start="1004">He</word>
+      <word end="1011" id="s.3.w.85" start="1007">does</word>
+      <word end="1015" id="s.3.w.86" start="1012">not</word>
+      <word end="1020" id="s.3.w.87" start="1016">have</word>
+      <word end="1023" id="s.3.w.88" start="1021">to</word>
+      <word end="1030" id="s.3.w.89" start="1024">invest</word>
+      <word end="1035" id="s.3.w.90" start="1031">some</word>
+      <word end="1045" id="s.3.w.91" start="1036">dangerous</word>
+      <word end="1055" id="s.3.w.92" start="1046">companies</word>
+      <word end="1058" id="s.3.w.93" start="1056">to</word>
+      <word end="1062" id="s.3.w.94" start="1059">get</word>
+      <word end="1069" id="s.3.w.95" start="1063">higher</word>
+      <word end="1076" id="s.3.w.96" start="1070">profit</word>
+      <word end="1082" id="s.3.w.97" start="1077">which</word>
+      <word end="1088" id="s.3.w.98" start="1083">might</word>
+      <word end="1093" id="s.3.w.99" start="1089">lead</word>
+      <word end="1097" id="s.3.w.100" start="1094">him</word>
+      <word end="1100" id="s.3.w.101" start="1098">to</word>
+      <word end="1109" id="s.3.w.102" start="1101">bankrupt</word>
+      <word end="1112" id="s.3.w.103" start="1110">in</word>
+      <word end="1114" id="s.3.w.104" start="1113">a</word>
+      <word end="1120" id="s.3.w.105" start="1115">short</word>
+      <word end="1126" id="s.3.w.106" start="1121">time.</word>
+      <word end="1137" id="s.3.w.107" start="1127">Therefore,</word>
+      <word end="1140" id="s.3.w.108" start="1138">we</word>
+      <word end="1144" id="s.3.w.109" start="1141">can</word>
+      <word end="1153" id="s.3.w.110" start="1145">commence</word>
+      <word end="1156" id="s.3.w.111" start="1154">to</word>
+      <word end="1162" id="s.3.w.112" start="1157">agree</word>
+      <word end="1167" id="s.3.w.113" start="1163">that</word>
+      <word end="1178" id="s.3.w.114" start="1168">successful</word>
+      <word end="1185" id="s.3.w.115" start="1179">people</word>
+      <word end="1188" id="s.3.w.116" start="1186">do</word>
+      <word end="1192" id="s.3.w.117" start="1189">not</word>
+      <word end="1197" id="s.3.w.118" start="1193">have</word>
+      <word end="1200" id="s.3.w.119" start="1198">to</word>
+      <word end="1204" id="s.3.w.120" start="1201">try</word>
+      <word end="1208" id="s.3.w.121" start="1205">new</word>
+      <word end="1215" id="s.3.w.122" start="1209">things</word>
+      <word end="1218" id="s.3.w.123" start="1216">or</word>
+      <word end="1223" id="s.3.w.124" start="1219">take</word>
+      <word end="1230" id="s.3.w.125" start="1224">risks.</word>
+    </sentence>
+    <sentence end="1897" id="s.4" start="1232">
+      <word end="1241" id="s.4.w.0" start="1232">Moreover,</word>
+      <word end="1249" id="s.4.w.1" start="1242">another</word>
+      <word end="1257" id="s.4.w.2" start="1250">equally</word>
+      <word end="1265" id="s.4.w.3" start="1258">crucial</word>
+      <word end="1272" id="s.4.w.4" start="1266">aspect</word>
+      <word end="1275" id="s.4.w.5" start="1273">is</word>
+      <word end="1280" id="s.4.w.6" start="1276">that</word>
+      <word end="1283" id="s.4.w.7" start="1281">it</word>
+      <word end="1291" id="s.4.w.8" start="1284">depends</word>
+      <word end="1294" id="s.4.w.9" start="1292">on</word>
+      <word end="1298" id="s.4.w.10" start="1295">the</word>
+      <word end="1309" id="s.4.w.11" start="1299">capability</word>
+      <word end="1312" id="s.4.w.12" start="1310">of</word>
+      <word end="1316" id="s.4.w.13" start="1313">one</word>
+      <word end="1319" id="s.4.w.14" start="1317">to</word>
+      <word end="1326" id="s.4.w.15" start="1320">decide</word>
+      <word end="1334" id="s.4.w.16" start="1327">whether</word>
+      <word end="1337" id="s.4.w.17" start="1335">he</word>
+      <word end="1341" id="s.4.w.18" start="1338">can</word>
+      <word end="1349" id="s.4.w.19" start="1342">succeed</word>
+      <word end="1352" id="s.4.w.20" start="1350">or</word>
+      <word end="1357" id="s.4.w.21" start="1353">not.</word>
+      <word end="1360" id="s.4.w.22" start="1358">At</word>
+      <word end="1367" id="s.4.w.23" start="1361">least,</word>
+      <word end="1369" id="s.4.w.24" start="1368">a</word>
+      <word end="1380" id="s.4.w.25" start="1370">successful</word>
+      <word end="1387" id="s.4.w.26" start="1381">person</word>
+      <word end="1394" id="s.4.w.27" start="1388">should</word>
+      <word end="1397" id="s.4.w.28" start="1395">be</word>
+      <word end="1402" id="s.4.w.29" start="1398">able</word>
+      <word end="1405" id="s.4.w.30" start="1403">to</word>
+      <word end="1415" id="s.4.w.31" start="1406">dismantle</word>
+      <word end="1419" id="s.4.w.32" start="1416">the</word>
+      <word end="1427" id="s.4.w.33" start="1420">hurdles</word>
+      <word end="1439" id="s.4.w.34" start="1428">prohibiting</word>
+      <word end="1443" id="s.4.w.35" start="1440">him</word>
+      <word end="1446" id="s.4.w.36" start="1444">to</word>
+      <word end="1455" id="s.4.w.37" start="1447">success.</word>
+      <word end="1459" id="s.4.w.38" start="1456">For</word>
+      <word end="1469" id="s.4.w.39" start="1460">instance,</word>
+      <word end="1473" id="s.4.w.40" start="1470">the</word>
+      <word end="1480" id="s.4.w.41" start="1474">sports</word>
+      <word end="1486" id="s.4.w.42" start="1481">stars</word>
+      <word end="1489" id="s.4.w.43" start="1487">do</word>
+      <word end="1493" id="s.4.w.44" start="1490">not</word>
+      <word end="1498" id="s.4.w.45" start="1494">have</word>
+      <word end="1501" id="s.4.w.46" start="1499">to</word>
+      <word end="1506" id="s.4.w.47" start="1502">take</word>
+      <word end="1511" id="s.4.w.48" start="1507">some</word>
+      <word end="1517" id="s.4.w.49" start="1512">drugs</word>
+      <word end="1520" id="s.4.w.50" start="1518">to</word>
+      <word end="1524" id="s.4.w.51" start="1521">win</word>
+      <word end="1526" id="s.4.w.52" start="1525">a</word>
+      <word end="1531" id="s.4.w.53" start="1527">game</word>
+      <word end="1534" id="s.4.w.54" start="1532">or</word>
+      <word end="1539" id="s.4.w.55" start="1535">show</word>
+      <word end="1545" id="s.4.w.56" start="1540">their</word>
+      <word end="1559" id="s.4.w.57" start="1546">extraordinary</word>
+      <word end="1567" id="s.4.w.58" start="1560">skills.</word>
+      <word end="1571" id="s.4.w.59" start="1568">The</word>
+      <word end="1576" id="s.4.w.60" start="1572">same</word>
+      <word end="1583" id="s.4.w.61" start="1577">reason</word>
+      <word end="1587" id="s.4.w.62" start="1584">why</word>
+      <word end="1592" id="s.4.w.63" start="1588">they</word>
+      <word end="1600" id="s.4.w.64" start="1593">succeed</word>
+      <word end="1603" id="s.4.w.65" start="1601">is</word>
+      <word end="1608" id="s.4.w.66" start="1604">that</word>
+      <word end="1613" id="s.4.w.67" start="1609">they</word>
+      <word end="1617" id="s.4.w.68" start="1614">all</word>
+      <word end="1622" id="s.4.w.69" start="1618">have</word>
+      <word end="1626" id="s.4.w.70" start="1623">the</word>
+      <word end="1639" id="s.4.w.71" start="1627">predominated</word>
+      <word end="1649" id="s.4.w.72" start="1640">abilities</word>
+      <word end="1652" id="s.4.w.73" start="1650">in</word>
+      <word end="1659" id="s.4.w.74" start="1653">sports</word>
+      <word end="1666" id="s.4.w.75" start="1660">realm.</word>
+      <word end="1669" id="s.4.w.76" start="1667">In</word>
+      <word end="1679" id="s.4.w.77" start="1670">contrast,</word>
+      <word end="1685" id="s.4.w.78" start="1680">those</word>
+      <word end="1694" id="s.4.w.79" start="1686">athletes</word>
+      <word end="1698" id="s.4.w.80" start="1695">try</word>
+      <word end="1701" id="s.4.w.81" start="1699">to</word>
+      <word end="1706" id="s.4.w.82" start="1702">have</word>
+      <word end="1718" id="s.4.w.83" start="1707">distinctive</word>
+      <word end="1730" id="s.4.w.84" start="1719">performance</word>
+      <word end="1733" id="s.4.w.85" start="1731">by</word>
+      <word end="1740" id="s.4.w.86" start="1734">taking</word>
+      <word end="1746" id="s.4.w.87" start="1741">risks</word>
+      <word end="1749" id="s.4.w.88" start="1747">of</word>
+      <word end="1756" id="s.4.w.89" start="1750">taking</word>
+      <word end="1762" id="s.4.w.90" start="1757">drugs</word>
+      <word end="1766" id="s.4.w.91" start="1763">are</word>
+      <word end="1773" id="s.4.w.92" start="1767">failed</word>
+      <word end="1776" id="s.4.w.93" start="1774">to</word>
+      <word end="1785" id="s.4.w.94" start="1777">succeed.</word>
+      <word end="1792" id="s.4.w.95" start="1786">Hence,</word>
+      <word end="1797" id="s.4.w.96" start="1793">from</word>
+      <word end="1802" id="s.4.w.97" start="1798">this</word>
+      <word end="1808" id="s.4.w.98" start="1803">case,</word>
+      <word end="1811" id="s.4.w.99" start="1809">we</word>
+      <word end="1815" id="s.4.w.100" start="1812">are</word>
+      <word end="1823" id="s.4.w.101" start="1816">capable</word>
+      <word end="1826" id="s.4.w.102" start="1824">of</word>
+      <word end="1834" id="s.4.w.103" start="1827">stating</word>
+      <word end="1839" id="s.4.w.104" start="1835">that</word>
+      <word end="1842" id="s.4.w.105" start="1840">it</word>
+      <word end="1845" id="s.4.w.106" start="1843">is</word>
+      <word end="1849" id="s.4.w.107" start="1846">not</word>
+      <word end="1859" id="s.4.w.108" start="1850">necessary</word>
+      <word end="1863" id="s.4.w.109" start="1860">for</word>
+      <word end="1874" id="s.4.w.110" start="1864">successful</word>
+      <word end="1881" id="s.4.w.111" start="1875">people</word>
+      <word end="1884" id="s.4.w.112" start="1882">to</word>
+      <word end="1889" id="s.4.w.113" start="1885">take</word>
+      <word end="1896" id="s.4.w.114" start="1890">risks.</word>
+    </sentence>
+    <sentence end="2340" id="s.5" start="1898">
+      <word end="1909" id="s.5.w.0" start="1898">Admittedly,</word>
+      <word end="1912" id="s.5.w.1" start="1910">on</word>
+      <word end="1916" id="s.5.w.2" start="1913">the</word>
+      <word end="1922" id="s.5.w.3" start="1917">other</word>
+      <word end="1929" id="s.5.w.4" start="1923">hands,</word>
+      <word end="1935" id="s.5.w.5" start="1930">there</word>
+      <word end="1941" id="s.5.w.6" start="1936">might</word>
+      <word end="1944" id="s.5.w.7" start="1942">be</word>
+      <word end="1949" id="s.5.w.8" start="1945">some</word>
+      <word end="1960" id="s.5.w.9" start="1950">dissidents</word>
+      <word end="1972" id="s.5.w.10" start="1961">proclaiming</word>
+      <word end="1977" id="s.5.w.11" start="1973">that</word>
+      <word end="1983" id="s.5.w.12" start="1978">doing</word>
+      <word end="1993" id="s.5.w.13" start="1984">something</word>
+      <word end="1997" id="s.5.w.14" start="1994">new</word>
+      <word end="2000" id="s.5.w.15" start="1998">is</word>
+      <word end="2010" id="s.5.w.16" start="2001">necessary</word>
+      <word end="2014" id="s.5.w.17" start="2011">for</word>
+      <word end="2021" id="s.5.w.18" start="2015">people</word>
+      <word end="2024" id="s.5.w.19" start="2022">to</word>
+      <word end="2032" id="s.5.w.20" start="2025">success</word>
+      <word end="2040" id="s.5.w.21" start="2033">because</word>
+      <word end="2045" id="s.5.w.22" start="2041">they</word>
+      <word end="2049" id="s.5.w.23" start="2046">can</word>
+      <word end="2056" id="s.5.w.24" start="2050">become</word>
+      <word end="2066" id="s.5.w.25" start="2057">different</word>
+      <word end="2071" id="s.5.w.26" start="2067">from</word>
+      <word end="2079" id="s.5.w.27" start="2072">others,</word>
+      <word end="2085" id="s.5.w.28" start="2080">which</word>
+      <word end="2088" id="s.5.w.29" start="2086">is</word>
+      <word end="2093" id="s.5.w.30" start="2089">also</word>
+      <word end="2095" id="s.5.w.31" start="2094">a</word>
+      <word end="2102" id="s.5.w.32" start="2096">widely</word>
+      <word end="2111" id="s.5.w.33" start="2103">accepted</word>
+      <word end="2116" id="s.5.w.34" start="2112">idea</word>
+      <word end="2120" id="s.5.w.35" start="2117">for</word>
+      <word end="2129" id="s.5.w.36" start="2121">success.</word>
+      <word end="2138" id="s.5.w.37" start="2130">However,</word>
+      <word end="2148" id="s.5.w.38" start="2139">according</word>
+      <word end="2151" id="s.5.w.39" start="2149">to</word>
+      <word end="2154" id="s.5.w.40" start="2152">my</word>
+      <word end="2162" id="s.5.w.41" start="2155">limited</word>
+      <word end="2177" id="s.5.w.42" start="2163">understanding,</word>
+      <word end="2179" id="s.5.w.43" start="2178">I</word>
+      <word end="2184" id="s.5.w.44" start="2180">just</word>
+      <word end="2190" id="s.5.w.45" start="2185">doubt</word>
+      <word end="2194" id="s.5.w.46" start="2191">the</word>
+      <word end="2206" id="s.5.w.47" start="2195">credibility</word>
+      <word end="2209" id="s.5.w.48" start="2207">of</word>
+      <word end="2214" id="s.5.w.49" start="2210">that</word>
+      <word end="2221" id="s.5.w.50" start="2215">saying</word>
+      <word end="2227" id="s.5.w.51" start="2222">owing</word>
+      <word end="2230" id="s.5.w.52" start="2228">to</word>
+      <word end="2234" id="s.5.w.53" start="2231">its</word>
+      <word end="2246" id="s.5.w.54" start="2235">imprudence.</word>
+      <word end="2250" id="s.5.w.55" start="2247">Try</word>
+      <word end="2260" id="s.5.w.56" start="2251">something</word>
+      <word end="2264" id="s.5.w.57" start="2261">new</word>
+      <word end="2268" id="s.5.w.58" start="2265">can</word>
+      <word end="2275" id="s.5.w.59" start="2269">indeed</word>
+      <word end="2280" id="s.5.w.60" start="2276">make</word>
+      <word end="2287" id="s.5.w.61" start="2281">people</word>
+      <word end="2294" id="s.5.w.62" start="2288">become</word>
+      <word end="2303" id="s.5.w.63" start="2295">special,</word>
+      <word end="2309" id="s.5.w.64" start="2304">while</word>
+      <word end="2312" id="s.5.w.65" start="2310">it</word>
+      <word end="2317" id="s.5.w.66" start="2313">does</word>
+      <word end="2321" id="s.5.w.67" start="2318">not</word>
+      <word end="2326" id="s.5.w.68" start="2322">mean</word>
+      <word end="2338" id="s.5.w.69" start="2327">successful.</word>
+    </sentence>
+    <sentence end="2853" id="s.6" start="2341">
+      <word end="2346" id="s.6.w.0" start="2341">Based</word>
+      <word end="2349" id="s.6.w.1" start="2347">on</word>
+      <word end="2353" id="s.6.w.2" start="2350">the</word>
+      <word end="2361" id="s.6.w.3" start="2354">reasons</word>
+      <word end="2374" id="s.6.w.4" start="2362">demonstrated</word>
+      <word end="2381" id="s.6.w.5" start="2375">above,</word>
+      <word end="2383" id="s.6.w.6" start="2382">I</word>
+      <word end="2391" id="s.6.w.7" start="2384">believe</word>
+      <word end="2396" id="s.6.w.8" start="2392">that</word>
+      <word end="2402" id="s.6.w.9" start="2397">doing</word>
+      <word end="2407" id="s.6.w.10" start="2403">what</word>
+      <word end="2410" id="s.6.w.11" start="2408">we</word>
+      <word end="2418" id="s.6.w.12" start="2411">already</word>
+      <word end="2424" id="s.6.w.13" start="2419">known</word>
+      <word end="2428" id="s.6.w.14" start="2425">can</word>
+      <word end="2434" id="s.6.w.15" start="2429">still</word>
+      <word end="2440" id="s.6.w.16" start="2435">leads</word>
+      <word end="2443" id="s.6.w.17" start="2441">us</word>
+      <word end="2446" id="s.6.w.18" start="2444">to</word>
+      <word end="2454" id="s.6.w.19" start="2447">succeed</word>
+      <word end="2462" id="s.6.w.20" start="2455">because</word>
+      <word end="2466" id="s.6.w.21" start="2463">the</word>
+      <word end="2477" id="s.6.w.22" start="2467">advantages</word>
+      <word end="2480" id="s.6.w.23" start="2478">of</word>
+      <word end="2485" id="s.6.w.24" start="2481">this</word>
+      <word end="2489" id="s.6.w.25" start="2486">are</word>
+      <word end="2500" id="s.6.w.26" start="2490">relatively</word>
+      <word end="2508" id="s.6.w.27" start="2501">greater</word>
+      <word end="2513" id="s.6.w.28" start="2509">than</word>
+      <word end="2518" id="s.6.w.29" start="2514">that</word>
+      <word end="2521" id="s.6.w.30" start="2519">of</word>
+      <word end="2525" id="s.6.w.31" start="2522">the</word>
+      <word end="2535" id="s.6.w.32" start="2526">opposite.</word>
+      <word end="2538" id="s.6.w.33" start="2536">In</word>
+      <word end="2544" id="s.6.w.34" start="2539">other</word>
+      <word end="2551" id="s.6.w.35" start="2545">words,</word>
+      <word end="2560" id="s.6.w.36" start="2552">reducing</word>
+      <word end="2566" id="s.6.w.37" start="2561">risks</word>
+      <word end="2570" id="s.6.w.38" start="2567">and</word>
+      <word end="2580" id="s.6.w.39" start="2571">enhancing</word>
+      <word end="2593" id="s.6.w.40" start="2581">individual's</word>
+      <word end="2604" id="s.6.w.41" start="2594">capability</word>
+      <word end="2607" id="s.6.w.42" start="2605">is</word>
+      <word end="2611" id="s.6.w.43" start="2608">the</word>
+      <word end="2616" id="s.6.w.44" start="2612">most</word>
+      <word end="2626" id="s.6.w.45" start="2617">important</word>
+      <word end="2631" id="s.6.w.46" start="2627">path</word>
+      <word end="2634" id="s.6.w.47" start="2632">to</word>
+      <word end="2643" id="s.6.w.48" start="2635">success.</word>
+      <word end="2646" id="s.6.w.49" start="2644">It</word>
+      <word end="2649" id="s.6.w.50" start="2647">is</word>
+      <word end="2653" id="s.6.w.51" start="2650">not</word>
+      <word end="2656" id="s.6.w.52" start="2654">to</word>
+      <word end="2661" id="s.6.w.53" start="2657">say,</word>
+      <word end="2664" id="s.6.w.54" start="2662">of</word>
+      <word end="2672" id="s.6.w.55" start="2665">course,</word>
+      <word end="2677" id="s.6.w.56" start="2673">that</word>
+      <word end="2683" id="s.6.w.57" start="2678">other</word>
+      <word end="2690" id="s.6.w.58" start="2684">points</word>
+      <word end="2693" id="s.6.w.59" start="2691">of</word>
+      <word end="2698" id="s.6.w.60" start="2694">view</word>
+      <word end="2702" id="s.6.w.61" start="2699">are</word>
+      <word end="2713" id="s.6.w.62" start="2703">completely</word>
+      <word end="2721" id="s.6.w.63" start="2714">without</word>
+      <word end="2728" id="s.6.w.64" start="2722">merit.</word>
+      <word end="2735" id="s.6.w.65" start="2729">Still,</word>
+      <word end="2737" id="s.6.w.66" start="2736">I</word>
+      <word end="2740" id="s.6.w.67" start="2738">am</word>
+      <word end="2747" id="s.6.w.68" start="2741">firmly</word>
+      <word end="2757" id="s.6.w.69" start="2748">convinced</word>
+      <word end="2762" id="s.6.w.70" start="2758">that</word>
+      <word end="2766" id="s.6.w.71" start="2763">the</word>
+      <word end="2774" id="s.6.w.72" start="2767">reasons</word>
+      <word end="2776" id="s.6.w.73" start="2775">I</word>
+      <word end="2781" id="s.6.w.74" start="2777">have</word>
+      <word end="2790" id="s.6.w.75" start="2782">proposed</word>
+      <word end="2793" id="s.6.w.76" start="2791">in</word>
+      <word end="2799" id="s.6.w.77" start="2794">favor</word>
+      <word end="2802" id="s.6.w.78" start="2800">of</word>
+      <word end="2805" id="s.6.w.79" start="2803">my</word>
+      <word end="2809" id="s.6.w.80" start="2806">own</word>
+      <word end="2819" id="s.6.w.81" start="2810">sentiment</word>
+      <word end="2823" id="s.6.w.82" start="2820">are</word>
+      <word end="2828" id="s.6.w.83" start="2824">much</word>
+      <word end="2833" id="s.6.w.84" start="2829">more</word>
+      <word end="2841" id="s.6.w.85" start="2834">tenable</word>
+      <word end="2845" id="s.6.w.86" start="2842">and</word>
+      <word end="2853" id="s.6.w.87" start="2846">cogent.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.75 s.2.w.76 s.2.w.77 s.2.w.78 s.2.w.79 s.2.w.80 s.2.w.81 s.2.w.82 s.2.w.83" repr="successful people still do things they already know" spans="493|544" MajorClaim=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann4" words="s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23" repr="to be successful, we all try to reduce the risk we might encounter" spans="608|674" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann5" words="s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="The lower the factors making us fail we have, the higher probability to success we own" spans="676|762" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann6" words="s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57" repr="Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment" spans="764|865" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann7" words="s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80 s.3.w.81 s.3.w.82 s.3.w.83" repr="He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income" spans="867|999" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann8" words="s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91 s.3.w.92 s.3.w.93 s.3.w.94 s.3.w.95 s.3.w.96 s.3.w.97 s.3.w.98 s.3.w.99 s.3.w.100 s.3.w.101 s.3.w.102 s.3.w.103 s.3.w.104 s.3.w.105 s.3.w.106" repr="He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time" spans="1001|1122" Premise=""/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann9" words="s.3.w.113 s.3.w.114 s.3.w.115 s.3.w.116 s.3.w.117 s.3.w.118 s.3.w.119 s.3.w.120 s.3.w.121 s.3.w.122 s.3.w.123 s.3.w.124 s.3.w.125" repr="successful people do not have to try new things or take risks" spans="1165|1226" Claim="" Stance="For" link.supports="ann8 ann6 ann7 ann4 ann5"/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann11" words="s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20" repr="it depends on the capability of one to decide whether he can succeed or not" spans="1277|1352" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann12" words="s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="a successful person should be able to dismantle the hurdles prohibiting him to success" spans="1364|1450" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann13" words="s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="the sports stars do not have to take some drugs to win a game or show their extraordinary skills" spans="1466|1562" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann14" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75" repr="The same reason why they succeed is that they all have the predominated abilities in sports realm" spans="1564|1661" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann15" words="s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89 s.4.w.90 s.4.w.91 s.4.w.92 s.4.w.93 s.4.w.94" repr="those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed" spans="1676|1780" Premise=""/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann10" words="s.4.w.104 s.4.w.105 s.4.w.106 s.4.w.107 s.4.w.108 s.4.w.109 s.4.w.110 s.4.w.111 s.4.w.112 s.4.w.113 s.4.w.114" repr="it is not necessary for successful people to take risks" spans="1836|1891" Claim="" Stance="For" link.supports="ann11 ann14 ann15 ann12 ann13"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann16" words="s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20" repr="doing something new is necessary for people to success" spans="1973|2027" Claim="" Stance="Against" link.supports="ann17 ann18"/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann17" words="s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="they can become different from others, which is also a widely accepted idea for success" spans="2036|2123" Premise=""/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann18" words="s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63" repr="Try something new can indeed make people become special" spans="2242|2297" Premise="" link.attacks="ann19"/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann19" words="s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69" repr="while it does not mean successful" spans="2299|2332" Premise=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann2" words="s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15 s.6.w.16 s.6.w.17 s.6.w.18 s.6.w.19" repr="doing what we already known can still leads us to succeed" spans="2391|2448" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30 s.6.w.31 s.6.w.32" repr="the advantages of this are relatively greater than that of the opposite" spans="2457|2528" Claim="" Stance="For"/>
+  </annotations>
+</document>

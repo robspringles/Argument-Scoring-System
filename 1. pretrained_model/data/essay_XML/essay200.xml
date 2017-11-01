@@ -1,0 +1,634 @@
+<document source="essay200">
+  <sentences>
+    <sentence end="60" id="s.0" start="0">
+      <word end="4" id="s.0.w.0" start="0">Some</word>
+      <word end="11" id="s.0.w.1" start="5">people</word>
+      <word end="19" id="s.0.w.2" start="12">believe</word>
+      <word end="24" id="s.0.w.3" start="20">that</word>
+      <word end="28" id="s.0.w.4" start="25">the</word>
+      <word end="34" id="s.0.w.5" start="29">Earth</word>
+      <word end="37" id="s.0.w.6" start="35">is</word>
+      <word end="43" id="s.0.w.7" start="38">being</word>
+      <word end="50" id="s.0.w.8" start="44">harmed</word>
+      <word end="53" id="s.0.w.9" start="51">by</word>
+      <word end="59" id="s.0.w.10" start="54">human</word>
+    </sentence>
+    <sentence end="62" id="s.1" start="61"/>
+    <sentence end="473" id="s.2" start="63">
+      <word end="70" id="s.2.w.0" start="63">Whether</word>
+      <word end="76" id="s.2.w.1" start="71">human</word>
+      <word end="85" id="s.2.w.2" start="77">activity</word>
+      <word end="88" id="s.2.w.3" start="86">is</word>
+      <word end="95" id="s.2.w.4" start="89">making</word>
+      <word end="99" id="s.2.w.5" start="96">the</word>
+      <word end="105" id="s.2.w.6" start="100">Earth</word>
+      <word end="107" id="s.2.w.7" start="106">a</word>
+      <word end="114" id="s.2.w.8" start="108">better</word>
+      <word end="120" id="s.2.w.9" start="115">place</word>
+      <word end="123" id="s.2.w.10" start="121">to</word>
+      <word end="128" id="s.2.w.11" start="124">live</word>
+      <word end="131" id="s.2.w.12" start="129">or</word>
+      <word end="140" id="s.2.w.13" start="132">damaging</word>
+      <word end="143" id="s.2.w.14" start="141">it</word>
+      <word end="146" id="s.2.w.15" start="144">is</word>
+      <word end="148" id="s.2.w.16" start="147">a</word>
+      <word end="158" id="s.2.w.17" start="149">debatable</word>
+      <word end="165" id="s.2.w.18" start="159">issue.</word>
+      <word end="170" id="s.2.w.19" start="166">Some</word>
+      <word end="177" id="s.2.w.20" start="171">people</word>
+      <word end="186" id="s.2.w.21" start="178">advocate</word>
+      <word end="190" id="s.2.w.22" start="187">the</word>
+      <word end="195" id="s.2.w.23" start="191">idea</word>
+      <word end="200" id="s.2.w.24" start="196">that</word>
+      <word end="206" id="s.2.w.25" start="201">human</word>
+      <word end="215" id="s.2.w.26" start="207">activity</word>
+      <word end="218" id="s.2.w.27" start="216">is</word>
+      <word end="233" id="s.2.w.28" start="219">advantageously</word>
+      <word end="245" id="s.2.w.29" start="234">influencing</word>
+      <word end="248" id="s.2.w.30" start="246">to</word>
+      <word end="252" id="s.2.w.31" start="249">the</word>
+      <word end="259" id="s.2.w.32" start="253">Earth.</word>
+      <word end="268" id="s.2.w.33" start="260">However,</word>
+      <word end="270" id="s.2.w.34" start="269">I</word>
+      <word end="279" id="s.2.w.35" start="271">strongly</word>
+      <word end="287" id="s.2.w.36" start="280">believe</word>
+      <word end="292" id="s.2.w.37" start="288">that</word>
+      <word end="298" id="s.2.w.38" start="293">human</word>
+      <word end="309" id="s.2.w.39" start="299">activities</word>
+      <word end="313" id="s.2.w.40" start="310">are</word>
+      <word end="320" id="s.2.w.41" start="314">having</word>
+      <word end="322" id="s.2.w.42" start="321">a</word>
+      <word end="326" id="s.2.w.43" start="323">bad</word>
+      <word end="333" id="s.2.w.44" start="327">effect</word>
+      <word end="338" id="s.2.w.45" start="334">upon</word>
+      <word end="342" id="s.2.w.46" start="339">our</word>
+      <word end="350" id="s.2.w.47" start="343">planet,</word>
+      <word end="354" id="s.2.w.48" start="351">for</word>
+      <word end="360" id="s.2.w.49" start="355">human</word>
+      <word end="364" id="s.2.w.50" start="361">are</word>
+      <word end="374" id="s.2.w.51" start="365">polluting</word>
+      <word end="378" id="s.2.w.52" start="375">the</word>
+      <word end="386" id="s.2.w.53" start="379">Earth's</word>
+      <word end="399" id="s.2.w.54" start="387">environment,</word>
+      <word end="410" id="s.2.w.55" start="400">exhausting</word>
+      <word end="418" id="s.2.w.56" start="411">natural</word>
+      <word end="427" id="s.2.w.57" start="419">resource</word>
+      <word end="431" id="s.2.w.58" start="428">and</word>
+      <word end="443" id="s.2.w.59" start="432">threatening</word>
+      <word end="447" id="s.2.w.60" start="444">the</word>
+      <word end="454" id="s.2.w.61" start="448">living</word>
+      <word end="457" id="s.2.w.62" start="455">of</word>
+      <word end="463" id="s.2.w.63" start="458">other</word>
+      <word end="472" id="s.2.w.64" start="464">species.</word>
+    </sentence>
+    <sentence end="923" id="s.3" start="474">
+      <word end="480" id="s.3.w.0" start="474">People</word>
+      <word end="484" id="s.3.w.1" start="481">are</word>
+      <word end="495" id="s.3.w.2" start="485">corrupting</word>
+      <word end="501" id="s.3.w.3" start="496">their</word>
+      <word end="512" id="s.3.w.4" start="502">ecosphere.</word>
+      <word end="515" id="s.3.w.5" start="513">In</word>
+      <word end="522" id="s.3.w.6" start="516">recent</word>
+      <word end="531" id="s.3.w.7" start="523">decades,</word>
+      <word end="544" id="s.3.w.8" start="532">concurrently</word>
+      <word end="549" id="s.3.w.9" start="545">with</word>
+      <word end="553" id="s.3.w.10" start="550">the</word>
+      <word end="562" id="s.3.w.11" start="554">increase</word>
+      <word end="565" id="s.3.w.12" start="563">of</word>
+      <word end="571" id="s.3.w.13" start="566">human</word>
+      <word end="580" id="s.3.w.14" start="572">consume,</word>
+      <word end="584" id="s.3.w.15" start="581">the</word>
+      <word end="590" id="s.3.w.16" start="585">waste</word>
+      <word end="600" id="s.3.w.17" start="591">discarded</word>
+      <word end="603" id="s.3.w.18" start="601">by</word>
+      <word end="609" id="s.3.w.19" start="604">human</word>
+      <word end="614" id="s.3.w.20" start="610">also</word>
+      <word end="626" id="s.3.w.21" start="615">multiplies.</word>
+      <word end="632" id="s.3.w.22" start="627">These</word>
+      <word end="639" id="s.3.w.23" start="633">wastes</word>
+      <word end="649" id="s.3.w.24" start="640">including</word>
+      <word end="659" id="s.3.w.25" start="650">household</word>
+      <word end="665" id="s.3.w.26" start="660">waste</word>
+      <word end="669" id="s.3.w.27" start="666">and</word>
+      <word end="680" id="s.3.w.28" start="670">industrial</word>
+      <word end="686" id="s.3.w.29" start="681">waste</word>
+      <word end="690" id="s.3.w.30" start="687">are</word>
+      <word end="693" id="s.3.w.31" start="691">so</word>
+      <word end="697" id="s.3.w.32" start="694">big</word>
+      <word end="702" id="s.3.w.33" start="698">that</word>
+      <word end="704" id="s.3.w.34" start="703">a</word>
+      <word end="710" id="s.3.w.35" start="705">"new"</word>
+      <word end="720" id="s.3.w.36" start="711">continent</word>
+      <word end="723" id="s.3.w.37" start="721">is</word>
+      <word end="727" id="s.3.w.38" start="724">now</word>
+      <word end="733" id="s.3.w.39" start="728">being</word>
+      <word end="740" id="s.3.w.40" start="734">formed</word>
+      <word end="743" id="s.3.w.41" start="741">in</word>
+      <word end="747" id="s.3.w.42" start="744">the</word>
+      <word end="751" id="s.3.w.43" start="748">sea</word>
+      <word end="756" id="s.3.w.44" start="752">from</word>
+      <word end="765" id="s.3.w.45" start="757">garbage.</word>
+      <word end="778" id="s.3.w.46" start="766">Furthermore,</word>
+      <word end="782" id="s.3.w.47" start="779">the</word>
+      <word end="793" id="s.3.w.48" start="783">industrial</word>
+      <word end="801" id="s.3.w.49" start="794">exhaust</word>
+      <word end="807" id="s.3.w.50" start="802">gases</word>
+      <word end="811" id="s.3.w.51" start="808">are</word>
+      <word end="824" id="s.3.w.52" start="812">adulterating</word>
+      <word end="828" id="s.3.w.53" start="825">the</word>
+      <word end="833" id="s.3.w.54" start="829">air,</word>
+      <word end="841" id="s.3.w.55" start="834">causing</word>
+      <word end="845" id="s.3.w.56" start="842">the</word>
+      <word end="858" id="s.3.w.57" start="846">insalubrious</word>
+      <word end="869" id="s.3.w.58" start="859">phenomenon</word>
+      <word end="874" id="s.3.w.59" start="870">such</word>
+      <word end="877" id="s.3.w.60" start="875">as</word>
+      <word end="882" id="s.3.w.61" start="878">acid</word>
+      <word end="888" id="s.3.w.62" start="883">rain,</word>
+      <word end="895" id="s.3.w.63" start="889">global</word>
+      <word end="903" id="s.3.w.64" start="896">warming</word>
+      <word end="906" id="s.3.w.65" start="904">or</word>
+      <word end="914" id="s.3.w.66" start="907">climate</word>
+      <word end="922" id="s.3.w.67" start="915">change.</word>
+    </sentence>
+    <sentence end="1438" id="s.4" start="924">
+      <word end="932" id="s.4.w.0" start="924">Besides,</word>
+      <word end="939" id="s.4.w.1" start="933">people</word>
+      <word end="943" id="s.4.w.2" start="940">are</word>
+      <word end="952" id="s.4.w.3" start="944">draining</word>
+      <word end="956" id="s.4.w.4" start="953">the</word>
+      <word end="964" id="s.4.w.5" start="957">Earth's</word>
+      <word end="972" id="s.4.w.6" start="965">natural</word>
+      <word end="983" id="s.4.w.7" start="973">resources.</word>
+      <word end="989" id="s.4.w.8" start="984">These</word>
+      <word end="999" id="s.4.w.9" start="990">resources</word>
+      <word end="1004" id="s.4.w.10" start="1000">such</word>
+      <word end="1007" id="s.4.w.11" start="1005">as</word>
+      <word end="1012" id="s.4.w.12" start="1008">oil,</word>
+      <word end="1017" id="s.4.w.13" start="1013">coal</word>
+      <word end="1021" id="s.4.w.14" start="1018">are</word>
+      <word end="1027" id="s.4.w.15" start="1022">vital</word>
+      <word end="1031" id="s.4.w.16" start="1028">for</word>
+      <word end="1037" id="s.4.w.17" start="1032">human</word>
+      <word end="1047" id="s.4.w.18" start="1038">activity,</word>
+      <word end="1057" id="s.4.w.19" start="1048">therefore</word>
+      <word end="1067" id="s.4.w.20" start="1058">nowadays,</word>
+      <word end="1071" id="s.4.w.21" start="1068">the</word>
+      <word end="1084" id="s.4.w.22" start="1072">exploitation</word>
+      <word end="1095" id="s.4.w.23" start="1085">activities</word>
+      <word end="1098" id="s.4.w.24" start="1096">of</word>
+      <word end="1104" id="s.4.w.25" start="1099">these</word>
+      <word end="1114" id="s.4.w.26" start="1105">resources</word>
+      <word end="1118" id="s.4.w.27" start="1115">are</word>
+      <word end="1129" id="s.4.w.28" start="1119">increasing</word>
+      <word end="1142" id="s.4.w.29" start="1130">dramatically</word>
+      <word end="1145" id="s.4.w.30" start="1143">to</word>
+      <word end="1151" id="s.4.w.31" start="1146">adapt</word>
+      <word end="1154" id="s.4.w.32" start="1152">to</word>
+      <word end="1158" id="s.4.w.33" start="1155">the</word>
+      <word end="1167" id="s.4.w.34" start="1159">infinite</word>
+      <word end="1172" id="s.4.w.35" start="1168">need</word>
+      <word end="1175" id="s.4.w.36" start="1173">of</word>
+      <word end="1183" id="s.4.w.37" start="1176">people.</word>
+      <word end="1195" id="s.4.w.38" start="1184">Researchers</word>
+      <word end="1205" id="s.4.w.39" start="1196">indicated</word>
+      <word end="1210" id="s.4.w.40" start="1206">that</word>
+      <word end="1215" id="s.4.w.41" start="1211">most</word>
+      <word end="1218" id="s.4.w.42" start="1216">of</word>
+      <word end="1226" id="s.4.w.43" start="1219">natural</word>
+      <word end="1236" id="s.4.w.44" start="1227">resources</word>
+      <word end="1240" id="s.4.w.45" start="1237">are</word>
+      <word end="1254" id="s.4.w.46" start="1241">un-recyclable</word>
+      <word end="1258" id="s.4.w.47" start="1255">and</word>
+      <word end="1263" id="s.4.w.48" start="1259">only</word>
+      <word end="1271" id="s.4.w.49" start="1264">several</word>
+      <word end="1279" id="s.4.w.50" start="1272">decades</word>
+      <word end="1286" id="s.4.w.51" start="1280">after,</word>
+      <word end="1290" id="s.4.w.52" start="1287">the</word>
+      <word end="1298" id="s.4.w.53" start="1291">Earth's</word>
+      <word end="1306" id="s.4.w.54" start="1299">natural</word>
+      <word end="1316" id="s.4.w.55" start="1307">resources</word>
+      <word end="1320" id="s.4.w.56" start="1317">are</word>
+      <word end="1328" id="s.4.w.57" start="1321">totally</word>
+      <word end="1339" id="s.4.w.58" start="1329">exhausted.</word>
+      <word end="1342" id="s.4.w.59" start="1340">At</word>
+      <word end="1347" id="s.4.w.60" start="1343">that</word>
+      <word end="1353" id="s.4.w.61" start="1348">time,</word>
+      <word end="1359" id="s.4.w.62" start="1354">human</word>
+      <word end="1368" id="s.4.w.63" start="1360">activity</word>
+      <word end="1373" id="s.4.w.64" start="1369">will</word>
+      <word end="1376" id="s.4.w.65" start="1374">be</word>
+      <word end="1386" id="s.4.w.66" start="1377">seriously</word>
+      <word end="1395" id="s.4.w.67" start="1387">affected</word>
+      <word end="1399" id="s.4.w.68" start="1396">due</word>
+      <word end="1402" id="s.4.w.69" start="1400">to</word>
+      <word end="1406" id="s.4.w.70" start="1403">the</word>
+      <word end="1417" id="s.4.w.71" start="1407">dependence</word>
+      <word end="1420" id="s.4.w.72" start="1418">on</word>
+      <word end="1426" id="s.4.w.73" start="1421">these</word>
+      <word end="1437" id="s.4.w.74" start="1427">resources.</word>
+    </sentence>
+    <sentence end="1983" id="s.5" start="1439">
+      <word end="1444" id="s.5.w.0" start="1439">Also,</word>
+      <word end="1451" id="s.5.w.1" start="1445">people</word>
+      <word end="1455" id="s.5.w.2" start="1452">are</word>
+      <word end="1467" id="s.5.w.3" start="1456">endangering</word>
+      <word end="1473" id="s.5.w.4" start="1468">other</word>
+      <word end="1482" id="s.5.w.5" start="1474">species'</word>
+      <word end="1488" id="s.5.w.6" start="1483">live.</word>
+      <word end="1496" id="s.5.w.7" start="1489">Hunting</word>
+      <word end="1500" id="s.5.w.8" start="1497">has</word>
+      <word end="1505" id="s.5.w.9" start="1501">been</word>
+      <word end="1507" id="s.5.w.10" start="1506">a</word>
+      <word end="1519" id="s.5.w.11" start="1508">fundamental</word>
+      <word end="1528" id="s.5.w.12" start="1520">activity</word>
+      <word end="1531" id="s.5.w.13" start="1529">of</word>
+      <word end="1537" id="s.5.w.14" start="1532">human</word>
+      <word end="1541" id="s.5.w.15" start="1538">for</word>
+      <word end="1548" id="s.5.w.16" start="1542">having</word>
+      <word end="1554" id="s.5.w.17" start="1549">food.</word>
+      <word end="1562" id="s.5.w.18" start="1555">Through</word>
+      <word end="1570" id="s.5.w.19" start="1563">million</word>
+      <word end="1576" id="s.5.w.20" start="1571">years</word>
+      <word end="1579" id="s.5.w.21" start="1577">of</word>
+      <word end="1588" id="s.5.w.22" start="1580">hunting,</word>
+      <word end="1599" id="s.5.w.23" start="1589">especially</word>
+      <word end="1602" id="s.5.w.24" start="1600">in</word>
+      <word end="1609" id="s.5.w.25" start="1603">recent</word>
+      <word end="1619" id="s.5.w.26" start="1610">centuries</word>
+      <word end="1624" id="s.5.w.27" start="1620">with</word>
+      <word end="1628" id="s.5.w.28" start="1625">the</word>
+      <word end="1639" id="s.5.w.29" start="1629">innovation</word>
+      <word end="1642" id="s.5.w.30" start="1640">of</word>
+      <word end="1648" id="s.5.w.31" start="1643">rifle</word>
+      <word end="1652" id="s.5.w.32" start="1649">and</word>
+      <word end="1662" id="s.5.w.33" start="1653">dynamite,</word>
+      <word end="1669" id="s.5.w.34" start="1663">people</word>
+      <word end="1674" id="s.5.w.35" start="1670">have</word>
+      <word end="1681" id="s.5.w.36" start="1675">killed</word>
+      <word end="1686" id="s.5.w.37" start="1682">many</word>
+      <word end="1694" id="s.5.w.38" start="1687">animals</word>
+      <word end="1698" id="s.5.w.39" start="1695">and</word>
+      <word end="1703" id="s.5.w.40" start="1699">even</word>
+      <word end="1708" id="s.5.w.41" start="1704">have</word>
+      <word end="1713" id="s.5.w.42" start="1709">made</word>
+      <word end="1718" id="s.5.w.43" start="1714">some</word>
+      <word end="1724" id="s.5.w.44" start="1719">kinds</word>
+      <word end="1727" id="s.5.w.45" start="1725">of</word>
+      <word end="1732" id="s.5.w.46" start="1728">them</word>
+      <word end="1739" id="s.5.w.47" start="1733">become</word>
+      <word end="1748" id="s.5.w.48" start="1740">extinct.</word>
+      <word end="1758" id="s.5.w.49" start="1749">Moreover,</word>
+      <word end="1766" id="s.5.w.50" start="1759">people,</word>
+      <word end="1776" id="s.5.w.51" start="1767">suffering</word>
+      <word end="1781" id="s.5.w.52" start="1777">from</word>
+      <word end="1785" id="s.5.w.53" start="1782">the</word>
+      <word end="1796" id="s.5.w.54" start="1786">population</word>
+      <word end="1806" id="s.5.w.55" start="1797">pressure,</word>
+      <word end="1810" id="s.5.w.56" start="1807">are</word>
+      <word end="1820" id="s.5.w.57" start="1811">expanding</word>
+      <word end="1826" id="s.5.w.58" start="1821">their</word>
+      <word end="1833" id="s.5.w.59" start="1827">living</word>
+      <word end="1839" id="s.5.w.60" start="1834">area;</word>
+      <word end="1853" id="s.5.w.61" start="1840">consequently,</word>
+      <word end="1857" id="s.5.w.62" start="1854">the</word>
+      <word end="1864" id="s.5.w.63" start="1858">living</word>
+      <word end="1869" id="s.5.w.64" start="1865">area</word>
+      <word end="1872" id="s.5.w.65" start="1870">of</word>
+      <word end="1878" id="s.5.w.66" start="1873">other</word>
+      <word end="1886" id="s.5.w.67" start="1879">species</word>
+      <word end="1896" id="s.5.w.68" start="1887">narrowed.</word>
+      <word end="1901" id="s.5.w.69" start="1897">This</word>
+      <word end="1911" id="s.5.w.70" start="1902">narrowing</word>
+      <word end="1914" id="s.5.w.71" start="1912">of</word>
+      <word end="1921" id="s.5.w.72" start="1915">living</word>
+      <word end="1928" id="s.5.w.73" start="1922">region</word>
+      <word end="1931" id="s.5.w.74" start="1929">is</word>
+      <word end="1939" id="s.5.w.75" start="1932">pushing</word>
+      <word end="1944" id="s.5.w.76" start="1940">many</word>
+      <word end="1954" id="s.5.w.77" start="1945">creatures</word>
+      <word end="1957" id="s.5.w.78" start="1955">to</word>
+      <word end="1961" id="s.5.w.79" start="1958">the</word>
+      <word end="1967" id="s.5.w.80" start="1962">brink</word>
+      <word end="1970" id="s.5.w.81" start="1968">of</word>
+      <word end="1982" id="s.5.w.82" start="1971">extinction.</word>
+    </sentence>
+    <sentence end="2192" id="s.6" start="1984">
+      <word end="1987" id="s.6.w.0" start="1984">All</word>
+      <word end="1990" id="s.6.w.1" start="1988">in</word>
+      <word end="1995" id="s.6.w.2" start="1991">all,</word>
+      <word end="2000" id="s.6.w.3" start="1996">from</word>
+      <word end="2010" id="s.6.w.4" start="2001">discussed</word>
+      <word end="2019" id="s.6.w.5" start="2011">reasons,</word>
+      <word end="2022" id="s.6.w.6" start="2020">we</word>
+      <word end="2026" id="s.6.w.7" start="2023">can</word>
+      <word end="2035" id="s.6.w.8" start="2027">conclude</word>
+      <word end="2040" id="s.6.w.9" start="2036">that</word>
+      <word end="2046" id="s.6.w.10" start="2041">human</word>
+      <word end="2055" id="s.6.w.11" start="2047">activity</word>
+      <word end="2059" id="s.6.w.12" start="2056">are</word>
+      <word end="2069" id="s.6.w.13" start="2060">gradually</word>
+      <word end="2077" id="s.6.w.14" start="2070">destroy</word>
+      <word end="2081" id="s.6.w.15" start="2078">the</word>
+      <word end="2087" id="s.6.w.16" start="2082">Earth</word>
+      <word end="2093" id="s.6.w.17" start="2088">since</word>
+      <word end="2096" id="s.6.w.18" start="2094">it</word>
+      <word end="2099" id="s.6.w.19" start="2097">is</word>
+      <word end="2109" id="s.6.w.20" start="2100">polluting</word>
+      <word end="2113" id="s.6.w.21" start="2110">the</word>
+      <word end="2119" id="s.6.w.22" start="2114">Earth</word>
+      <word end="2132" id="s.6.w.23" start="2120">environment,</word>
+      <word end="2142" id="s.6.w.24" start="2133">depleting</word>
+      <word end="2146" id="s.6.w.25" start="2143">the</word>
+      <word end="2155" id="s.6.w.26" start="2147">resource</word>
+      <word end="2159" id="s.6.w.27" start="2156">and</word>
+      <word end="2170" id="s.6.w.28" start="2160">imperiling</word>
+      <word end="2176" id="s.6.w.29" start="2171">other</word>
+      <word end="2185" id="s.6.w.30" start="2177">species'</word>
+      <word end="2192" id="s.6.w.31" start="2186">lives.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann1" words="s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47" repr="human activities are having a bad effect upon our planet" spans="291|347" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.2.w.64 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4" repr="People are corrupting their ecosphere" spans="471|508" Claim="" Stance="For" link.supports="ann4 ann6 ann5"/>
+    <annotation id="ann2" words="s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54 s.2.w.55 s.2.w.56 s.2.w.57 s.2.w.58 s.2.w.59 s.2.w.60 s.2.w.61 s.2.w.62 s.2.w.63 s.2.w.64" repr="human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species" spans="353|469" Claim="" Stance="For"/>
+    <annotation id="ann3" words="s.2.w.64 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4" repr="People are corrupting their ecosphere" spans="471|508" Claim="" Stance="For" link.supports="ann4 ann6 ann5"/>
+    <annotation id="ann3" words="s.2.w.64 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4" repr="People are corrupting their ecosphere" spans="471|508" Claim="" Stance="For" link.supports="ann4 ann6 ann5"/>
+    <annotation id="ann3" words="s.2.w.64 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4" repr="People are corrupting their ecosphere" spans="471|508" Claim="" Stance="For" link.supports="ann4 ann6 ann5"/>
+    <annotation id="ann3" words="s.2.w.64 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4" repr="People are corrupting their ecosphere" spans="471|508" Claim="" Stance="For" link.supports="ann4 ann6 ann5"/>
+    <annotation id="ann3" words="s.2.w.64 s.3.w.0 s.3.w.1 s.3.w.2 s.3.w.3 s.3.w.4" repr="People are corrupting their ecosphere" spans="471|508" Claim="" Stance="For" link.supports="ann4 ann6 ann5"/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann4" words="s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21" repr="In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies" spans="510|622" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann5" words="s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38 s.3.w.39 s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45" repr="These wastes including household waste and industrial waste are so big that a &quot;new&quot; continent is now being formed in the sea from garbage" spans="624|761" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann6" words="s.3.w.46 s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67" repr="the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change" spans="776|918" Premise=""/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann7" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7" repr="people are draining the Earth's natural resources" spans="929|978" Claim="" Stance="For" link.supports="ann9 ann11 ann10"/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann8" words="s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18" repr="These resources such as oil, coal are vital for human activity" spans="980|1042" Premise=""/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann9" words="s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33 s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37" repr="nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people" spans="1054|1178" Premise="" link.supports="ann8"/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann10" words="s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58" repr="Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted" spans="1180|1334" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann11" words="s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64 s.4.w.65 s.4.w.66 s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74" repr="At that time, human activity will be seriously affected due to the dependence on these resources" spans="1336|1432" Premise=""/>
+    <annotation id="ann12" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5" repr="people are endangering other species' live" spans="1440|1482" Claim="" Stance="For" link.supports="ann13 ann16 ann14"/>
+    <annotation id="ann12" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5" repr="people are endangering other species' live" spans="1440|1482" Claim="" Stance="For" link.supports="ann13 ann16 ann14"/>
+    <annotation id="ann12" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5" repr="people are endangering other species' live" spans="1440|1482" Claim="" Stance="For" link.supports="ann13 ann16 ann14"/>
+    <annotation id="ann12" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5" repr="people are endangering other species' live" spans="1440|1482" Claim="" Stance="For" link.supports="ann13 ann16 ann14"/>
+    <annotation id="ann12" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5" repr="people are endangering other species' live" spans="1440|1482" Claim="" Stance="For" link.supports="ann13 ann16 ann14"/>
+    <annotation id="ann12" words="s.5.w.0 s.5.w.1 s.5.w.2 s.5.w.3 s.5.w.4 s.5.w.5" repr="people are endangering other species' live" spans="1440|1482" Claim="" Stance="For" link.supports="ann13 ann16 ann14"/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann13" words="s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16" repr="Hunting has been a fundamental activity of human for having food" spans="1484|1548" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann14" words="s.5.w.17 s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36 s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48" repr="Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct" spans="1550|1742" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann15" words="s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56 s.5.w.57 s.5.w.58 s.5.w.59" repr="people, suffering from the population pressure, are expanding their living area" spans="1754|1833" Premise=""/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann16" words="s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68" repr="the living area of other species narrowed" spans="1849|1890" Premise="" link.supports="ann17 ann15"/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann17" words="s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73 s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82" repr="This narrowing of living region is pushing many creatures to the brink of extinction" spans="1892|1976" Premise=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann18" words="s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="human activity are gradually destroy the Earth" spans="2035|2081" MajorClaim=""/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+    <annotation id="ann19" words="s.6.w.17 s.6.w.18 s.6.w.19 s.6.w.20 s.6.w.21 s.6.w.22 s.6.w.23 s.6.w.24 s.6.w.25 s.6.w.26 s.6.w.27 s.6.w.28 s.6.w.29 s.6.w.30" repr="it is polluting the Earth environment, depleting the resource and imperiling other species' lives" spans="2088|2185" Claim="" Stance="For"/>
+  </annotations>
+</document>

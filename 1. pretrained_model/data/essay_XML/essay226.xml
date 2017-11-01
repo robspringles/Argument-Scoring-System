@@ -1,0 +1,704 @@
+<document source="essay226">
+  <sentences>
+    <sentence end="22" id="s.0" start="0">
+      <word end="7" id="s.0.w.0" start="0">Success</word>
+      <word end="11" id="s.0.w.1" start="8">and</word>
+      <word end="21" id="s.0.w.2" start="12">knowledge</word>
+    </sentence>
+    <sentence end="24" id="s.1" start="23"/>
+    <sentence end="349" id="s.2" start="25">
+      <word end="29" id="s.2.w.0" start="25">Many</word>
+      <word end="36" id="s.2.w.1" start="30">people</word>
+      <word end="42" id="s.2.w.2" start="37">think</word>
+      <word end="47" id="s.2.w.3" start="43">that</word>
+      <word end="53" id="s.2.w.4" start="48">"Past</word>
+      <word end="57" id="s.2.w.5" start="54">has</word>
+      <word end="65" id="s.2.w.6" start="58">nothing</word>
+      <word end="68" id="s.2.w.7" start="66">to</word>
+      <word end="71" id="s.2.w.8" start="69">do</word>
+      <word end="76" id="s.2.w.9" start="72">with</word>
+      <word end="85" id="s.2.w.10" start="77">present,</word>
+      <word end="88" id="s.2.w.11" start="86">as</word>
+      <word end="93" id="s.2.w.12" start="89">time</word>
+      <word end="99" id="s.2.w.13" start="94">never</word>
+      <word end="106" id="s.2.w.14" start="100">stops,</word>
+      <word end="110" id="s.2.w.15" start="107">the</word>
+      <word end="115" id="s.2.w.16" start="111">next</word>
+      <word end="127" id="s.2.w.17" start="116">generations</word>
+      <word end="131" id="s.2.w.18" start="128">are</word>
+      <word end="142" id="s.2.w.19" start="132">completely</word>
+      <word end="152" id="s.2.w.20" start="143">different</word>
+      <word end="157" id="s.2.w.21" start="153">from</word>
+      <word end="161" id="s.2.w.22" start="158">the</word>
+      <word end="176" id="s.2.w.23" start="162">predecessors".</word>
+      <word end="185" id="s.2.w.24" start="177">Although</word>
+      <word end="188" id="s.2.w.25" start="186">it</word>
+      <word end="191" id="s.2.w.26" start="189">is</word>
+      <word end="196" id="s.2.w.27" start="192">true</word>
+      <word end="201" id="s.2.w.28" start="197">that</word>
+      <word end="206" id="s.2.w.29" start="202">life</word>
+      <word end="214" id="s.2.w.30" start="207">changes</word>
+      <word end="223" id="s.2.w.31" start="215">rapidly,</word>
+      <word end="229" id="s.2.w.32" start="224">there</word>
+      <word end="233" id="s.2.w.33" start="230">are</word>
+      <word end="238" id="s.2.w.34" start="234">many</word>
+      <word end="245" id="s.2.w.35" start="239">things</word>
+      <word end="248" id="s.2.w.36" start="246">in</word>
+      <word end="252" id="s.2.w.37" start="249">the</word>
+      <word end="257" id="s.2.w.38" start="253">past</word>
+      <word end="262" id="s.2.w.39" start="258">that</word>
+      <word end="265" id="s.2.w.40" start="263">we</word>
+      <word end="269" id="s.2.w.41" start="266">can</word>
+      <word end="275" id="s.2.w.42" start="270">learn</word>
+      <word end="282" id="s.2.w.43" start="276">about,</word>
+      <word end="287" id="s.2.w.44" start="283">such</word>
+      <word end="290" id="s.2.w.45" start="288">as</word>
+      <word end="300" id="s.2.w.46" start="291">mistakes,</word>
+      <word end="308" id="s.2.w.47" start="301">success</word>
+      <word end="312" id="s.2.w.48" start="309">and</word>
+      <word end="322" id="s.2.w.49" start="313">knowledge</word>
+      <word end="325" id="s.2.w.50" start="323">in</word>
+      <word end="330" id="s.2.w.51" start="326">many</word>
+      <word end="337" id="s.2.w.52" start="331">fields</word>
+      <word end="340" id="s.2.w.53" start="338">of</word>
+      <word end="347" id="s.2.w.54" start="341">study.</word>
+    </sentence>
+    <sentence end="888" id="s.3" start="350">
+      <word end="355" id="s.3.w.0" start="350">First</word>
+      <word end="358" id="s.3.w.1" start="356">of</word>
+      <word end="363" id="s.3.w.2" start="359">all,</word>
+      <word end="367" id="s.3.w.3" start="364">the</word>
+      <word end="381" id="s.3.w.4" start="368">predecessors'</word>
+      <word end="390" id="s.3.w.5" start="382">mistakes</word>
+      <word end="394" id="s.3.w.6" start="391">are</word>
+      <word end="398" id="s.3.w.7" start="395">the</word>
+      <word end="404" id="s.3.w.8" start="399">first</word>
+      <word end="410" id="s.3.w.9" start="405">thing</word>
+      <word end="415" id="s.3.w.10" start="411">that</word>
+      <word end="418" id="s.3.w.11" start="416">we</word>
+      <word end="425" id="s.3.w.12" start="419">should</word>
+      <word end="434" id="s.3.w.13" start="426">consider</word>
+      <word end="439" id="s.3.w.14" start="435">when</word>
+      <word end="448" id="s.3.w.15" start="440">learning</word>
+      <word end="454" id="s.3.w.16" start="449">about</word>
+      <word end="458" id="s.3.w.17" start="455">the</word>
+      <word end="464" id="s.3.w.18" start="459">past.</word>
+      <word end="467" id="s.3.w.19" start="465">As</word>
+      <word end="478" id="s.3.w.20" start="468">everyone's</word>
+      <word end="483" id="s.3.w.21" start="479">life</word>
+      <word end="486" id="s.3.w.22" start="484">is</word>
+      <word end="490" id="s.3.w.23" start="487">too</word>
+      <word end="496" id="s.3.w.24" start="491">short</word>
+      <word end="499" id="s.3.w.25" start="497">to</word>
+      <word end="504" id="s.3.w.26" start="500">risk</word>
+      <word end="511" id="s.3.w.27" start="505">trying</word>
+      <word end="520" id="s.3.w.28" start="512">anything</word>
+      <word end="528" id="s.3.w.29" start="521">without</word>
+      <word end="532" id="s.3.w.30" start="529">any</word>
+      <word end="541" id="s.3.w.31" start="533">prepare,</word>
+      <word end="544" id="s.3.w.32" start="542">we</word>
+      <word end="548" id="s.3.w.33" start="545">all</word>
+      <word end="555" id="s.3.w.34" start="549">should</word>
+      <word end="561" id="s.3.w.35" start="556">learn</word>
+      <word end="567" id="s.3.w.36" start="562">about</word>
+      <word end="575" id="s.3.w.37" start="568">other's</word>
+      <word end="584" id="s.3.w.38" start="576">mistakes</word>
+      <word end="587" id="s.3.w.39" start="585">so</word>
+      <word end="592" id="s.3.w.40" start="588">that</word>
+      <word end="595" id="s.3.w.41" start="593">we</word>
+      <word end="599" id="s.3.w.42" start="596">can</word>
+      <word end="605" id="s.3.w.43" start="600">avoid</word>
+      <word end="612" id="s.3.w.44" start="606">making</word>
+      <word end="616" id="s.3.w.45" start="613">the</word>
+      <word end="621" id="s.3.w.46" start="617">same</word>
+      <word end="627" id="s.3.w.47" start="622">ones.</word>
+      <word end="632" id="s.3.w.48" start="628">Each</word>
+      <word end="641" id="s.3.w.49" start="633">mistake,</word>
+      <word end="646" id="s.3.w.50" start="642">from</word>
+      <word end="650" id="s.3.w.51" start="647">the</word>
+      <word end="659" id="s.3.w.52" start="651">smallest</word>
+      <word end="662" id="s.3.w.53" start="660">to</word>
+      <word end="666" id="s.3.w.54" start="663">the</word>
+      <word end="673" id="s.3.w.55" start="667">bigger</word>
+      <word end="678" id="s.3.w.56" start="674">one,</word>
+      <word end="681" id="s.3.w.57" start="679">is</word>
+      <word end="683" id="s.3.w.58" start="682">a</word>
+      <word end="692" id="s.3.w.59" start="684">treasure</word>
+      <word end="695" id="s.3.w.60" start="693">of</word>
+      <word end="707" id="s.3.w.61" start="696">experience,</word>
+      <word end="714" id="s.3.w.62" start="708">which,</word>
+      <word end="717" id="s.3.w.63" start="715">if</word>
+      <word end="720" id="s.3.w.64" start="718">we</word>
+      <word end="724" id="s.3.w.65" start="721">can</word>
+      <word end="729" id="s.3.w.66" start="725">make</word>
+      <word end="734" id="s.3.w.67" start="730">full</word>
+      <word end="738" id="s.3.w.68" start="735">use</word>
+      <word end="742" id="s.3.w.69" start="739">of,</word>
+      <word end="747" id="s.3.w.70" start="743">will</word>
+      <word end="752" id="s.3.w.71" start="748">make</word>
+      <word end="755" id="s.3.w.72" start="753">us</word>
+      <word end="769" id="s.3.w.73" start="756">well-prepared</word>
+      <word end="773" id="s.3.w.74" start="770">for</word>
+      <word end="778" id="s.3.w.75" start="774">many</word>
+      <word end="790" id="s.3.w.76" start="779">complicated</word>
+      <word end="801" id="s.3.w.77" start="791">situations</word>
+      <word end="804" id="s.3.w.78" start="802">of</word>
+      <word end="808" id="s.3.w.79" start="805">our</word>
+      <word end="814" id="s.3.w.80" start="809">life.</word>
+      <word end="825" id="s.3.w.81" start="815">Therefore,</word>
+      <word end="830" id="s.3.w.82" start="826">past</word>
+      <word end="840" id="s.3.w.83" start="831">obviously</word>
+      <word end="846" id="s.3.w.84" start="841">saves</word>
+      <word end="856" id="s.3.w.85" start="847">ourselves</word>
+      <word end="858" id="s.3.w.86" start="857">a</word>
+      <word end="864" id="s.3.w.87" start="859">bunch</word>
+      <word end="867" id="s.3.w.88" start="865">of</word>
+      <word end="876" id="s.3.w.89" start="868">failures</word>
+      <word end="880" id="s.3.w.90" start="877">and</word>
+      <word end="887" id="s.3.w.91" start="881">times.</word>
+    </sentence>
+    <sentence end="1432" id="s.4" start="889">
+      <word end="898" id="s.4.w.0" start="889">Secondly,</word>
+      <word end="907" id="s.4.w.1" start="899">people's</word>
+      <word end="915" id="s.4.w.2" start="908">success</word>
+      <word end="918" id="s.4.w.3" start="916">in</word>
+      <word end="922" id="s.4.w.4" start="919">the</word>
+      <word end="927" id="s.4.w.5" start="923">past</word>
+      <word end="930" id="s.4.w.6" start="928">is</word>
+      <word end="933" id="s.4.w.7" start="931">as</word>
+      <word end="945" id="s.4.w.8" start="934">significant</word>
+      <word end="948" id="s.4.w.9" start="946">as</word>
+      <word end="954" id="s.4.w.10" start="949">those</word>
+      <word end="964" id="s.4.w.11" start="955">mistakes.</word>
+      <word end="967" id="s.4.w.12" start="965">If</word>
+      <word end="971" id="s.4.w.13" start="968">the</word>
+      <word end="985" id="s.4.w.14" start="972">predecessors'</word>
+      <word end="994" id="s.4.w.15" start="986">mistakes</word>
+      <word end="998" id="s.4.w.16" start="995">are</word>
+      <word end="1002" id="s.4.w.17" start="999">the</word>
+      <word end="1011" id="s.4.w.18" start="1003">indirect</word>
+      <word end="1015" id="s.4.w.19" start="1012">way</word>
+      <word end="1020" id="s.4.w.20" start="1016">that</word>
+      <word end="1026" id="s.4.w.21" start="1021">leads</word>
+      <word end="1029" id="s.4.w.22" start="1027">us</word>
+      <word end="1032" id="s.4.w.23" start="1030">to</word>
+      <word end="1036" id="s.4.w.24" start="1033">the</word>
+      <word end="1043" id="s.4.w.25" start="1037">goals,</word>
+      <word end="1051" id="s.4.w.26" start="1044">others'</word>
+      <word end="1066" id="s.4.w.27" start="1052">accomplishment</word>
+      <word end="1070" id="s.4.w.28" start="1067">can</word>
+      <word end="1073" id="s.4.w.29" start="1071">be</word>
+      <word end="1080" id="s.4.w.30" start="1074">served</word>
+      <word end="1083" id="s.4.w.31" start="1081">as</word>
+      <word end="1087" id="s.4.w.32" start="1084">the</word>
+      <word end="1094" id="s.4.w.33" start="1088">direct</word>
+      <word end="1099" id="s.4.w.34" start="1095">way.</word>
+      <word end="1102" id="s.4.w.35" start="1100">By</word>
+      <word end="1110" id="s.4.w.36" start="1103">looking</word>
+      <word end="1115" id="s.4.w.37" start="1111">into</word>
+      <word end="1119" id="s.4.w.38" start="1116">the</word>
+      <word end="1124" id="s.4.w.39" start="1120">ways</word>
+      <word end="1130" id="s.4.w.40" start="1125">other</word>
+      <word end="1137" id="s.4.w.41" start="1131">people</word>
+      <word end="1141" id="s.4.w.42" start="1138">use</word>
+      <word end="1144" id="s.4.w.43" start="1142">to</word>
+      <word end="1152" id="s.4.w.44" start="1145">achieve</word>
+      <word end="1158" id="s.4.w.45" start="1153">their</word>
+      <word end="1167" id="s.4.w.46" start="1159">targets,</word>
+      <word end="1170" id="s.4.w.47" start="1168">we</word>
+      <word end="1175" id="s.4.w.48" start="1171">have</word>
+      <word end="1179" id="s.4.w.49" start="1176">the</word>
+      <word end="1186" id="s.4.w.50" start="1180">chance</word>
+      <word end="1189" id="s.4.w.51" start="1187">to</word>
+      <word end="1194" id="s.4.w.52" start="1190">make</word>
+      <word end="1200" id="s.4.w.53" start="1195">those</word>
+      <word end="1206" id="s.4.w.54" start="1201">mine,</word>
+      <word end="1210" id="s.4.w.55" start="1207">put</word>
+      <word end="1215" id="s.4.w.56" start="1211">them</word>
+      <word end="1220" id="s.4.w.57" start="1216">into</word>
+      <word end="1229" id="s.4.w.58" start="1221">practice</word>
+      <word end="1234" id="s.4.w.59" start="1230">and,</word>
+      <word end="1237" id="s.4.w.60" start="1235">of</word>
+      <word end="1245" id="s.4.w.61" start="1238">course,</word>
+      <word end="1248" id="s.4.w.62" start="1246">be</word>
+      <word end="1259" id="s.4.w.63" start="1249">successful</word>
+      <word end="1264" id="s.4.w.64" start="1260">like</word>
+      <word end="1270" id="s.4.w.65" start="1265">them.</word>
+      <word end="1274" id="s.4.w.66" start="1271">For</word>
+      <word end="1284" id="s.4.w.67" start="1275">instance,</word>
+      <word end="1293" id="s.4.w.68" start="1285">Edison's</word>
+      <word end="1303" id="s.4.w.69" start="1294">statement</word>
+      <word end="1311" id="s.4.w.70" start="1304">"Genius</word>
+      <word end="1314" id="s.4.w.71" start="1312">is</word>
+      <word end="1316" id="s.4.w.72" start="1315">1</word>
+      <word end="1324" id="s.4.w.73" start="1317">percent</word>
+      <word end="1336" id="s.4.w.74" start="1325">inspiration</word>
+      <word end="1340" id="s.4.w.75" start="1337">and</word>
+      <word end="1343" id="s.4.w.76" start="1341">99</word>
+      <word end="1351" id="s.4.w.77" start="1344">percent</word>
+      <word end="1365" id="s.4.w.78" start="1352">perspiration"</word>
+      <word end="1368" id="s.4.w.79" start="1366">is</word>
+      <word end="1374" id="s.4.w.80" start="1369">still</word>
+      <word end="1382" id="s.4.w.81" start="1375">helpful</word>
+      <word end="1386" id="s.4.w.82" start="1383">for</word>
+      <word end="1395" id="s.4.w.83" start="1387">everyone</word>
+      <word end="1402" id="s.4.w.84" start="1396">today,</word>
+      <word end="1406" id="s.4.w.85" start="1403">and</word>
+      <word end="1415" id="s.4.w.86" start="1407">probably</word>
+      <word end="1418" id="s.4.w.87" start="1416">in</word>
+      <word end="1422" id="s.4.w.88" start="1419">the</word>
+      <word end="1430" id="s.4.w.89" start="1423">future.</word>
+    </sentence>
+    <sentence end="1961" id="s.5" start="1433">
+      <word end="1437" id="s.5.w.0" start="1433">Last</word>
+      <word end="1441" id="s.5.w.1" start="1438">but</word>
+      <word end="1445" id="s.5.w.2" start="1442">not</word>
+      <word end="1452" id="s.5.w.3" start="1446">least,</word>
+      <word end="1456" id="s.5.w.4" start="1453">the</word>
+      <word end="1461" id="s.5.w.5" start="1457">past</word>
+      <word end="1464" id="s.5.w.6" start="1462">is</word>
+      <word end="1468" id="s.5.w.7" start="1465">the</word>
+      <word end="1474" id="s.5.w.8" start="1469">basis</word>
+      <word end="1477" id="s.5.w.9" start="1475">in</word>
+      <word end="1483" id="s.5.w.10" start="1478">which</word>
+      <word end="1490" id="s.5.w.11" start="1484">people</word>
+      <word end="1494" id="s.5.w.12" start="1491">can</word>
+      <word end="1498" id="s.5.w.13" start="1495">use</word>
+      <word end="1501" id="s.5.w.14" start="1499">to</word>
+      <word end="1510" id="s.5.w.15" start="1502">develope</word>
+      <word end="1514" id="s.5.w.16" start="1511">new</word>
+      <word end="1525" id="s.5.w.17" start="1515">knowledge,</word>
+      <word end="1537" id="s.5.w.18" start="1526">inventions.</word>
+      <word end="1540" id="s.5.w.19" start="1538">If</word>
+      <word end="1543" id="s.5.w.20" start="1541">it</word>
+      <word end="1547" id="s.5.w.21" start="1544">had</word>
+      <word end="1551" id="s.5.w.22" start="1548">not</word>
+      <word end="1556" id="s.5.w.23" start="1552">been</word>
+      <word end="1560" id="s.5.w.24" start="1557">for</word>
+      <word end="1566" id="s.5.w.25" start="1561">those</word>
+      <word end="1576" id="s.5.w.26" start="1567">knowledge</word>
+      <word end="1579" id="s.5.w.27" start="1577">in</word>
+      <word end="1583" id="s.5.w.28" start="1580">the</word>
+      <word end="1589" id="s.5.w.29" start="1584">past,</word>
+      <word end="1592" id="s.5.w.30" start="1590">we</word>
+      <word end="1598" id="s.5.w.31" start="1593">could</word>
+      <word end="1604" id="s.5.w.32" start="1599">never</word>
+      <word end="1607" id="s.5.w.33" start="1605">be</word>
+      <word end="1610" id="s.5.w.34" start="1608">as</word>
+      <word end="1617" id="s.5.w.35" start="1611">modern</word>
+      <word end="1620" id="s.5.w.36" start="1618">as</word>
+      <word end="1627" id="s.5.w.37" start="1621">today.</word>
+      <word end="1631" id="s.5.w.38" start="1628">How</word>
+      <word end="1635" id="s.5.w.39" start="1632">can</word>
+      <word end="1643" id="s.5.w.40" start="1636">America</word>
+      <word end="1646" id="s.5.w.41" start="1644">be</word>
+      <word end="1650" id="s.5.w.42" start="1647">the</word>
+      <word end="1658" id="s.5.w.43" start="1651">world's</word>
+      <word end="1666" id="s.5.w.44" start="1659">leading</word>
+      <word end="1674" id="s.5.w.45" start="1667">country</word>
+      <word end="1677" id="s.5.w.46" start="1675">if</word>
+      <word end="1686" id="s.5.w.47" start="1678">Columbus</word>
+      <word end="1690" id="s.5.w.48" start="1687">did</word>
+      <word end="1694" id="s.5.w.49" start="1691">not</word>
+      <word end="1707" id="s.5.w.50" start="1695">accidentally</word>
+      <word end="1716" id="s.5.w.51" start="1708">discover</word>
+      <word end="1719" id="s.5.w.52" start="1717">it</word>
+      <word end="1722" id="s.5.w.53" start="1720">in</word>
+      <word end="1726" id="s.5.w.54" start="1723">his</word>
+      <word end="1733" id="s.5.w.55" start="1727">search</word>
+      <word end="1737" id="s.5.w.56" start="1734">for</word>
+      <word end="1744" id="s.5.w.57" start="1738">India.</word>
+      <word end="1748" id="s.5.w.58" start="1745">How</word>
+      <word end="1752" id="s.5.w.59" start="1749">can</word>
+      <word end="1756" id="s.5.w.60" start="1753">the</word>
+      <word end="1769" id="s.5.w.61" start="1757">comtemporary</word>
+      <word end="1780" id="s.5.w.62" start="1770">scientists</word>
+      <word end="1786" id="s.5.w.63" start="1781">study</word>
+      <word end="1790" id="s.5.w.64" start="1787">the</word>
+      <word end="1798" id="s.5.w.65" start="1791">earth's</word>
+      <word end="1806" id="s.5.w.66" start="1799">gravity</word>
+      <word end="1814" id="s.5.w.67" start="1807">without</word>
+      <word end="1818" id="s.5.w.68" start="1815">the</word>
+      <word end="1824" id="s.5.w.69" start="1819">apple</word>
+      <word end="1830" id="s.5.w.70" start="1825">which</word>
+      <word end="1835" id="s.5.w.71" start="1831">fall</word>
+      <word end="1838" id="s.5.w.72" start="1836">on</word>
+      <word end="1847" id="s.5.w.73" start="1839">Newton's</word>
+      <word end="1853" id="s.5.w.74" start="1848">head.</word>
+      <word end="1858" id="s.5.w.75" start="1854">They</word>
+      <word end="1862" id="s.5.w.76" start="1859">are</word>
+      <word end="1867" id="s.5.w.77" start="1863">only</word>
+      <word end="1872" id="s.5.w.78" start="1868">some</word>
+      <word end="1875" id="s.5.w.79" start="1873">of</word>
+      <word end="1880" id="s.5.w.80" start="1876">many</word>
+      <word end="1889" id="s.5.w.81" start="1881">precious</word>
+      <word end="1899" id="s.5.w.82" start="1890">knowledge</word>
+      <word end="1904" id="s.5.w.83" start="1900">that</word>
+      <word end="1908" id="s.5.w.84" start="1905">the</word>
+      <word end="1913" id="s.5.w.85" start="1909">past</word>
+      <word end="1922" id="s.5.w.86" start="1914">presents</word>
+      <word end="1926" id="s.5.w.87" start="1923">us.</word>
+      <word end="1929" id="s.5.w.88" start="1927">We</word>
+      <word end="1936" id="s.5.w.89" start="1930">cannot</word>
+      <word end="1943" id="s.5.w.90" start="1937">ignore</word>
+      <word end="1948" id="s.5.w.91" start="1944">them</word>
+      <word end="1951" id="s.5.w.92" start="1949">in</word>
+      <word end="1955" id="s.5.w.93" start="1952">any</word>
+      <word end="1960" id="s.5.w.94" start="1956">way.</word>
+    </sentence>
+    <sentence end="2160" id="s.6" start="1962">
+      <word end="1965" id="s.6.w.0" start="1962">All</word>
+      <word end="1968" id="s.6.w.1" start="1966">in</word>
+      <word end="1973" id="s.6.w.2" start="1969">all,</word>
+      <word end="1977" id="s.6.w.3" start="1974">the</word>
+      <word end="1984" id="s.6.w.4" start="1978">past's</word>
+      <word end="1994" id="s.6.w.5" start="1985">mistakes,</word>
+      <word end="2002" id="s.6.w.6" start="1995">success</word>
+      <word end="2006" id="s.6.w.7" start="2003">and</word>
+      <word end="2016" id="s.6.w.8" start="2007">knowledge</word>
+      <word end="2020" id="s.6.w.9" start="2017">all</word>
+      <word end="2025" id="s.6.w.10" start="2021">have</word>
+      <word end="2033" id="s.6.w.11" start="2026">crucial</word>
+      <word end="2040" id="s.6.w.12" start="2034">impact</word>
+      <word end="2043" id="s.6.w.13" start="2041">on</word>
+      <word end="2052" id="s.6.w.14" start="2044">people's</word>
+      <word end="2058" id="s.6.w.15" start="2053">lives</word>
+      <word end="2065" id="s.6.w.16" start="2059">today.</word>
+      <word end="2068" id="s.6.w.17" start="2066">We</word>
+      <word end="2075" id="s.6.w.18" start="2069">should</word>
+      <word end="2080" id="s.6.w.19" start="2076">make</word>
+      <word end="2085" id="s.6.w.20" start="2081">full</word>
+      <word end="2089" id="s.6.w.21" start="2086">use</word>
+      <word end="2092" id="s.6.w.22" start="2090">of</word>
+      <word end="2096" id="s.6.w.23" start="2093">the</word>
+      <word end="2102" id="s.6.w.24" start="2097">past,</word>
+      <word end="2110" id="s.6.w.25" start="2103">instead</word>
+      <word end="2113" id="s.6.w.26" start="2111">of</word>
+      <word end="2122" id="s.6.w.27" start="2114">ignoring</word>
+      <word end="2126" id="s.6.w.28" start="2123">it,</word>
+      <word end="2130" id="s.6.w.29" start="2127">for</word>
+      <word end="2132" id="s.6.w.30" start="2131">a</word>
+      <word end="2139" id="s.6.w.31" start="2133">better</word>
+      <word end="2143" id="s.6.w.32" start="2140">and</word>
+      <word end="2152" id="s.6.w.33" start="2144">brighter</word>
+      <word end="2160" id="s.6.w.34" start="2153">future.</word>
+    </sentence>
+  </sentences>
+  <annotations>
+    <annotation id="ann1" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31" repr="life changes rapidly" spans="200|220" Claim="" Stance="Against"/>
+    <annotation id="ann1" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31" repr="life changes rapidly" spans="200|220" Claim="" Stance="Against"/>
+    <annotation id="ann1" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31" repr="life changes rapidly" spans="200|220" Claim="" Stance="Against"/>
+    <annotation id="ann1" words="s.2.w.28 s.2.w.29 s.2.w.30 s.2.w.31" repr="life changes rapidly" spans="200|220" Claim="" Stance="Against"/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann2" words="s.2.w.31 s.2.w.32 s.2.w.33 s.2.w.34 s.2.w.35 s.2.w.36 s.2.w.37 s.2.w.38 s.2.w.39 s.2.w.40 s.2.w.41 s.2.w.42 s.2.w.43 s.2.w.44 s.2.w.45 s.2.w.46 s.2.w.47 s.2.w.48 s.2.w.49 s.2.w.50 s.2.w.51 s.2.w.52 s.2.w.53 s.2.w.54" repr="there are many things in the past that we can learn about, such as mistakes, success and knowledge in many fields of study" spans="222|344" MajorClaim=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann8" words="s.3.w.2 s.3.w.3 s.3.w.4 s.3.w.5 s.3.w.6 s.3.w.7 s.3.w.8 s.3.w.9 s.3.w.10 s.3.w.11 s.3.w.12 s.3.w.13 s.3.w.14 s.3.w.15 s.3.w.16 s.3.w.17 s.3.w.18" repr="the predecessors' mistakes are the first thing that we should consider when learning about the past" spans="361|460" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann5" words="s.3.w.18 s.3.w.19 s.3.w.20 s.3.w.21 s.3.w.22 s.3.w.23 s.3.w.24 s.3.w.25 s.3.w.26 s.3.w.27 s.3.w.28 s.3.w.29 s.3.w.30 s.3.w.31 s.3.w.32 s.3.w.33 s.3.w.34 s.3.w.35 s.3.w.36 s.3.w.37 s.3.w.38" repr="As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes" spans="462|581" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann6" words="s.3.w.40 s.3.w.41 s.3.w.42 s.3.w.43 s.3.w.44 s.3.w.45 s.3.w.46 s.3.w.47" repr="we can avoid making the same ones" spans="590|623" Premise="" link.supports="ann5"/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann7" words="s.3.w.47 s.3.w.48 s.3.w.49 s.3.w.50 s.3.w.51 s.3.w.52 s.3.w.53 s.3.w.54 s.3.w.55 s.3.w.56 s.3.w.57 s.3.w.58 s.3.w.59 s.3.w.60 s.3.w.61 s.3.w.62 s.3.w.63 s.3.w.64 s.3.w.65 s.3.w.66 s.3.w.67 s.3.w.68 s.3.w.69 s.3.w.70 s.3.w.71 s.3.w.72 s.3.w.73 s.3.w.74 s.3.w.75 s.3.w.76 s.3.w.77 s.3.w.78 s.3.w.79 s.3.w.80" repr="Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life" spans="625|810" Premise=""/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann4" words="s.3.w.81 s.3.w.82 s.3.w.83 s.3.w.84 s.3.w.85 s.3.w.86 s.3.w.87 s.3.w.88 s.3.w.89 s.3.w.90 s.3.w.91" repr="past obviously saves ourselves a bunch of failures and times" spans="823|883" Claim="" Stance="For" link.supports="ann8 ann6 ann7"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann10" words="s.4.w.0 s.4.w.1 s.4.w.2 s.4.w.3 s.4.w.4 s.4.w.5 s.4.w.6 s.4.w.7 s.4.w.8 s.4.w.9 s.4.w.10 s.4.w.11" repr="people's success in the past is as significant as those mistakes" spans="895|959" Claim="" Stance="For" link.supports="ann12 ann9 ann13"/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann11" words="s.4.w.11 s.4.w.12 s.4.w.13 s.4.w.14 s.4.w.15 s.4.w.16 s.4.w.17 s.4.w.18 s.4.w.19 s.4.w.20 s.4.w.21 s.4.w.22 s.4.w.23 s.4.w.24 s.4.w.25" repr="If the predecessors' mistakes are the indirect way that leads us to the goals" spans="961|1038" Premise=""/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann9" words="s.4.w.25 s.4.w.26 s.4.w.27 s.4.w.28 s.4.w.29 s.4.w.30 s.4.w.31 s.4.w.32 s.4.w.33" repr="others' accomplishment can be served as the direct way" spans="1040|1094" Premise="" link.supports="ann11"/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann12" words="s.4.w.34 s.4.w.35 s.4.w.36 s.4.w.37 s.4.w.38 s.4.w.39 s.4.w.40 s.4.w.41 s.4.w.42 s.4.w.43 s.4.w.44 s.4.w.45 s.4.w.46 s.4.w.47 s.4.w.48 s.4.w.49 s.4.w.50 s.4.w.51 s.4.w.52 s.4.w.53 s.4.w.54 s.4.w.55 s.4.w.56 s.4.w.57 s.4.w.58 s.4.w.59 s.4.w.60 s.4.w.61 s.4.w.62 s.4.w.63 s.4.w.64" repr="By looking into the ways other people use to achieve their targets, we have the chance to make those mine, put them into practice and, of course, be successful like them" spans="1096|1265" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann13" words="s.4.w.67 s.4.w.68 s.4.w.69 s.4.w.70 s.4.w.71 s.4.w.72 s.4.w.73 s.4.w.74 s.4.w.75 s.4.w.76 s.4.w.77 s.4.w.78 s.4.w.79 s.4.w.80 s.4.w.81 s.4.w.82 s.4.w.83 s.4.w.84 s.4.w.85 s.4.w.86 s.4.w.87 s.4.w.88 s.4.w.89" repr="Edison's statement &quot;Genius is 1 percent inspiration and 99 percent perspiration&quot; is still helpful for everyone today, and probably in the future" spans="1281|1425" Premise=""/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann14" words="s.5.w.3 s.5.w.4 s.5.w.5 s.5.w.6 s.5.w.7 s.5.w.8 s.5.w.9 s.5.w.10 s.5.w.11 s.5.w.12 s.5.w.13 s.5.w.14 s.5.w.15 s.5.w.16 s.5.w.17 s.5.w.18" repr="the past is the basis in which people can use to develope new knowledge, inventions" spans="1448|1531" Claim="" Stance="For" link.supports="ann17 ann16 ann19 ann18 ann15"/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann15" words="s.5.w.18 s.5.w.19 s.5.w.20 s.5.w.21 s.5.w.22 s.5.w.23 s.5.w.24 s.5.w.25 s.5.w.26 s.5.w.27 s.5.w.28 s.5.w.29 s.5.w.30 s.5.w.31 s.5.w.32 s.5.w.33 s.5.w.34 s.5.w.35 s.5.w.36" repr="If it had not been for those knowledge in the past, we could never be as modern as today" spans="1533|1621" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann16" words="s.5.w.37 s.5.w.38 s.5.w.39 s.5.w.40 s.5.w.41 s.5.w.42 s.5.w.43 s.5.w.44 s.5.w.45 s.5.w.46 s.5.w.47 s.5.w.48 s.5.w.49 s.5.w.50 s.5.w.51 s.5.w.52 s.5.w.53 s.5.w.54 s.5.w.55 s.5.w.56" repr="How can America be the world's leading country if Columbus did not accidentally discover it in his search for India" spans="1623|1738" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann17" words="s.5.w.57 s.5.w.58 s.5.w.59 s.5.w.60 s.5.w.61 s.5.w.62 s.5.w.63 s.5.w.64 s.5.w.65 s.5.w.66 s.5.w.67 s.5.w.68 s.5.w.69 s.5.w.70 s.5.w.71 s.5.w.72 s.5.w.73" repr="How can the comtemporary scientists study the earth's gravity without the apple which fall on Newton's head" spans="1740|1847" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann18" words="s.5.w.74 s.5.w.75 s.5.w.76 s.5.w.77 s.5.w.78 s.5.w.79 s.5.w.80 s.5.w.81 s.5.w.82 s.5.w.83 s.5.w.84 s.5.w.85 s.5.w.86" repr="They are only some of many precious knowledge that the past presents us" spans="1849|1920" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann19" words="s.5.w.87 s.5.w.88 s.5.w.89 s.5.w.90 s.5.w.91 s.5.w.92 s.5.w.93" repr="We cannot ignore them in any way" spans="1922|1954" Premise=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+    <annotation id="ann3" words="s.6.w.2 s.6.w.3 s.6.w.4 s.6.w.5 s.6.w.6 s.6.w.7 s.6.w.8 s.6.w.9 s.6.w.10 s.6.w.11 s.6.w.12 s.6.w.13 s.6.w.14 s.6.w.15" repr="the past's mistakes, success and knowledge all have crucial impact on people's lives today" spans="1968|2058" MajorClaim=""/>
+  </annotations>
+</document>
